@@ -1,0 +1,10 @@
+object: orig/4D53085B/halo3_tag_debug.xex
+symbols: config/4D53085B/symbols.txt
+splits: config/4D53085B/splits.txt
+#map: orig/4D53085B/halo3_tag_debug.map
+
+detect_objects: false
+detect_strings: false
+write_asm: false
+symbols_known: true
+fill_gaps: false

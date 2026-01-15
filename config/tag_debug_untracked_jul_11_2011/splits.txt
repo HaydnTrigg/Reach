@@ -2813,7 +2813,7 @@ corelib/event_handler.cpp:
 	.pdata      start:0x825415A0 end:0x825415B8
 	.text       start:0x82B0C6D8 end:0x82B0C948
 
-360tag_debug/zip.cpp:
+zlib/contrib/minizip/zip.cpp:
 	.rdata      start:0x820E5060 end:0x820E50A0
 	.pdata      start:0x825415B8 end:0x82541600
 	.text       start:0x82B0C948 end:0x82B0DF80
@@ -2827,13 +2827,13 @@ zlib/deflate.c:
 	.text       start:0x82B0DF80 end:0x82B11230
 	.text       start:0x84BE6E80 end:0x84BEC858
 
-360tag_debug/zutil.cpp:
+zlib/zutil.c:
 	.rdata      start:0x820E5550 end:0x820E5C18
 	.pdata      start:0x82541678 end:0x82541688
 	.text       start:0x82B11500 end:0x82B115B8
 	.data       start:0x8523D2C4 end:0x8523D34A
 
-360tag_debug/trees.cpp:
+zlib/trees.c:
 	.rdata      start:0x820E5C18 end:0x820E6008
 	.pdata      start:0x82541688 end:0x825416D0
 	.text       start:0x82B11958 end:0x82B15958
@@ -22561,7 +22561,7 @@ threadlib/test_job.cpp:
 	.data       start:0x85399A20 end:0x8539AB30
 	.data       start:0x86DC23B0 end:0x86DC3840 rename:.bss
 
-360tag_debug/inftrees.cpp:
+zlib/inftrees.c:
 	.rdata      start:0x825021C8 end:0x825023E8
 	.pdata      start:0x82607A98 end:0x82607AA8
 	.text       start:0x84C1F708 end:0x84C20558
@@ -23433,7 +23433,7 @@ zlib/crc32.c:
 	.rdata      start:0x820E5150 end:0x820E5550
 	.text       start:0x82B11230 end:0x82B11500
 
-360tag_debug/adler32.cpp:
+zlib/adler32.c:
 	.text       start:0x82B115B8 end:0x82B11958
 
 360tag_debug/object_deleted_procs.cpp:
@@ -25212,28 +25212,28 @@ threadlib/scheduler.cpp:
 	.pdata      start:0x826079E0 end:0x826079F0
 	.text       start:0x84C1AE40 end:0x84C1B1A0
 
-360tag_debug/compress.cpp:
+zlib/compress.cpp:
 	.pdata      start:0x826079F0 end:0x82607A08
 	.text       start:0x84C1B1A0 end:0x84C1B370
 
-360tag_debug/uncompr.cpp:
+zlib/uncompr.c:
 	.pdata      start:0x82607A08 end:0x82607A18
 	.text       start:0x84C1B370 end:0x84C1B500
 
-360tag_debug/infblock.cpp:
+zlib/infblock.c:
 	.pdata      start:0x82607A58 end:0x82607A80
 	.text       start:0x84C1C580 end:0x84C1E3A0
 
-360tag_debug/infcodes.cpp:
+zlib/infcodes.c:
 	.pdata      start:0x82607A80 end:0x82607A98
 	.text       start:0x84C1E3A0 end:0x84C1F708
 
-360tag_debug/infutil.cpp:
+zlib/infutil.c:
 	.pdata      start:0x82607AA8 end:0x82607AB0
 	.text       start:0x84C20558 end:0x84C20828
 	.data       start:0x8539AB30 end:0x8539AFE4
 
-360tag_debug/inffast.cpp:
+zlib/inffast.c:
 	.text       start:0x84C20828 end:0x84C21360
 
 360tag_debug/game_variant_macro_hell.cpp:

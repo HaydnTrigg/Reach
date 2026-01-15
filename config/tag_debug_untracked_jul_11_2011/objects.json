@@ -13,7 +13,21 @@
         "cflags": "zlib",
         "objects": {
             "zlib/deflate.c": "NonMatching",
-            "zlib/crc32.c": "NonMatching"
+            "zlib/crc32.c": "NonMatching",
+            "zlib/adler32.c": "NonMatching",
+            "zlib/compress.c": "NonMatching",
+            "zlib/crc32.c": "NonMatching",
+            "zlib/deflate.c": "NonMatching",
+            "zlib/infblock.c": "NonMatching",
+            "zlib/infcodes.c": "NonMatching",
+            "zlib/inffast.c": "NonMatching",
+            "zlib/inflate.c": "NonMatching",
+            "zlib/inftrees.c": "NonMatching",
+            "zlib/infutil.c": "NonMatching",
+            "zlib/trees.c": "NonMatching",
+            "zlib/uncompr.c": "NonMatching",
+            "zlib/zutil.c": "NonMatching",
+            "zlib/contrib/minizip/zip.cpp": "NonMatching"
         }
     }
 }

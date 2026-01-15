@@ -11,14 +11,16 @@
             "flags": [
                 "/nologo",
                 "/c",
-                "/O0"
+                "/Od"
             ]
         },
         "zlib": {
             "base": "base",
             "flags": [
                 "/IXDK\\9328\\include\\xbox",
-                "/DZ_PREFIX=1"
+                "/DZ_PREFIX=1",
+                "/DzlibVersion=blam_zlibVersion",
+                "/DzError=blam_zError"
             ]
         }
     }

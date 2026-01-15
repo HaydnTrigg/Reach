@@ -41,6 +41,10 @@ jobs:
       - name: Copy build
         run: xcopy /E /I /Y Reach-Build\orig orig
 
+      # Copy Reach-Build/XDK -> ./XDK
+      - name: Copy xdk
+        run: xcopy /E /I /Y Reach-Build\XDK XDK
+
       # Run configure.py
       - name: Configure
         run: python configure.py

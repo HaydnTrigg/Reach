@@ -13,6 +13,13 @@
                 "/c",
                 "/O0"
             ]
+        },
+        "zlib": {
+            "base": "base",
+            "flags": [
+                "/IXDK\\include\\xbox",
+                "/DZ_PREFIX=1"
+            ]
         }
     }
 }

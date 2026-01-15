@@ -8,3 +8,9 @@ detect_strings: false
 write_asm: false
 symbols_known: true
 fill_gaps: false
+
+block_relocations:
+# crc32_table
+- source: .rdata:0x820E5298
+- source: .rdata:0x820E52A8
+- source: .rdata:0x820E5490

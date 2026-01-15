@@ -6,5 +6,14 @@
         "objects": {
             "360tag_debug/hs_function.cpp": "NonMatching"
         }
+    },
+    "zlib": {
+        "progress_category": "lib",
+        "mw_version": "2.0.9328.0",
+        "cflags": "zlib",
+        "objects": {
+            "zlib/deflate.c": "NonMatching",
+            "zlib/crc32.c": "NonMatching"
+        }
     }
 }

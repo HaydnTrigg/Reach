@@ -2818,8 +2818,9 @@ corelib/event_handler.cpp:
 	.pdata      start:0x825415B8 end:0x82541600
 	.text       start:0x82B0C948 end:0x82B0DF80
 
-360tag_debug/deflate.cpp:
-	.rdata      start:0x820E50A0 end:0x820E5550
+zlib/deflate.c:
+	.rdata      start:0x820E50A0 end:0x820E50D8
+	.rdata      start:0x820E50D8 end:0x820E5150
 	.rdata      start:0x824F9038 end:0x824F9148
 	.pdata      start:0x82541600 end:0x82541678
 	.pdata      start:0x82606758 end:0x82606870
@@ -23428,7 +23429,8 @@ corelib/cseries_events.cpp:
 360tag_debug/voice_repeater.cpp:
 	.text       start:0x82B02240 end:0x82B02258
 
-360tag_debug/crc32.cpp:
+zlib/crc32.c:
+	.rdata      start:0x820E5150 end:0x820E5550
 	.text       start:0x82B11230 end:0x82B11500
 
 360tag_debug/adler32.cpp:

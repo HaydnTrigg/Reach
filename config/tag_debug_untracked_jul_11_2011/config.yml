@@ -1,0 +1,10 @@
+object: orig/tag_debug_untracked_jul_11_2011/halo3_tag_debug.xex
+symbols: config/tag_debug_untracked_jul_11_2011/symbols.txt
+splits: config/tag_debug_untracked_jul_11_2011/splits.txt
+#map: orig/tag_debug_untracked_jul_11_2011/halo3_tag_debug.map
+
+detect_objects: false
+detect_strings: false
+write_asm: false
+symbols_known: true
+fill_gaps: false

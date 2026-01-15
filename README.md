@@ -16,7 +16,7 @@ This repository does **not** contain any game assets or assembly whatsoever. An 
 
 Supported versions:
 
-- `4D53085B`: halo3_tag_debug.xex Jul 7th 2011
+- `tag_debug_untracked_jul_11_2011`: `reach halo3 tag debug xenon untracked Jul 11 2011 16:43:16`
 
 Dependencies
 ============

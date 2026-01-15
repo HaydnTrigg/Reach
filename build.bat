@@ -33,9 +33,9 @@ if errorlevel 1 goto :error
 
 echo === Splitting XEX ===
 
-if not exist "%BUILD_DIR%\4D53085B" mkdir "%BUILD_DIR%\4D53085B"
+if not exist "%BUILD_DIR%\tag_debug_untracked_jul_11_2011" mkdir "%BUILD_DIR%\tag_debug_untracked_jul_11_2011"
 
-"%TOOLS_DIR%\dtk.exe" xex split config\4D53085B\config.yml "%BUILD_DIR%\4D53085B"
+"%TOOLS_DIR%\dtk.exe" xex split config\tag_debug_untracked_jul_11_2011\config.yml "%BUILD_DIR%\tag_debug_untracked_jul_11_2011"
 if errorlevel 1 goto :error
 
 echo.

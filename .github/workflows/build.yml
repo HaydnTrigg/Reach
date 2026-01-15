@@ -11,9 +11,20 @@ jobs:
       fail-fast: false
       matrix:
         # Add game versions here
-        version: [4D53085B]
+        version: [tag_debug_untracked_jul_11_2011]
 
     steps:
+      - name: Download VC++ 2010 x86 Redistributable
+        shell: cmd
+        run: |
+          curl -L ^
+            "https://download.microsoft.com/download/1/6/5/165255e7-1014-4d0a-b094-b6a430a6bffc/vcredist_x86.exe" ^
+            -o vcredist_x86_2010.exe
+
+      - name: Install VC++ 2010 x86 Redistributable
+        shell: cmd
+        run: vcredist_x86_2010.exe /install /quiet /norestart
+
       # Clone the current repo
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,19 +37,8 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           path: Reach-Build
 
-      - name: Download VC++ 2010 x86 Redistributable
-        shell: cmd
-        run: |
-          curl -L ^
-            "https://download.microsoft.com/download/1/6/5/165255e7-1014-4d0a-b094-b6a430a6bffc/vcredist_x86.exe" ^
-            -o vcredist_x86_2010.exe
-
-      - name: Install VC++ 2010 x86 Redistributable
-        shell: cmd
-        run: vcredist_x86_2010.exe /install /quiet /norestart
-
       # Copy Reach-Build/orig -> ./orig
-      - name: Copy Files
+      - name: Copy build
         run: xcopy /E /I /Y Reach-Build\orig orig
 
       # Run configure.py

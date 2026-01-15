@@ -26,6 +26,17 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           path: Reach-Build
 
+      - name: Download VC++ 2010 x86 Redistributable
+        shell: cmd
+        run: |
+          curl -L ^
+            "https://download.microsoft.com/download/1/6/5/165255e7-1014-4d0a-b094-b6a430a6bffc/vcredist_x86.exe" ^
+            -o vcredist_x86_2010.exe
+
+      - name: Install VC++ 2010 x86 Redistributable
+        shell: cmd
+        run: vcredist_x86_2010.exe /install /quiet /norestart
+
       # Visual Studio 2010
       - name: Build
         run: choco install vsexpress2010

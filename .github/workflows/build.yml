@@ -1,0 +1,46 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # Add game versions here
+        version: [4D53085B]
+
+    steps:
+      # Clone the current repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Clone the secondary repo
+      - name: Checkout build
+        uses: actions/checkout@v3
+        with:
+          repository: ChimpsAtSea/Reach-Build
+          token: ${{ secrets.GH_PAT }}
+          path: Reach-Build
+
+      # Copy Reach-Build/orig -> ./orig
+      - name: Copy Files
+        run: xcopy /E /I /Y Reach-Build\orig orig
+
+      # Run configure.py
+      - name: Configure
+        run: python configure.py
+
+      # Run Ninja
+      - name: Build
+        run: ninja
+
+      # Upload progress report
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.version }}_report
+          path: build/${{ matrix.version }}/report.json

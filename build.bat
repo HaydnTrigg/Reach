@@ -5,8 +5,8 @@ set PYTHON=C:\Program Files\Python310\python.exe
 
 echo === Downloading tools ===
 
-rem "%PYTHON%" tools\download_tool.py dtk "%TOOLS_DIR%\dtk.exe" --tag v0.1.1
-rem if errorlevel 1 goto :error
+"%PYTHON%" tools\download_tool.py dtk "%TOOLS_DIR%\dtk.exe" --tag v1.6.2
+if errorlevel 1 goto :error
 
 "%PYTHON%" tools\download_tool.py objdiff-cli "%TOOLS_DIR%\objdiff-cli.exe" --tag v3.0.0-beta.12
 if errorlevel 1 goto :error

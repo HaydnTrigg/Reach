@@ -1,5 +1,7 @@
 {
     "progress_categories": {
+        "game": "Game Code",
+        "lib": "Third-Party Libraries",
         "sdk": "XDK Code"
     },
     "asflags": [],
@@ -8,7 +10,8 @@
         "base": {
             "flags": [
                 "/nologo",
-                "/c"
+                "/c",
+                "/O0"
             ]
         }
     }

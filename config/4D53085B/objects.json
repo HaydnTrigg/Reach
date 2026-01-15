@@ -1,3 +1,10 @@
 {
-
+    "reach": {
+        "progress_category": "game",
+        "mw_version": "X360/16.00.11886.00",
+        "cflags": "base",
+        "objects": {
+            "360tag_debug/hs_function.cpp": "NonMatching"
+        }
+    }
 }

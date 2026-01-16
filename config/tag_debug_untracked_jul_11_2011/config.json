@@ -20,15 +20,20 @@
     "cflags": {
         "base": {
             "flags": [
+                "/IXDK\\9328\\include\\xbox",
                 "/nologo",
                 "/c",
-                "/Od"
+                "/Od",
+                "/DWIN32",
+                "/D_DEBUG",
+                "/D_CONSOLE",
+                "/D_MBCS",
+                "/GF"
             ]
         },
         "zlib": {
             "base": "base",
             "flags": [
-                "/IXDK\\9328\\include\\xbox",
                 "/Isrc\\zlib",
                 "/DZ_PREFIX=1",
                 "/DzlibVersion=blam_zlibVersion",

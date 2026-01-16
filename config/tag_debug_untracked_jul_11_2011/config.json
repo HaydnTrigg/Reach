@@ -18,9 +18,11 @@
             "base": "base",
             "flags": [
                 "/IXDK\\9328\\include\\xbox",
+                "/Isrc\\zlib",
                 "/DZ_PREFIX=1",
                 "/DzlibVersion=blam_zlibVersion",
-                "/DzError=blam_zError"
+                "/DzError=blam_zError",
+                "/DDEF_MEM_LEVEL=8"
             ]
         }
     }

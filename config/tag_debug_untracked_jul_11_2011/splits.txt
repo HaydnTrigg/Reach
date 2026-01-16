@@ -2813,7 +2813,7 @@ corelib/event_handler.cpp:
 	.pdata      start:0x825415A0 end:0x825415B8
 	.text       start:0x82B0C6D8 end:0x82B0C948
 
-zlib/contrib/minizip/zip.cpp:
+zlib/contrib/minizip/zip.c:
 	.rdata      start:0x820E5060 end:0x820E50A0
 	.pdata      start:0x825415B8 end:0x82541600
 	.text       start:0x82B0C948 end:0x82B0DF80
@@ -22562,7 +22562,8 @@ threadlib/test_job.cpp:
 	.data       start:0x86DC23B0 end:0x86DC3840 rename:.bss
 
 zlib/inftrees.c:
-	.rdata      start:0x825021C8 end:0x825023E8
+	.rdata      start:0x825021C8 end:0x825021F8
+	.rdata      start:0x825021F8 end:0x825023E8
 	.pdata      start:0x82607A98 end:0x82607AA8
 	.text       start:0x84C1F708 end:0x84C20558
 

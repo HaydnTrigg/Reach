@@ -27,7 +27,7 @@
             "zlib/trees.c": "NonMatching",
             "zlib/uncompr.c": "NonMatching",
             "zlib/zutil.c": "NonMatching",
-            "zlib/contrib/minizip/zip.cpp": "NonMatching"
+            "zlib/contrib/minizip/zip.c": "NonMatching"
         }
     }
 }

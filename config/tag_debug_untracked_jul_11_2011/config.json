@@ -1,8 +1,13 @@
 {
     "progress_categories": {
         "game": "Game Code",
+        "baselib": "Base Library",
+        "corelib": "Core Library",
+        "blamlib": "Blam Library",
+        "threadlib": "Thread Library",
         "lib": "Third-Party Libraries",
-        "sdk": "XDK Code"
+        "havok": "Havok Physics",
+        "xdk": "XDK Code"
     },
     "asflags": [],
     "ldflags": [],

@@ -33,23 +33,23 @@ xbdm/xbdm.cpp:
 	.text       start:0x851877B0 end:0x85187820 rename:.xidata
 	.idata      start:0x86DD0028 end:0x86DD003C rename:.idata$2
 
-editor_render_stubs.cpp:
+root/editor_render_stubs.cpp:
 	.rdata      start:0x82000CFC end:0x82000D00
 	.text       start:0x82640000 end:0x82640020
 
-editor_stubs.cpp:
+root/editor_stubs.cpp:
 	.rdata      start:0x82000D00 end:0x82000D0C
 	.pdata      start:0x82523E00 end:0x82523E08
 	.text       start:0x82640020 end:0x82640168
 
-shell.cpp:
+root/shell.cpp:
 	.rdata      start:0x82000D0C end:0x82001678
 	.pdata      start:0x82523E08 end:0x82523F30
 	.pdata      start:0x8260D880 end:0x8260D8C0
 	.text       start:0x82640168 end:0x82641560
 	.text       start:0x84E84E50 end:0x84E85788 rename:.text$yc
 
-shell_xenon.cpp:
+root/shell_xenon.cpp:
 	.rdata      start:0x82001678 end:0x82001DD0
 	.pdata      start:0x82523F30 end:0x82524088
 	.pdata      start:0x8260D8C0 end:0x8260D8E8
@@ -59,7 +59,7 @@ shell_xenon.cpp:
 	.text       start:0x8517D2F0 end:0x8517D390 rename:.text$yd
 	.data       start:0x853A0080 end:0x853A12C8 rename:.bss
 
-headers.cpp:
+root/headers.cpp:
 	.rdata      start:0x82001DD0 end:0x820021A0
 	.rdata      start:0x82523AEC end:0x82523B40 rename:.xdata$x
 	.pdata      start:0x82524088 end:0x825240F8

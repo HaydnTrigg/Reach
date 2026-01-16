@@ -1,4 +1,16 @@
 {
+    "root": {
+        "progress_category": "root",
+        "xdk_path": "XDK/9328",
+        "cflags": "base",
+        "objects": {
+            "root/editor_render_stubs.cpp": "NonMatching",
+            "root/editor_stubs.cpp": "NonMatching",
+            "root/shell.cpp": "NonMatching",
+            "root/shell_xenon.cpp": "NonMatching",
+            "root/headers.cpp": "NonMatching"
+        }
+    },
     "ailib": {
         "progress_category": "ailib",
         "xdk_path": "XDK/9328",

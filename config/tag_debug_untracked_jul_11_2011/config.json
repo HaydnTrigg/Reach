@@ -1,5 +1,6 @@
 {
     "progress_categories": {
+        "root": "root",
         "ailib": "ailib",
         "eslib": "eslib",
         "corelib": "corelib",

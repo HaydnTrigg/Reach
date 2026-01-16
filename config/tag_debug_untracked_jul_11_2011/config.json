@@ -1,10 +1,15 @@
 {
     "progress_categories": {
-        "game": "Game Code",
-        "baselib": "Base Library",
-        "corelib": "Core Library",
-        "blamlib": "Blam Library",
-        "threadlib": "Thread Library",
+        "ailib": "ailib",
+        "eslib": "eslib",
+        "corelib": "corelib",
+        "baselib": "baselib",
+        "threadlib": "threadlib",
+        "blamlib": "blamlib",
+        "objectslib": "objectslib",
+        "graphicslib": "graphicslib",
+        "interfacelib": "interfacelib",
+        "networkinglib": "networkinglib",
         "lib": "Third-Party Libraries",
         "havok": "Havok Physics",
         "xdk": "XDK Code"

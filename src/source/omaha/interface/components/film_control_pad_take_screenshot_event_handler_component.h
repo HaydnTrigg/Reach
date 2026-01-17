@@ -1,0 +1,17 @@
+#ifndef __FILM_CONTROL_PAD_TAKE_SCREENSHOT_EVENT_HANDLER_COMPONENT_H__
+#define __FILM_CONTROL_PAD_TAKE_SCREENSHOT_EVENT_HANDLER_COMPONENT_H__
+#pragma once
+
+/* ---------- headers */
+
+/* ---------- constants */
+
+/* ---------- definitions */
+
+/* ---------- prototypes */
+
+/* ---------- globals */
+
+/* ---------- public code */
+
+#endif // __FILM_CONTROL_PAD_TAKE_SCREENSHOT_EVENT_HANDLER_COMPONENT_H__

@@ -33,23 +33,23 @@ xbdm/xbdm.cpp:
 	.text       start:0x851877B0 end:0x85187820 rename:.xidata
 	.idata      start:0x86DD0028 end:0x86DD003C rename:.idata$2
 
-root/editor_render_stubs.cpp:
+source/omaha/editor/editor_render_stubs.cpp:
 	.rdata      start:0x82000CFC end:0x82000D00
 	.text       start:0x82640000 end:0x82640020
 
-root/editor_stubs.cpp:
+source/omaha/editor/editor_stubs.cpp:
 	.rdata      start:0x82000D00 end:0x82000D0C
 	.pdata      start:0x82523E00 end:0x82523E08
 	.text       start:0x82640020 end:0x82640168
 
-root/shell.cpp:
+source/omaha/shell/shell.cpp:
 	.rdata      start:0x82000D0C end:0x82001678
 	.pdata      start:0x82523E08 end:0x82523F30
 	.pdata      start:0x8260D880 end:0x8260D8C0
 	.text       start:0x82640168 end:0x82641560
 	.text       start:0x84E84E50 end:0x84E85788 rename:.text$yc
 
-root/shell_xenon.cpp:
+source/omaha/shell/shell_xenon.cpp:
 	.rdata      start:0x82001678 end:0x82001DD0
 	.pdata      start:0x82523F30 end:0x82524088
 	.pdata      start:0x8260D8C0 end:0x8260D8E8

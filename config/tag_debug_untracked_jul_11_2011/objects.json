@@ -4,10 +4,10 @@
         "xdk_path": "XDK/9328",
         "cflags": "base",
         "objects": {
-            "root/editor_render_stubs.cpp": "NonMatching",
-            "root/editor_stubs.cpp": "NonMatching",
-            "root/shell.cpp": "NonMatching",
-            "root/shell_xenon.cpp": "NonMatching",
+            "source/omaha/editor/editor_render_stubs.cpp": "NonMatching",
+            "source/omaha/editor/editor_stubs.cpp": "NonMatching",
+            "source/omaha/shell/shell.cpp": "NonMatching",
+            "source/omaha/shell/shell_xenon.cpp": "NonMatching",
             "root/headers.cpp": "NonMatching"
         }
     },
@@ -933,7 +933,7 @@
         "objects": {
             "source/omaha/eslib/deflate.cpp": "NonMatching",
             "source/omaha/eslib/inflate.cpp": "NonMatching",
-            "eslib/stateSwitch.cpp": "NonMatching"
+            "source/omaha/eslib/stateswitch.cpp": "NonMatching"
         }
     },
     "graphicslib": {
@@ -991,7 +991,7 @@
             "source/omaha/rasterizer/rasterizer_loading_screen_definitions.cpp": "NonMatching",
             "graphicslib/rasterizer_loading_screen_resource_loader.cpp": "NonMatching",
             "source/omaha/rasterizer/rasterizer_loading_screen.cpp": "NonMatching",
-            "graphicslib/rasterizer_LUT_control.cpp": "NonMatching",
+            "source/omaha/rasterizer/rasterizer_lut_control.cpp": "NonMatching",
             "source/omaha/rasterizer/rasterizer_main.cpp": "NonMatching",
             "graphicslib/rasterizer_object_factory.cpp": "NonMatching",
             "source/omaha/rasterizer/rasterizer_occlusion_queries.cpp": "NonMatching",

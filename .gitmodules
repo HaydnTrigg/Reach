@@ -1,3 +1,6 @@
 [submodule "src/zlib"]
 	path = src/zlib
 	url = https://github.com/ChimpsAtSea/zlib.git
+[submodule "src/libjpeg/libjpeg"]
+	path = src/libjpeg/libjpeg
+	url = https://github.com/ChimpsAtSea/libjpeg.git

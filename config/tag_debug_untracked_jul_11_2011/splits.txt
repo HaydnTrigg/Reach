@@ -23233,20 +23233,20 @@ xonlined/profile.cpp:
 	.pdata      start:0x8260CEB8 end:0x8260CED0
 	.text       start:0x84CB4A40 end:0x84CB4C78
 
-libjpeg/jerror.cpp:
+libjpeg/libjpeg/jerror.c:
 	.rdata      start:0x8251412C end:0x82514460
 	.pdata      start:0x8260D068 end:0x8260D088
 	.text       start:0x84CB9F88 end:0x84CBA3B8
 
-libjpeg/jutils.cpp:
+libjpeg/libjpeg/jutils.c:
 	.rdata      start:0x82514460 end:0x825148B0
 	.pdata      start:0x8260D1F8 end:0x8260D210
 	.text       start:0x84CC1508 end:0x84CC16D8
 
-libjpeg/jaricom.cpp:
+libjpeg/libjpeg/jaricom.c:
 	.rdata      start:0x825148B0 end:0x82514A74
 
-libjpeg/jidctflt.cpp:
+libjpeg/libjpeg/jidctflt.c:
 	.rdata      start:0x82514A74 end:0x82514B38
 	.text       start:0x84CD1D70 end:0x84CD2688
 
@@ -25514,156 +25514,156 @@ hkpcollide/hkAabbTreeRaycastUtil.cpp:
 	.pdata      start:0x8260CB70 end:0x8260CDE0
 	.text       start:0x84CAAF18 end:0x84CB0920
 
-libjpeg/jdapimin.cpp:
+libjpeg/libjpeg/jdapimin.c:
 	.pdata      start:0x8260CED0 end:0x8260CF18
 	.text       start:0x84CB4C78 end:0x84CB57E8
 
-libjpeg/jdmaster.cpp:
+libjpeg/libjpeg/jdmaster.c:
 	.pdata      start:0x8260CF18 end:0x8260CF50
 	.text       start:0x84CB57E8 end:0x84CB6F38
 
-libjpeg/jcapimin.cpp:
+libjpeg/libjpeg/jcapimin.c:
 	.pdata      start:0x8260CF50 end:0x8260CF90
 	.text       start:0x84CB6F38 end:0x84CB77D8
 
-libjpeg/jdatadst.cpp:
+libjpeg/libjpeg/jdatadst.c:
 	.pdata      start:0x8260CF90 end:0x8260CFB0
 	.text       start:0x84CB77D8 end:0x84CB7A68
 
-libjpeg/jcapistd.cpp:
+libjpeg/libjpeg/jcapistd.c:
 	.pdata      start:0x8260CFB0 end:0x8260CFC8
 	.text       start:0x84CB7A68 end:0x84CB7EF0
 
-libjpeg/jdatasrc.cpp:
+libjpeg/libjpeg/jdatasrc.c:
 	.pdata      start:0x8260CFC8 end:0x8260CFE0
 	.text       start:0x84CB7EF0 end:0x84CB81D8
 
-libjpeg/jdapistd.cpp:
+libjpeg/libjpeg/jdapistd.c:
 	.pdata      start:0x8260CFE0 end:0x8260D010
 	.text       start:0x84CB81D8 end:0x84CB8A68
 
-libjpeg/jcparam.cpp:
+libjpeg/libjpeg/jcparam.c:
 	.pdata      start:0x8260D010 end:0x8260D068
 	.text       start:0x84CB8A68 end:0x84CB9F88
 
-libjpeg/jcomapi.cpp:
+libjpeg/libjpeg/jcomapi.c:
 	.pdata      start:0x8260D088 end:0x8260D0A8
 	.text       start:0x84CBA3B8 end:0x84CBA578
 
-libjpeg/jdinput.cpp:
+libjpeg/libjpeg/jdinput.c:
 	.pdata      start:0x8260D0A8 end:0x8260D0E0
 	.text       start:0x84CBA578 end:0x84CBB1C8
 
-libjpeg/jdmarker.cpp:
+libjpeg/libjpeg/jdmarker.c:
 	.pdata      start:0x8260D0E0 end:0x8260D180
 	.text       start:0x84CBB1C8 end:0x84CBF6F8
 
-libjpeg/jmemmgr.cpp:
+libjpeg/libjpeg/jmemmgr.c:
 	.pdata      start:0x8260D180 end:0x8260D1F8
 	.text       start:0x84CBF6F8 end:0x84CC1508
 
-libjpeg/jdmainct.cpp:
+libjpeg/libjpeg/jdmainct.c:
 	.pdata      start:0x8260D210 end:0x8260D240
 	.text       start:0x84CC16D8 end:0x84CC2528
 
-libjpeg/jdcoefct.cpp:
+libjpeg/libjpeg/jdcoefct.c:
 	.pdata      start:0x8260D240 end:0x8260D280
 	.text       start:0x84CC2528 end:0x84CC4100
 
-libjpeg/jdhuff.cpp:
+libjpeg/libjpeg/jdhuff.c:
 	.pdata      start:0x8260D280 end:0x8260D2D8
 	.text       start:0x84CC4100 end:0x84CC71E8
 
-libjpeg/jdarith.cpp:
+libjpeg/libjpeg/jdarith.c:
 	.pdata      start:0x8260D2D8 end:0x8260D328
 	.text       start:0x84CC71E8 end:0x84CC9218
 
-libjpeg/jddctmgr.cpp:
+libjpeg/libjpeg/jddctmgr.c:
 	.pdata      start:0x8260D328 end:0x8260D338
 	.text       start:0x84CC9218 end:0x84CC9C30
 
-libjpeg/jdpostct.cpp:
+libjpeg/libjpeg/jdpostct.c:
 	.pdata      start:0x8260D338 end:0x8260D360
 	.text       start:0x84CC9C30 end:0x84CCA3A0
 
-libjpeg/jdsample.cpp:
+libjpeg/libjpeg/jdsample.c:
 	.pdata      start:0x8260D360 end:0x8260D380
 	.text       start:0x84CCA3A0 end:0x84CCAE28
 
-libjpeg/jdcolor.cpp:
+libjpeg/libjpeg/jdcolor.c:
 	.pdata      start:0x8260D380 end:0x8260D398
 	.text       start:0x84CCAE28 end:0x84CCBAA8
 
-libjpeg/jdmerge.cpp:
+libjpeg/libjpeg/jdmerge.c:
 	.pdata      start:0x8260D398 end:0x8260D3B8
 	.text       start:0x84CCBAA8 end:0x84CCC810
 
-libjpeg/jquant2.cpp:
+libjpeg/libjpeg/jquant2.c:
 	.pdata      start:0x8260D3B8 end:0x8260D408
 	.text       start:0x84CCC810 end:0x84CCF0E0
 
-libjpeg/jquant1.cpp:
+libjpeg/libjpeg/jquant1.c:
 	.pdata      start:0x8260D408 end:0x8260D460
 	.text       start:0x84CCF0E0 end:0x84CD09E8
 
-libjpeg/jcmarker.cpp:
+libjpeg/libjpeg/jcmarker.c:
 	.pdata      start:0x8260D460 end:0x8260D4F8
 	.text       start:0x84CD09E8 end:0x84CD1C68
 
-libjpeg/jcinit.cpp:
+libjpeg/libjpeg/jcinit.c:
 	.pdata      start:0x8260D4F8 end:0x8260D500
 	.text       start:0x84CD1C68 end:0x84CD1D70
 
-libjpeg/jidctfst.cpp:
+libjpeg/libjpeg/jidctfst.c:
 	.text       start:0x84CD2688 end:0x84CD2F40
 
-libjpeg/jidctint.cpp:
+libjpeg/libjpeg/jidctint.c:
 	.pdata      start:0x8260D500 end:0x8260D510
 	.text       start:0x84CD2F40 end:0x84CDFFF8
 
-libjpeg/jcmainct.cpp:
+libjpeg/libjpeg/jcmainct.c:
 	.pdata      start:0x8260D510 end:0x8260D528
 	.text       start:0x84CDFFF8 end:0x84CE0388
 
-libjpeg/jccoefct.cpp:
+libjpeg/libjpeg/jccoefct.c:
 	.pdata      start:0x8260D528 end:0x8260D550
 	.text       start:0x84CE0388 end:0x84CE1258
 
-libjpeg/jchuff.cpp:
+libjpeg/libjpeg/jchuff.c:
 	.pdata      start:0x8260D550 end:0x8260D618
 	.text       start:0x84CE1258 end:0x84CE4908
 
-libjpeg/jcarith.cpp:
+libjpeg/libjpeg/jcarith.c:
 	.pdata      start:0x8260D618 end:0x8260D670
 	.text       start:0x84CE4908 end:0x84CE6E10
 
-libjpeg/jcdctmgr.cpp:
+libjpeg/libjpeg/jcdctmgr.c:
 	.pdata      start:0x8260D670 end:0x8260D690
 	.text       start:0x84CE6E10 end:0x84CE7F48
 
-libjpeg/jcprepct.cpp:
+libjpeg/libjpeg/jcprepct.c:
 	.pdata      start:0x8260D690 end:0x8260D6C0
 	.text       start:0x84CE7F48 end:0x84CE8AE0
 
-libjpeg/jcsample.cpp:
+libjpeg/libjpeg/jcsample.c:
 	.pdata      start:0x8260D6C0 end:0x8260D700
 	.text       start:0x84CE8AE0 end:0x84CE9F40
 
-libjpeg/jccolor.cpp:
+libjpeg/libjpeg/jccolor.c:
 	.pdata      start:0x8260D700 end:0x8260D710
 	.text       start:0x84CE9F40 end:0x84CEAE38
 
-libjpeg/jcmaster.cpp:
+libjpeg/libjpeg/jcmaster.c:
 	.pdata      start:0x8260D710 end:0x8260D758
 	.text       start:0x84CEAE38 end:0x84CED018
 
-libjpeg/jfdctflt.cpp:
+libjpeg/libjpeg/jfdctflt.c:
 	.text       start:0x84CED018 end:0x84CED650
 
-libjpeg/jfdctfst.cpp:
+libjpeg/libjpeg/jfdctfst.c:
 	.text       start:0x84CED650 end:0x84CEDBB8
 
-libjpeg/jfdctint.cpp:
+libjpeg/libjpeg/jfdctint.c:
 	.pdata      start:0x8260D758 end:0x8260D800
 	.text       start:0x84CEDBB8 end:0x84CF8828
 

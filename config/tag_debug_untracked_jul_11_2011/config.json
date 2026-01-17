@@ -40,6 +40,17 @@
                 "/DzError=blam_zError",
                 "/DDEF_MEM_LEVEL=8"
             ]
+        },
+        "havok": {
+            "base": "base",
+            "flags": [
+            ]
+        },
+        "jpeg": {
+            "base": "base",
+            "flags": [
+                "/Isrc\\libjpeg"
+            ]
         }
     }
 }

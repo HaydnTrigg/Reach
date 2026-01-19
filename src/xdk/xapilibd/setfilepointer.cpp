@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// SetFilePointer;
+
+//SetFilePointer
+//{
+//    mangled_ppc("SetFilePointer");
+//};
+

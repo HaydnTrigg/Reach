@@ -14,3 +14,47 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// public: virtual void c_default_tag_file_sync_source::idle(void);
+// public: virtual bool c_default_tag_file_sync_source::any_changes(void);
+// public: virtual void c_default_tag_file_sync_source::begin(void);
+// public: virtual class c_tag_file_difference_iterator * c_default_tag_file_sync_source::get_difference_iterator(void);
+// public: virtual void c_default_tag_file_sync_source::dispose_difference_iterator(class c_tag_file_difference_iterator *);
+// public: virtual void c_default_tag_file_sync_source::end(void);
+// public: virtual char const * c_default_tag_file_sync_source::get_name(void);
+
+//public: virtual void c_default_tag_file_sync_source::idle(void)
+//{
+//    mangled_ppc("?idle@c_default_tag_file_sync_source@@UAAXXZ");
+//};
+
+//public: virtual bool c_default_tag_file_sync_source::any_changes(void)
+//{
+//    mangled_ppc("?any_changes@c_default_tag_file_sync_source@@UAA_NXZ");
+//};
+
+//public: virtual void c_default_tag_file_sync_source::begin(void)
+//{
+//    mangled_ppc("?begin@c_default_tag_file_sync_source@@UAAXXZ");
+//};
+
+//public: virtual class c_tag_file_difference_iterator * c_default_tag_file_sync_source::get_difference_iterator(void)
+//{
+//    mangled_ppc("?get_difference_iterator@c_default_tag_file_sync_source@@UAAPAVc_tag_file_difference_iterator@@XZ");
+//};
+
+//public: virtual void c_default_tag_file_sync_source::dispose_difference_iterator(class c_tag_file_difference_iterator *)
+//{
+//    mangled_ppc("?dispose_difference_iterator@c_default_tag_file_sync_source@@UAAXPAVc_tag_file_difference_iterator@@@Z");
+//};
+
+//public: virtual void c_default_tag_file_sync_source::end(void)
+//{
+//    mangled_ppc("?end@c_default_tag_file_sync_source@@UAAXXZ");
+//};
+
+//public: virtual char const * c_default_tag_file_sync_source::get_name(void)
+//{
+//    mangled_ppc("?get_name@c_default_tag_file_sync_source@@UAAPBDXZ");
+//};
+

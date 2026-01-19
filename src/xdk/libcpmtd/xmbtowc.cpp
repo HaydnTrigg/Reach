@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _Mbrtowc;
+
+//_Mbrtowc
+//{
+//    mangled_ppc("_Mbrtowc");
+//};
+

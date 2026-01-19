@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetFileAttributesExA;
+
+//GetFileAttributesExA
+//{
+//    mangled_ppc("GetFileAttributesExA");
+//};
+

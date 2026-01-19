@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// ceil;
+
+//ceil
+//{
+//    mangled_ppc("ceil");
+//};
+

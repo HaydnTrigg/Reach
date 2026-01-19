@@ -14,3 +14,6 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _lpdays; // "_lpdays"
+// _days; // "_days"

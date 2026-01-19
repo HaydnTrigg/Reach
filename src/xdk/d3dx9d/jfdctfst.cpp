@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// void D3DX::jpeg_fdct_ifast(short *);
+
+//void D3DX::jpeg_fdct_ifast(short *)
+//{
+//    mangled_ppc("?jpeg_fdct_ifast@D3DX@@YAXPAF@Z");
+//};
+

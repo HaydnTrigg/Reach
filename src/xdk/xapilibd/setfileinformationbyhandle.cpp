@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// SetFileInformationByHandle;
+
+//SetFileInformationByHandle
+//{
+//    mangled_ppc("SetFileInformationByHandle");
+//};
+

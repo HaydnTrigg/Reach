@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkBaseObjectClass; // "?hkBaseObjectClass@@3VhkClass@@B"

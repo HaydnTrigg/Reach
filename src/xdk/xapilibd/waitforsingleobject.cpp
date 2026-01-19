@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// WaitForSingleObject;
+
+//WaitForSingleObject
+//{
+//    mangled_ppc("WaitForSingleObject");
+//};
+

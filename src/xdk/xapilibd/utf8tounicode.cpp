@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// UTF8ToUnicode;
+
+//UTF8ToUnicode
+//{
+//    mangled_ppc("UTF8ToUnicode");
+//};
+

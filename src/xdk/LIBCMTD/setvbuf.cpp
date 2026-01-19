@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// setvbuf;
+
+//setvbuf
+//{
+//    mangled_ppc("setvbuf");
+//};
+

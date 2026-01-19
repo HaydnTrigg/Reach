@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetFileSize;
+
+//GetFileSize
+//{
+//    mangled_ppc("GetFileSize");
+//};
+

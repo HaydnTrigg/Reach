@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// RtlDebugPrintHelper;
+
+//RtlDebugPrintHelper
+//{
+//    mangled_ppc("RtlDebugPrintHelper");
+//};
+

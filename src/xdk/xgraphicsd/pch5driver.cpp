@@ -14,3 +14,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUctizksrxhUfxlwvUwireviUcylcUlyqUcylcUkxsFwireviOlyq@xgraphicsUcodeDriverd; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUctizksrxhUfxlwvUwireviUcylcUlyqUcylcUkxsFwireviOlyq@xgraphicsUcodeDriverd"

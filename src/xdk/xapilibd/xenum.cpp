@@ -14,3 +14,23 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XEnumerate;
+// XEnumerateBack;
+// XEnumerateEx;
+
+//XEnumerate
+//{
+//    mangled_ppc("XEnumerate");
+//};
+
+//XEnumerateBack
+//{
+//    mangled_ppc("XEnumerateBack");
+//};
+
+//XEnumerateEx
+//{
+//    mangled_ppc("XEnumerateEx");
+//};
+

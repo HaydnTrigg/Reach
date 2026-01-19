@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// bsearch;
+
+//bsearch
+//{
+//    mangled_ppc("bsearch");
+//};
+

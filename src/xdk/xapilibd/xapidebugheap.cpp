@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapiInitDebugHeap;
+
+//XapiInitDebugHeap
+//{
+//    mangled_ppc("XapiInitDebugHeap");
+//};
+

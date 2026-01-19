@@ -14,3 +14,292 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// public: static int const c_enum_no_init<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver>::k_minimum_value; // "?k_minimum_value@?$c_enum_no_init@W4e_file_share_requirements@c_file_share_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@2HB"
+// public: static enum c_file_share_summary_component::e_file_share_requirements const c_enum_no_init<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver>::k_maximum_value_plus_one; // "?k_maximum_value_plus_one@?$c_enum_no_init@W4e_file_share_requirements@c_file_share_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@2W4e_file_share_requirements@c_file_share_summary_component@@B"
+// private: static struct s_cui_component_description const c_cui_class_component_description<class c_file_share_summary_component>::g_instance; // "?g_instance@?$c_cui_class_component_description@Vc_file_share_summary_component@@@@0Us_cui_component_description@@B"
+// private: static class c_cui_object_property_table c_cui_class_property_table<class c_file_share_summary_component>::g_instance; // "?g_instance@?$c_cui_class_property_table@Vc_file_share_summary_component@@@@0Vc_cui_object_property_table@@A"
+
+// public: c_file_share_summary_component::c_file_share_summary_component(void);
+// merged_84AA30A8;
+// public: virtual c_file_share_summary_component::~c_file_share_summary_component(void);
+// public: virtual c_file_manager_summary_component::~c_file_manager_summary_component(void);
+// public: c_file_share_summary_component::c_file_share_summary_component(class c_file_share_summary_component const &);
+// public: c_file_manager_summary_component::c_file_manager_summary_component(class c_file_manager_summary_component const &);
+// merged_84AA32D8;
+// protected: virtual void c_file_share_summary_component::do_update(class c_cui_update_context *);
+// protected: void c_file_share_summary_component::initialize_internal(void);
+// protected: void c_file_share_summary_component::update_internal(void);
+// protected: void c_file_share_summary_component::update_user(void);
+// protected: void c_file_share_summary_component::update_enumeration(void);
+// protected: enum c_file_share_summary_component::e_file_share_requirements c_file_share_summary_component::user_meets_file_share_requirements(enum e_controller_index) const;
+// public: bool c_file_share_summary_component::file_share_is_owned_by_current_user(void) const;
+// public: virtual class c_enum<enum c_file_manager_summary_component::e_enumeration_state, unsigned char, 0, 4, struct s_default_enum_string_resolver> c_file_share_summary_component::get_enumeration_state(void) const;
+// public: class c_enum<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver> c_file_share_summary_component::get_requirements(void) const;
+// public: virtual bool c_file_share_summary_component::has_new_items(void) const;
+// public: virtual long c_file_share_summary_component::get_item_count(enum e_content_item_category) const;
+// protected: struct s_online_file_summary_listing_entry const * c_file_share_summary_component::get_catalog_summary_listing(void) const;
+// protected: enum e_file_browser_result c_file_share_summary_component::fetch_catalog_summary_listing(unsigned __int64, unsigned __int64, struct s_online_file_summary_listing_entry const **);
+// public: static class c_cui_object_property_table * c_cui_class_property_table<class c_file_share_summary_component>::get_instance(void);
+// public: c_enum<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver>::c_enum<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver>(enum c_file_share_summary_component::e_file_share_requirements);
+// ??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?get_driving_controller_index@1@QBA?AV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z;
+// public: class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver> c_file_share_summary_component::get_driving_controller_index(void) const;
+// bool cui_set_scalar_property_by_value<class c_file_share_summary_component, class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>, void & (c_file_share_summary_component::set_driving_controller_index::*)(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>)>(void *, long, struct s_cui_property_value const *);
+// public: void c_file_share_summary_component::set_driving_controller_index(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>);
+// bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, class c_screen_pipe_component *, class c_screen_pipe_component *& (c_file_share_summary_component::get_pipe_component::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: class c_screen_pipe_component * c_file_share_summary_component::get_pipe_component(void) const;
+// bool cui_set_scalar_property_by_value<class c_file_share_summary_component, class c_screen_pipe_component *, void & (c_file_share_summary_component::set_pipe_component::*)(class c_screen_pipe_component *)>(void *, long, struct s_cui_property_value const *);
+// public: void c_file_share_summary_component::set_pipe_component(class c_screen_pipe_component *);
+// ??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@V?$c_enum@W4e_enumeration_state@c_file_manager_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@$1??_P_91@$BEM@AA@@YA_NPBXJPAUs_cui_property_value@@@Z;
+// bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, unsigned __int64, unsigned __int64& (c_file_share_summary_component::get_share_id::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: unsigned __int64 c_file_share_summary_component::get_share_id(void) const;
+// bool cui_set_scalar_property_by_value<class c_file_share_summary_component, unsigned __int64, void & (c_file_share_summary_component::set_share_id::*)(unsigned __int64)>(void *, long, struct s_cui_property_value const *);
+// public: void c_file_share_summary_component::set_share_id(unsigned __int64);
+// bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, bool, bool & (c_file_share_summary_component::get_enabled::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_file_share_summary_component::get_enabled(void) const;
+// bool cui_set_scalar_property_by_value<class c_file_share_summary_component, bool, void & (c_file_share_summary_component::set_enabled::*)(bool)>(void *, long, struct s_cui_property_value const *);
+// public: void c_file_share_summary_component::set_enabled(bool);
+// bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, bool, bool & (c_file_share_summary_component::get_always_refresh::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_file_share_summary_component::get_always_refresh(void) const;
+// bool cui_set_scalar_property_by_value<class c_file_share_summary_component, bool, void & (c_file_share_summary_component::set_always_refresh::*)(bool)>(void *, long, struct s_cui_property_value const *);
+// public: void c_file_share_summary_component::set_always_refresh(bool);
+// ??_P_9c_file_share_summary_component@@$BEM@AA;
+// class c_cui_component * cui_component_create<class c_file_share_summary_component>(void);
+// class c_cui_component * cui_component_clone<class c_file_share_summary_component>(class c_cui_component const *);
+// void g_enumeration_state_enum_table::`dynamic atexit destructor'(void);
+
+//public: c_file_share_summary_component::c_file_share_summary_component(void)
+//{
+//    mangled_ppc("??0c_file_share_summary_component@@QAA@XZ");
+//};
+
+//merged_84AA30A8
+//{
+//    mangled_ppc("merged_84AA30A8");
+//};
+
+//public: virtual c_file_share_summary_component::~c_file_share_summary_component(void)
+//{
+//    mangled_ppc("??1c_file_share_summary_component@@UAA@XZ");
+//};
+
+//public: virtual c_file_manager_summary_component::~c_file_manager_summary_component(void)
+//{
+//    mangled_ppc("??1c_file_manager_summary_component@@UAA@XZ");
+//};
+
+//public: c_file_share_summary_component::c_file_share_summary_component(class c_file_share_summary_component const &)
+//{
+//    mangled_ppc("??0c_file_share_summary_component@@QAA@ABV0@@Z");
+//};
+
+//public: c_file_manager_summary_component::c_file_manager_summary_component(class c_file_manager_summary_component const &)
+//{
+//    mangled_ppc("??0c_file_manager_summary_component@@QAA@ABV0@@Z");
+//};
+
+//merged_84AA32D8
+//{
+//    mangled_ppc("merged_84AA32D8");
+//};
+
+//protected: virtual void c_file_share_summary_component::do_update(class c_cui_update_context *)
+//{
+//    mangled_ppc("?do_update@c_file_share_summary_component@@MAAXPAVc_cui_update_context@@@Z");
+//};
+
+//protected: void c_file_share_summary_component::initialize_internal(void)
+//{
+//    mangled_ppc("?initialize_internal@c_file_share_summary_component@@IAAXXZ");
+//};
+
+//protected: void c_file_share_summary_component::update_internal(void)
+//{
+//    mangled_ppc("?update_internal@c_file_share_summary_component@@IAAXXZ");
+//};
+
+//protected: void c_file_share_summary_component::update_user(void)
+//{
+//    mangled_ppc("?update_user@c_file_share_summary_component@@IAAXXZ");
+//};
+
+//protected: void c_file_share_summary_component::update_enumeration(void)
+//{
+//    mangled_ppc("?update_enumeration@c_file_share_summary_component@@IAAXXZ");
+//};
+
+//protected: enum c_file_share_summary_component::e_file_share_requirements c_file_share_summary_component::user_meets_file_share_requirements(enum e_controller_index) const
+//{
+//    mangled_ppc("?user_meets_file_share_requirements@c_file_share_summary_component@@IBA?AW4e_file_share_requirements@1@W4e_controller_index@@@Z");
+//};
+
+//public: bool c_file_share_summary_component::file_share_is_owned_by_current_user(void) const
+//{
+//    mangled_ppc("?file_share_is_owned_by_current_user@c_file_share_summary_component@@QBA_NXZ");
+//};
+
+//public: virtual class c_enum<enum c_file_manager_summary_component::e_enumeration_state, unsigned char, 0, 4, struct s_default_enum_string_resolver> c_file_share_summary_component::get_enumeration_state(void) const
+//{
+//    mangled_ppc("?get_enumeration_state@c_file_share_summary_component@@UBA?AV?$c_enum@W4e_enumeration_state@c_file_manager_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@XZ");
+//};
+
+//public: class c_enum<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver> c_file_share_summary_component::get_requirements(void) const
+//{
+//    mangled_ppc("?get_requirements@c_file_share_summary_component@@QBA?AV?$c_enum@W4e_file_share_requirements@c_file_share_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@XZ");
+//};
+
+//public: virtual bool c_file_share_summary_component::has_new_items(void) const
+//{
+//    mangled_ppc("?has_new_items@c_file_share_summary_component@@UBA_NXZ");
+//};
+
+//public: virtual long c_file_share_summary_component::get_item_count(enum e_content_item_category) const
+//{
+//    mangled_ppc("?get_item_count@c_file_share_summary_component@@UBAJW4e_content_item_category@@@Z");
+//};
+
+//protected: struct s_online_file_summary_listing_entry const * c_file_share_summary_component::get_catalog_summary_listing(void) const
+//{
+//    mangled_ppc("?get_catalog_summary_listing@c_file_share_summary_component@@IBAPBUs_online_file_summary_listing_entry@@XZ");
+//};
+
+//protected: enum e_file_browser_result c_file_share_summary_component::fetch_catalog_summary_listing(unsigned __int64, unsigned __int64, struct s_online_file_summary_listing_entry const **)
+//{
+//    mangled_ppc("?fetch_catalog_summary_listing@c_file_share_summary_component@@IAA?AW4e_file_browser_result@@_K0PAPBUs_online_file_summary_listing_entry@@@Z");
+//};
+
+//public: static class c_cui_object_property_table * c_cui_class_property_table<class c_file_share_summary_component>::get_instance(void)
+//{
+//    mangled_ppc("?get_instance@?$c_cui_class_property_table@Vc_file_share_summary_component@@@@SAPAVc_cui_object_property_table@@XZ");
+//};
+
+//public: c_enum<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver>::c_enum<enum c_file_share_summary_component::e_file_share_requirements, unsigned char, 0, 4, struct s_default_enum_string_resolver>(enum c_file_share_summary_component::e_file_share_requirements)
+//{
+//    mangled_ppc("??0?$c_enum@W4e_file_share_requirements@c_file_share_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@QAA@W4e_file_share_requirements@c_file_share_summary_component@@@Z");
+//};
+
+//??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?get_driving_controller_index@1@QBA?AV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?get_driving_controller_index@1@QBA?AV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver> c_file_share_summary_component::get_driving_controller_index(void) const
+//{
+//    mangled_ppc("?get_driving_controller_index@c_file_share_summary_component@@QBA?AV?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@XZ");
+//};
+
+//bool cui_set_scalar_property_by_value<class c_file_share_summary_component, class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>, void & (c_file_share_summary_component::set_driving_controller_index::*)(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_value@Vc_file_share_summary_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?set_driving_controller_index@1@QAAXV2@@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//public: void c_file_share_summary_component::set_driving_controller_index(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>)
+//{
+//    mangled_ppc("?set_driving_controller_index@c_file_share_summary_component@@QAAXV?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, class c_screen_pipe_component *, class c_screen_pipe_component *& (c_file_share_summary_component::get_pipe_component::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@PAVc_screen_pipe_component@@$1?get_pipe_component@1@QBAPAV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: class c_screen_pipe_component * c_file_share_summary_component::get_pipe_component(void) const
+//{
+//    mangled_ppc("?get_pipe_component@c_file_share_summary_component@@QBAPAVc_screen_pipe_component@@XZ");
+//};
+
+//bool cui_set_scalar_property_by_value<class c_file_share_summary_component, class c_screen_pipe_component *, void & (c_file_share_summary_component::set_pipe_component::*)(class c_screen_pipe_component *)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_value@Vc_file_share_summary_component@@PAVc_screen_pipe_component@@$1?set_pipe_component@1@QAAXPAV2@@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//public: void c_file_share_summary_component::set_pipe_component(class c_screen_pipe_component *)
+//{
+//    mangled_ppc("?set_pipe_component@c_file_share_summary_component@@QAAXPAVc_screen_pipe_component@@@Z");
+//};
+
+//??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@V?$c_enum@W4e_enumeration_state@c_file_manager_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@$1??_P_91@$BEM@AA@@YA_NPBXJPAUs_cui_property_value@@@Z
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@V?$c_enum@W4e_enumeration_state@c_file_manager_summary_component@@E$0A@$03Us_default_enum_string_resolver@@@@$1??_P_91@$BEM@AA@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, unsigned __int64, unsigned __int64& (c_file_share_summary_component::get_share_id::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@_K$1?get_share_id@1@QBA_KXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: unsigned __int64 c_file_share_summary_component::get_share_id(void) const
+//{
+//    mangled_ppc("?get_share_id@c_file_share_summary_component@@QBA_KXZ");
+//};
+
+//bool cui_set_scalar_property_by_value<class c_file_share_summary_component, unsigned __int64, void & (c_file_share_summary_component::set_share_id::*)(unsigned __int64)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_value@Vc_file_share_summary_component@@_K$1?set_share_id@1@QAAX_K@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//public: void c_file_share_summary_component::set_share_id(unsigned __int64)
+//{
+//    mangled_ppc("?set_share_id@c_file_share_summary_component@@QAAX_K@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, bool, bool & (c_file_share_summary_component::get_enabled::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@_N$1?get_enabled@1@QBA_NXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_file_share_summary_component::get_enabled(void) const
+//{
+//    mangled_ppc("?get_enabled@c_file_share_summary_component@@QBA_NXZ");
+//};
+
+//bool cui_set_scalar_property_by_value<class c_file_share_summary_component, bool, void & (c_file_share_summary_component::set_enabled::*)(bool)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_value@Vc_file_share_summary_component@@_N$1?set_enabled@1@QAAX_N@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//public: void c_file_share_summary_component::set_enabled(bool)
+//{
+//    mangled_ppc("?set_enabled@c_file_share_summary_component@@QAAX_N@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_file_share_summary_component, bool, bool & (c_file_share_summary_component::get_always_refresh::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_file_share_summary_component@@_N$1?get_always_refresh@1@QBA_NXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_file_share_summary_component::get_always_refresh(void) const
+//{
+//    mangled_ppc("?get_always_refresh@c_file_share_summary_component@@QBA_NXZ");
+//};
+
+//bool cui_set_scalar_property_by_value<class c_file_share_summary_component, bool, void & (c_file_share_summary_component::set_always_refresh::*)(bool)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_value@Vc_file_share_summary_component@@_N$1?set_always_refresh@1@QAAX_N@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//public: void c_file_share_summary_component::set_always_refresh(bool)
+//{
+//    mangled_ppc("?set_always_refresh@c_file_share_summary_component@@QAAX_N@Z");
+//};
+
+//??_P_9c_file_share_summary_component@@$BEM@AA
+//{
+//    mangled_ppc("??_P_9c_file_share_summary_component@@$BEM@AA");
+//};
+
+//class c_cui_component * cui_component_create<class c_file_share_summary_component>(void)
+//{
+//    mangled_ppc("??$cui_component_create@Vc_file_share_summary_component@@@@YAPAVc_cui_component@@XZ");
+//};
+
+//class c_cui_component * cui_component_clone<class c_file_share_summary_component>(class c_cui_component const *)
+//{
+//    mangled_ppc("??$cui_component_clone@Vc_file_share_summary_component@@@@YAPAVc_cui_component@@PBV0@@Z");
+//};
+
+//void g_enumeration_state_enum_table::`dynamic atexit destructor'(void)
+//{
+//    mangled_ppc("??__Fg_enumeration_state_enum_table@@YAXXZ");
+//};
+

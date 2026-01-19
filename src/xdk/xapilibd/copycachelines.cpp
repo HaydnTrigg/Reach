@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// CopyMisalignedCachelines;
+
+//CopyMisalignedCachelines
+//{
+//    mangled_ppc("CopyMisalignedCachelines");
+//};
+

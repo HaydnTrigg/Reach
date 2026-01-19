@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// CreateThread;
+
+//CreateThread
+//{
+//    mangled_ppc("CreateThread");
+//};
+

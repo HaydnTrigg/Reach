@@ -14,3 +14,428 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// private: static struct s_cui_component_description const c_cui_class_component_description<class c_emblem_list_data_component>::g_instance; // "?g_instance@?$c_cui_class_component_description@Vc_emblem_list_data_component@@@@0Us_cui_component_description@@B"
+// private: static class c_cui_object_property_table c_cui_class_property_table<class c_emblem_list_data_component>::g_instance; // "?g_instance@?$c_cui_class_property_table@Vc_emblem_list_data_component@@@@0Vc_cui_object_property_table@@A"
+
+// public: c_emblem_list_data_component::c_emblem_list_data_component(void);
+// merged_84A809A8;
+// public: virtual c_emblem_list_data_component::~c_emblem_list_data_component(void);
+// public: c_emblem_list_data_component::c_emblem_list_data_component(class c_emblem_list_data_component const &);
+// public: struct s_emblem_info c_emblem_list_data_component::get_emblem_info(void) const;
+// public: void c_emblem_list_data_component::set_emblem_info(struct s_emblem_info const &);
+// protected: virtual void c_emblem_list_data_component::do_update(class c_cui_update_context *);
+// protected: void c_emblem_list_data_component::update_items(void);
+// protected: void c_emblem_list_data_component::clear_items(void);
+// protected: void c_emblem_list_data_component::update_foreground_image(void);
+// protected: void c_emblem_list_data_component::update_background_image(void);
+// protected: void c_emblem_list_data_component::update_color(void);
+// protected: void c_emblem_list_data_component::update_initial_indices(void);
+// protected: void c_emblem_list_data_component::add_foreground_image(long, bool, bool);
+// protected: void c_emblem_list_data_component::add_background_image(long, bool, bool);
+// protected: void c_emblem_list_data_component::add_color(enum e_player_color_index, bool, bool);
+// public: static class c_cui_object_property_table * c_cui_class_property_table<class c_emblem_list_data_component>::get_instance(void);
+// public: c_big_flags<127>::c_big_flags<127>(void);
+// class c_cui_component * cui_component_create<class c_emblem_list_data_component>(void);
+// class c_cui_component * cui_component_clone<class c_emblem_list_data_component>(class c_cui_component const *);
+// ??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?get_driving_controller_index@1@QBA?AV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z;
+// public: class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver> c_emblem_list_data_component::get_driving_controller_index(void) const;
+// bool cui_set_scalar_property_by_value<class c_emblem_list_data_component, class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>, void & (c_emblem_list_data_component::set_driving_controller_index::*)(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>)>(void *, long, struct s_cui_property_value const *);
+// public: void c_emblem_list_data_component::set_driving_controller_index(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>);
+// ??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@Us_emblem_info@@$1?get_emblem_info@1@QBA?AU2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z;
+// bool cui_set_scalar_property_by_const_reference<class c_emblem_list_data_component, struct s_emblem_info, void & (c_emblem_list_data_component::set_emblem_info::*)(struct s_emblem_info const &)>(void *, long, struct s_cui_property_value const *);
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_foreground_image_count(void) const;
+// long cui_object_component_get_property_element_count<class c_emblem_list_data_component, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void)>(void const *);
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_foreground_image_index::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_foreground_image_index(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_foreground_display_image_index::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_foreground_display_image_index(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_foreground_image_locked::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_emblem_list_data_component::get_emblem_foreground_image_locked(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_foreground_image_new::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_emblem_list_data_component::get_emblem_foreground_image_new(long) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_background_image_count(void) const;
+// long cui_object_component_get_property_element_count<class c_emblem_list_data_component, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void)>(void const *);
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_background_image_index::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_background_image_index(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_background_display_image_index::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_background_display_image_index(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_background_image_locked::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_emblem_list_data_component::get_emblem_background_image_locked(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_background_image_new::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_emblem_list_data_component::get_emblem_background_image_new(long) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_emblem_color_count(void) const;
+// long cui_object_component_get_property_element_count<class c_emblem_list_data_component, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void)>(void const *);
+// ??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@V?$c_enum_no_init@W4e_player_color_index@@D$0?0$0CA@Us_default_enum_string_resolver@@@@$1?get_emblem_color_count@1@QBAJXZ$1?get_emblem_color_index@1@QBA?AV2@J@Z@@YA_NPBXJPAUs_cui_property_value@@@Z;
+// public: class c_enum_no_init<enum e_player_color_index, char, -1, 32, struct s_default_enum_string_resolver> c_emblem_list_data_component::get_emblem_color_index(long) const;
+// bool cui_get_array_property_element_by_out_pointer<class c_emblem_list_data_component, union argb_color, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void), void & (c_emblem_list_data_component::get_emblem_color_rgb::*)(long, union argb_color *)>(void const *, long, struct s_cui_property_value *);
+// public: void c_emblem_list_data_component::get_emblem_color_rgb(long, union argb_color *) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_color_locked::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_emblem_list_data_component::get_emblem_color_locked(long) const;
+// bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_color_new::*)(long)>(void const *, long, struct s_cui_property_value *);
+// public: bool c_emblem_list_data_component::get_emblem_color_new(long) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_foreground_image_index::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_initial_foreground_image_index(void) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_background_image_index::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_initial_background_image_index(void) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_primary_color_index::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_initial_primary_color_index(void) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_secondary_color_index::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_initial_secondary_color_index(void) const;
+// bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_background_color_index::*)(void)>(void const *, long, struct s_cui_property_value *);
+// public: long c_emblem_list_data_component::get_initial_background_color_index(void) const;
+// public: c_big_flags_typed<long, 127>::c_big_flags_typed<long, 127>(void);
+
+//public: c_emblem_list_data_component::c_emblem_list_data_component(void)
+//{
+//    mangled_ppc("??0c_emblem_list_data_component@@QAA@XZ");
+//};
+
+//merged_84A809A8
+//{
+//    mangled_ppc("merged_84A809A8");
+//};
+
+//public: virtual c_emblem_list_data_component::~c_emblem_list_data_component(void)
+//{
+//    mangled_ppc("??1c_emblem_list_data_component@@UAA@XZ");
+//};
+
+//public: c_emblem_list_data_component::c_emblem_list_data_component(class c_emblem_list_data_component const &)
+//{
+//    mangled_ppc("??0c_emblem_list_data_component@@QAA@ABV0@@Z");
+//};
+
+//public: struct s_emblem_info c_emblem_list_data_component::get_emblem_info(void) const
+//{
+//    mangled_ppc("?get_emblem_info@c_emblem_list_data_component@@QBA?AUs_emblem_info@@XZ");
+//};
+
+//public: void c_emblem_list_data_component::set_emblem_info(struct s_emblem_info const &)
+//{
+//    mangled_ppc("?set_emblem_info@c_emblem_list_data_component@@QAAXABUs_emblem_info@@@Z");
+//};
+
+//protected: virtual void c_emblem_list_data_component::do_update(class c_cui_update_context *)
+//{
+//    mangled_ppc("?do_update@c_emblem_list_data_component@@MAAXPAVc_cui_update_context@@@Z");
+//};
+
+//protected: void c_emblem_list_data_component::update_items(void)
+//{
+//    mangled_ppc("?update_items@c_emblem_list_data_component@@IAAXXZ");
+//};
+
+//protected: void c_emblem_list_data_component::clear_items(void)
+//{
+//    mangled_ppc("?clear_items@c_emblem_list_data_component@@IAAXXZ");
+//};
+
+//protected: void c_emblem_list_data_component::update_foreground_image(void)
+//{
+//    mangled_ppc("?update_foreground_image@c_emblem_list_data_component@@IAAXXZ");
+//};
+
+//protected: void c_emblem_list_data_component::update_background_image(void)
+//{
+//    mangled_ppc("?update_background_image@c_emblem_list_data_component@@IAAXXZ");
+//};
+
+//protected: void c_emblem_list_data_component::update_color(void)
+//{
+//    mangled_ppc("?update_color@c_emblem_list_data_component@@IAAXXZ");
+//};
+
+//protected: void c_emblem_list_data_component::update_initial_indices(void)
+//{
+//    mangled_ppc("?update_initial_indices@c_emblem_list_data_component@@IAAXXZ");
+//};
+
+//protected: void c_emblem_list_data_component::add_foreground_image(long, bool, bool)
+//{
+//    mangled_ppc("?add_foreground_image@c_emblem_list_data_component@@IAAXJ_N0@Z");
+//};
+
+//protected: void c_emblem_list_data_component::add_background_image(long, bool, bool)
+//{
+//    mangled_ppc("?add_background_image@c_emblem_list_data_component@@IAAXJ_N0@Z");
+//};
+
+//protected: void c_emblem_list_data_component::add_color(enum e_player_color_index, bool, bool)
+//{
+//    mangled_ppc("?add_color@c_emblem_list_data_component@@IAAXW4e_player_color_index@@_N1@Z");
+//};
+
+//public: static class c_cui_object_property_table * c_cui_class_property_table<class c_emblem_list_data_component>::get_instance(void)
+//{
+//    mangled_ppc("?get_instance@?$c_cui_class_property_table@Vc_emblem_list_data_component@@@@SAPAVc_cui_object_property_table@@XZ");
+//};
+
+//public: c_big_flags<127>::c_big_flags<127>(void)
+//{
+//    mangled_ppc("??0?$c_big_flags@$0HP@@@QAA@XZ");
+//};
+
+//class c_cui_component * cui_component_create<class c_emblem_list_data_component>(void)
+//{
+//    mangled_ppc("??$cui_component_create@Vc_emblem_list_data_component@@@@YAPAVc_cui_component@@XZ");
+//};
+
+//class c_cui_component * cui_component_clone<class c_emblem_list_data_component>(class c_cui_component const *)
+//{
+//    mangled_ppc("??$cui_component_clone@Vc_emblem_list_data_component@@@@YAPAVc_cui_component@@PBV0@@Z");
+//};
+
+//??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?get_driving_controller_index@1@QBA?AV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?get_driving_controller_index@1@QBA?AV2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver> c_emblem_list_data_component::get_driving_controller_index(void) const
+//{
+//    mangled_ppc("?get_driving_controller_index@c_emblem_list_data_component@@QBA?AV?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@XZ");
+//};
+
+//bool cui_set_scalar_property_by_value<class c_emblem_list_data_component, class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>, void & (c_emblem_list_data_component::set_driving_controller_index::*)(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_value@Vc_emblem_list_data_component@@V?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@$1?set_driving_controller_index@1@QAAXV2@@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//public: void c_emblem_list_data_component::set_driving_controller_index(class c_enum<enum e_controller_index, short, -1, 255, struct s_default_enum_string_resolver>)
+//{
+//    mangled_ppc("?set_driving_controller_index@c_emblem_list_data_component@@QAAXV?$c_enum@W4e_controller_index@@F$0?0$0PP@Us_default_enum_string_resolver@@@@@Z");
+//};
+
+//??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@Us_emblem_info@@$1?get_emblem_info@1@QBA?AU2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@Us_emblem_info@@$1?get_emblem_info@1@QBA?AU2@XZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//bool cui_set_scalar_property_by_const_reference<class c_emblem_list_data_component, struct s_emblem_info, void & (c_emblem_list_data_component::set_emblem_info::*)(struct s_emblem_info const &)>(void *, long, struct s_cui_property_value const *)
+//{
+//    mangled_ppc("??$cui_set_scalar_property_by_const_reference@Vc_emblem_list_data_component@@Us_emblem_info@@$1?set_emblem_info@1@QAAXABU2@@Z@@YA_NPAXJPBUs_cui_property_value@@@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_foreground_image_count@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_foreground_image_count(void) const
+//{
+//    mangled_ppc("?get_emblem_foreground_image_count@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//long cui_object_component_get_property_element_count<class c_emblem_list_data_component, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void)>(void const *)
+//{
+//    mangled_ppc("??$cui_object_component_get_property_element_count@Vc_emblem_list_data_component@@$1?get_emblem_foreground_image_count@1@QBAJXZ@@YAJPBX@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_foreground_image_index::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_foreground_image_count@1@QBAJXZ$1?get_emblem_foreground_image_index@1@QBAJJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_foreground_image_index(long) const
+//{
+//    mangled_ppc("?get_emblem_foreground_image_index@c_emblem_list_data_component@@QBAJJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_foreground_display_image_index::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_foreground_image_count@1@QBAJXZ$1?get_emblem_foreground_display_image_index@1@QBAJJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_foreground_display_image_index(long) const
+//{
+//    mangled_ppc("?get_emblem_foreground_display_image_index@c_emblem_list_data_component@@QBAJJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_foreground_image_locked::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@_N$1?get_emblem_foreground_image_count@1@QBAJXZ$1?get_emblem_foreground_image_locked@1@QBA_NJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_emblem_list_data_component::get_emblem_foreground_image_locked(long) const
+//{
+//    mangled_ppc("?get_emblem_foreground_image_locked@c_emblem_list_data_component@@QBA_NJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_foreground_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_foreground_image_new::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@_N$1?get_emblem_foreground_image_count@1@QBAJXZ$1?get_emblem_foreground_image_new@1@QBA_NJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_emblem_list_data_component::get_emblem_foreground_image_new(long) const
+//{
+//    mangled_ppc("?get_emblem_foreground_image_new@c_emblem_list_data_component@@QBA_NJ@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_background_image_count@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_background_image_count(void) const
+//{
+//    mangled_ppc("?get_emblem_background_image_count@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//long cui_object_component_get_property_element_count<class c_emblem_list_data_component, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void)>(void const *)
+//{
+//    mangled_ppc("??$cui_object_component_get_property_element_count@Vc_emblem_list_data_component@@$1?get_emblem_background_image_count@1@QBAJXZ@@YAJPBX@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_background_image_index::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_background_image_count@1@QBAJXZ$1?get_emblem_background_image_index@1@QBAJJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_background_image_index(long) const
+//{
+//    mangled_ppc("?get_emblem_background_image_index@c_emblem_list_data_component@@QBAJJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), long & (c_emblem_list_data_component::get_emblem_background_display_image_index::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_background_image_count@1@QBAJXZ$1?get_emblem_background_display_image_index@1@QBAJJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_background_display_image_index(long) const
+//{
+//    mangled_ppc("?get_emblem_background_display_image_index@c_emblem_list_data_component@@QBAJJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_background_image_locked::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@_N$1?get_emblem_background_image_count@1@QBAJXZ$1?get_emblem_background_image_locked@1@QBA_NJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_emblem_list_data_component::get_emblem_background_image_locked(long) const
+//{
+//    mangled_ppc("?get_emblem_background_image_locked@c_emblem_list_data_component@@QBA_NJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_background_image_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_background_image_new::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@_N$1?get_emblem_background_image_count@1@QBAJXZ$1?get_emblem_background_image_new@1@QBA_NJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_emblem_list_data_component::get_emblem_background_image_new(long) const
+//{
+//    mangled_ppc("?get_emblem_background_image_new@c_emblem_list_data_component@@QBA_NJ@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_emblem_color_count@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_emblem_color_count(void) const
+//{
+//    mangled_ppc("?get_emblem_color_count@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//long cui_object_component_get_property_element_count<class c_emblem_list_data_component, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void)>(void const *)
+//{
+//    mangled_ppc("??$cui_object_component_get_property_element_count@Vc_emblem_list_data_component@@$1?get_emblem_color_count@1@QBAJXZ@@YAJPBX@Z");
+//};
+
+//??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@V?$c_enum_no_init@W4e_player_color_index@@D$0?0$0CA@Us_default_enum_string_resolver@@@@$1?get_emblem_color_count@1@QBAJXZ$1?get_emblem_color_index@1@QBA?AV2@J@Z@@YA_NPBXJPAUs_cui_property_value@@@Z
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@V?$c_enum_no_init@W4e_player_color_index@@D$0?0$0CA@Us_default_enum_string_resolver@@@@$1?get_emblem_color_count@1@QBAJXZ$1?get_emblem_color_index@1@QBA?AV2@J@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: class c_enum_no_init<enum e_player_color_index, char, -1, 32, struct s_default_enum_string_resolver> c_emblem_list_data_component::get_emblem_color_index(long) const
+//{
+//    mangled_ppc("?get_emblem_color_index@c_emblem_list_data_component@@QBA?AV?$c_enum_no_init@W4e_player_color_index@@D$0?0$0CA@Us_default_enum_string_resolver@@@@J@Z");
+//};
+
+//bool cui_get_array_property_element_by_out_pointer<class c_emblem_list_data_component, union argb_color, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void), void & (c_emblem_list_data_component::get_emblem_color_rgb::*)(long, union argb_color *)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_out_pointer@Vc_emblem_list_data_component@@Targb_color@@$1?get_emblem_color_count@1@QBAJXZ$1?get_emblem_color_rgb@1@QBAXJPAT2@@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: void c_emblem_list_data_component::get_emblem_color_rgb(long, union argb_color *) const
+//{
+//    mangled_ppc("?get_emblem_color_rgb@c_emblem_list_data_component@@QBAXJPATargb_color@@@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_color_locked::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@_N$1?get_emblem_color_count@1@QBAJXZ$1?get_emblem_color_locked@1@QBA_NJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_emblem_list_data_component::get_emblem_color_locked(long) const
+//{
+//    mangled_ppc("?get_emblem_color_locked@c_emblem_list_data_component@@QBA_NJ@Z");
+//};
+
+//bool cui_get_array_property_element_by_return_value<class c_emblem_list_data_component, bool, long & (c_emblem_list_data_component::get_emblem_color_count::*)(void), bool & (c_emblem_list_data_component::get_emblem_color_new::*)(long)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_array_property_element_by_return_value@Vc_emblem_list_data_component@@_N$1?get_emblem_color_count@1@QBAJXZ$1?get_emblem_color_new@1@QBA_NJ@Z@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: bool c_emblem_list_data_component::get_emblem_color_new(long) const
+//{
+//    mangled_ppc("?get_emblem_color_new@c_emblem_list_data_component@@QBA_NJ@Z");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_foreground_image_index::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_initial_foreground_image_index@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_initial_foreground_image_index(void) const
+//{
+//    mangled_ppc("?get_initial_foreground_image_index@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_background_image_index::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_initial_background_image_index@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_initial_background_image_index(void) const
+//{
+//    mangled_ppc("?get_initial_background_image_index@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_primary_color_index::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_initial_primary_color_index@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_initial_primary_color_index(void) const
+//{
+//    mangled_ppc("?get_initial_primary_color_index@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_secondary_color_index::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_initial_secondary_color_index@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_initial_secondary_color_index(void) const
+//{
+//    mangled_ppc("?get_initial_secondary_color_index@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//bool cui_get_scalar_property_by_return_value<class c_emblem_list_data_component, long, long & (c_emblem_list_data_component::get_initial_background_color_index::*)(void)>(void const *, long, struct s_cui_property_value *)
+//{
+//    mangled_ppc("??$cui_get_scalar_property_by_return_value@Vc_emblem_list_data_component@@J$1?get_initial_background_color_index@1@QBAJXZ@@YA_NPBXJPAUs_cui_property_value@@@Z");
+//};
+
+//public: long c_emblem_list_data_component::get_initial_background_color_index(void) const
+//{
+//    mangled_ppc("?get_initial_background_color_index@c_emblem_list_data_component@@QBAJXZ");
+//};
+
+//public: c_big_flags_typed<long, 127>::c_big_flags_typed<long, 127>(void)
+//{
+//    mangled_ppc("??0?$c_big_flags_typed@J$0HP@@@QAA@XZ");
+//};
+

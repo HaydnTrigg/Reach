@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _Feraise;
+
+//_Feraise
+//{
+//    mangled_ppc("_Feraise");
+//};
+

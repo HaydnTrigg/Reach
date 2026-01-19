@@ -14,3 +14,17 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _RTC_InitBase;
+// _RTC_Shutdown;
+
+//_RTC_InitBase
+//{
+//    mangled_ppc("_RTC_InitBase");
+//};
+
+//_RTC_Shutdown
+//{
+//    mangled_ppc("_RTC_Shutdown");
+//};
+

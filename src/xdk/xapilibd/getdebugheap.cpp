@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetDebugHeap;
+
+//GetDebugHeap
+//{
+//    mangled_ppc("GetDebugHeap");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// RaiseException;
+
+//RaiseException
+//{
+//    mangled_ppc("RaiseException");
+//};
+

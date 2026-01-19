@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// LocalAlloc;
+
+//LocalAlloc
+//{
+//    mangled_ppc("LocalAlloc");
+//};
+

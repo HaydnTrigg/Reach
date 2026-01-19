@@ -14,3 +14,6 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _defaultFileIoHooks; // "_defaultFileIoHooks"
+// _fileIoHooks; // "_fileIoHooks"

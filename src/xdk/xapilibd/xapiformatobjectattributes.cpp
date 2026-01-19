@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapiFormatObjectAttributes;
+
+//XapiFormatObjectAttributes
+//{
+//    mangled_ppc("XapiFormatObjectAttributes");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapiSetLastNTError;
+
+//XapiSetLastNTError
+//{
+//    mangled_ppc("XapiSetLastNTError");
+//};
+

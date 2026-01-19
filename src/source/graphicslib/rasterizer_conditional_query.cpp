@@ -14,3 +14,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// __int64g_conditional_index_valid_this_frame; // "?g_conditional_index_valid_this_frame@@3_JA"

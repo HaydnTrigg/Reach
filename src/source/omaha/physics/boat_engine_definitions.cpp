@@ -14,3 +14,6 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// struct s_tag_struct_definition boat_engine_definition_block_struct_definition; // "?boat_engine_definition_block_struct_definition@@3Us_tag_struct_definition@@A"
+// struct s_tag_block_definition boat_engine_definition_block; // "?boat_engine_definition_block@@3Us_tag_block_definition@@A"

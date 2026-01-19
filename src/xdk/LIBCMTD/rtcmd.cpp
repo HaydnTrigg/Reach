@@ -14,3 +14,17 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _CRT_RTC_INIT;
+// _CRT_RTC_INITW;
+
+//_CRT_RTC_INIT
+//{
+//    mangled_ppc("_CRT_RTC_INIT");
+//};
+
+//_CRT_RTC_INITW
+//{
+//    mangled_ppc("_CRT_RTC_INITW");
+//};
+

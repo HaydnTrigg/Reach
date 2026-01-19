@@ -13,3 +13,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// public: void hkpPulleyDrawer::drawConstraint(class hkpConstraintInstance *, class hkDebugDisplayHandler *, int, int);
+
+//public: void hkpPulleyDrawer::drawConstraint(class hkpConstraintInstance *, class hkDebugDisplayHandler *, int, int)
+//{
+//    mangled_ppc("?drawConstraint@hkpPulleyDrawer@@QAAXPAVhkpConstraintInstance@@PAVhkDebugDisplayHandler@@HH@Z");
+//};
+

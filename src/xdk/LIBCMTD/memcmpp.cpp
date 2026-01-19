@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// memcmp;
+
+//memcmp
+//{
+//    mangled_ppc("memcmp");
+//};
+

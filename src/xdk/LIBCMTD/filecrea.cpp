@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// __crtCreateFileW;
+
+//__crtCreateFileW
+//{
+//    mangled_ppc("__crtCreateFileW");
+//};
+

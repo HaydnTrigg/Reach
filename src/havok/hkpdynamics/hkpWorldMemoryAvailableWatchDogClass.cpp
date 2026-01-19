@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkWorldMemoryAvailableWatchDogClass; // "?hkWorldMemoryAvailableWatchDogClass@@3VhkClass@@B"

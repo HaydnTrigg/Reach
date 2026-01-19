@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XMemGetPageSize;
+
+//XMemGetPageSize
+//{
+//    mangled_ppc("XMemGetPageSize");
+//};
+

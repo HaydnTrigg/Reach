@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// ReleaseMutex;
+
+//ReleaseMutex
+//{
+//    mangled_ppc("ReleaseMutex");
+//};
+

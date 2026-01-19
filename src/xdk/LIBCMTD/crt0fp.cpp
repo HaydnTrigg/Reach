@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _fptrap;
+
+//_fptrap
+//{
+//    mangled_ppc("_fptrap");
+//};
+

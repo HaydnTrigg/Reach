@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// void whitelist_enforcement_update(void);
+
+//void whitelist_enforcement_update(void)
+//{
+//    mangled_ppc("?whitelist_enforcement_update@@YAXXZ");
+//};
+

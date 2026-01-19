@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// MultiByteToWideChar;
+
+//MultiByteToWideChar
+//{
+//    mangled_ppc("MultiByteToWideChar");
+//};
+

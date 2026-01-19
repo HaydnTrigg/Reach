@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// wcstok;
+
+//wcstok
+//{
+//    mangled_ppc("wcstok");
+//};
+

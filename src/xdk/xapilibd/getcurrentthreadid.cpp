@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetCurrentThreadId;
+
+//GetCurrentThreadId
+//{
+//    mangled_ppc("GetCurrentThreadId");
+//};
+

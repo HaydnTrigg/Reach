@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetLocalTime;
+
+//GetLocalTime
+//{
+//    mangled_ppc("GetLocalTime");
+//};
+

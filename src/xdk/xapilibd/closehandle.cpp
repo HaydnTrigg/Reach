@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// CloseHandle;
+
+//CloseHandle
+//{
+//    mangled_ppc("CloseHandle");
+//};
+

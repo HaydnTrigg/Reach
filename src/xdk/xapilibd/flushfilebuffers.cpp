@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// FlushFileBuffers;
+
+//FlushFileBuffers
+//{
+//    mangled_ppc("FlushFileBuffers");
+//};
+

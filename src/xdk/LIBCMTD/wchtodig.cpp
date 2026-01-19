@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _wchartodigit;
+
+//_wchartodigit
+//{
+//    mangled_ppc("_wchartodigit");
+//};
+

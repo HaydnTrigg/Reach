@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkOstream *hkSerializeLog; // "?hkSerializeLog@@3PAVhkOstream@@A"

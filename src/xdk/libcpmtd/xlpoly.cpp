@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _LPoly;
+
+//_LPoly
+//{
+//    mangled_ppc("_LPoly");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// wsprintfA;
+
+//wsprintfA
+//{
+//    mangled_ppc("wsprintfA");
+//};
+

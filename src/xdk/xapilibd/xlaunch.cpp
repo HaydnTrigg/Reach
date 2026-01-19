@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XLaunchNewImage;
+
+//XLaunchNewImage
+//{
+//    mangled_ppc("XLaunchNewImage");
+//};
+

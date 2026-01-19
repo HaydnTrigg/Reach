@@ -13,3 +13,6 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClassEnum const *const hkpShapeCollectionCollectionTypeEnum; // "?hkpShapeCollectionCollectionTypeEnum@@3PBVhkClassEnum@@B"
+// class hkClass const hkpShapeCollectionClass; // "?hkpShapeCollectionClass@@3VhkClass@@B"

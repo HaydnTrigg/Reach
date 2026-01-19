@@ -14,3 +14,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// char const **k_event_level_names; // "?k_event_level_names@@3PAPBDA"

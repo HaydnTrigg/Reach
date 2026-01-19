@@ -14,3 +14,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// struct std::nothrow_t const std::nothrow; // "?nothrow@std@@3Unothrow_t@1@B"

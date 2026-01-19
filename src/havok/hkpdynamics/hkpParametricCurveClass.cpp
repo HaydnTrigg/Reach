@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkpParametricCurveClass; // "?hkpParametricCurveClass@@3VhkClass@@B"

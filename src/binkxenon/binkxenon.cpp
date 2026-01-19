@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// radmemset16;
+
+//radmemset16
+//{
+//    mangled_ppc("radmemset16");
+//};
+

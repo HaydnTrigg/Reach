@@ -14,3 +14,17 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// memcpy;
+// _blkmov;
+
+//memcpy
+//{
+//    mangled_ppc("memcpy");
+//};
+
+//_blkmov
+//{
+//    mangled_ppc("_blkmov");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapipGetTimeZoneBias;
+
+//XapipGetTimeZoneBias
+//{
+//    mangled_ppc("XapipGetTimeZoneBias");
+//};
+

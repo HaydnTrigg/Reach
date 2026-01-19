@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// fputws;
+
+//fputws
+//{
+//    mangled_ppc("fputws");
+//};
+

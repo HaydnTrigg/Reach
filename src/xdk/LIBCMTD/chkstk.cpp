@@ -14,3 +14,17 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _RtlCheckStack;
+// _RtlCheckStack12;
+
+//_RtlCheckStack
+//{
+//    mangled_ppc("_RtlCheckStack");
+//};
+
+//_RtlCheckStack12
+//{
+//    mangled_ppc("_RtlCheckStack12");
+//};
+

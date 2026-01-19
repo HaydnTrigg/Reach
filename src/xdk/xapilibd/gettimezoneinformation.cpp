@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetTimeZoneInformation;
+
+//GetTimeZoneInformation
+//{
+//    mangled_ppc("GetTimeZoneInformation");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// SetLastError;
+
+//SetLastError
+//{
+//    mangled_ppc("SetLastError");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// SetFileAttributesA;
+
+//SetFileAttributesA
+//{
+//    mangled_ppc("SetFileAttributesA");
+//};
+

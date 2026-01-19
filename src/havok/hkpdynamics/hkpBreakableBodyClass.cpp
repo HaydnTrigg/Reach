@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkpBreakableBodyClass; // "?hkpBreakableBodyClass@@3VhkClass@@B"

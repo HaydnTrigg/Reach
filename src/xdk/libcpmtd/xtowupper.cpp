@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _Towupper;
+
+//_Towupper
+//{
+//    mangled_ppc("_Towupper");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// setjmp;
+
+//setjmp
+//{
+//    mangled_ppc("setjmp");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// DeleteFileA;
+
+//DeleteFileA
+//{
+//    mangled_ppc("DeleteFileA");
+//};
+

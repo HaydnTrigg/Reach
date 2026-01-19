@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// FindFirstFileA;
+
+//FindFirstFileA
+//{
+//    mangled_ppc("FindFirstFileA");
+//};
+

@@ -13,3 +13,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// hkInternalConstraintUtils_calcRelativeAngle;
+
+//hkInternalConstraintUtils_calcRelativeAngle
+//{
+//    mangled_ppc("hkInternalConstraintUtils_calcRelativeAngle");
+//};
+

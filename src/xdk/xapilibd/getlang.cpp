@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XTLGetLanguage;
+
+//XTLGetLanguage
+//{
+//    mangled_ppc("XTLGetLanguage");
+//};
+

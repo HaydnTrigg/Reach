@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// QueryPerformanceCounter;
+
+//QueryPerformanceCounter
+//{
+//    mangled_ppc("QueryPerformanceCounter");
+//};
+

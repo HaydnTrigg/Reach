@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XUserMuteListQuery;
+
+//XUserMuteListQuery
+//{
+//    mangled_ppc("XUserMuteListQuery");
+//};
+

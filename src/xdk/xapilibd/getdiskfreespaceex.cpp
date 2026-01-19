@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetDiskFreeSpaceExA;
+
+//GetDiskFreeSpaceExA
+//{
+//    mangled_ppc("GetDiskFreeSpaceExA");
+//};
+

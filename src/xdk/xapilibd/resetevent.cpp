@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// ResetEvent;
+
+//ResetEvent
+//{
+//    mangled_ppc("ResetEvent");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _CxxThrowException;
+
+//_CxxThrowException
+//{
+//    mangled_ppc("_CxxThrowException");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _lfind;
+
+//_lfind
+//{
+//    mangled_ppc("_lfind");
+//};
+

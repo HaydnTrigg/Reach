@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// wcsrchr;
+
+//wcsrchr
+//{
+//    mangled_ppc("wcsrchr");
+//};
+

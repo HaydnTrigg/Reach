@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// memset;
+
+//memset
+//{
+//    mangled_ppc("memset");
+//};
+

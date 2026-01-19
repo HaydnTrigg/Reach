@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetTickCount;
+
+//GetTickCount
+//{
+//    mangled_ppc("GetTickCount");
+//};
+

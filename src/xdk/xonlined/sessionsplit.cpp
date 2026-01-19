@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XSessionMigrateHost;
+
+//XSessionMigrateHost
+//{
+//    mangled_ppc("XSessionMigrateHost");
+//};
+

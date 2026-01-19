@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkpCollidableCollidableFilterClass; // "?hkpCollidableCollidableFilterClass@@3VhkClass@@B"

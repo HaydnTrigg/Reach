@@ -14,3 +14,23 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapipUseDaylightSavingTime;
+// LocalFileTimeToFileTime;
+// XapiSetLocalTime;
+
+//XapipUseDaylightSavingTime
+//{
+//    mangled_ppc("XapipUseDaylightSavingTime");
+//};
+
+//LocalFileTimeToFileTime
+//{
+//    mangled_ppc("LocalFileTimeToFileTime");
+//};
+
+//XapiSetLocalTime
+//{
+//    mangled_ppc("XapiSetLocalTime");
+//};
+

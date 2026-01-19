@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// RADTimerRead;
+
+//RADTimerRead
+//{
+//    mangled_ppc("RADTimerRead");
+//};
+

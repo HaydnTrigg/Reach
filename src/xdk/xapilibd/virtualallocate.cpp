@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// VirtualAlloc;
+
+//VirtualAlloc
+//{
+//    mangled_ppc("VirtualAlloc");
+//};
+

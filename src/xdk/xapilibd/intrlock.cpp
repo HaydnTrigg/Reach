@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// InterlockedPushEntrySList;
+
+//InterlockedPushEntrySList
+//{
+//    mangled_ppc("InterlockedPushEntrySList");
+//};
+

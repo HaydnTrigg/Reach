@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XSessionSearchByIds;
+
+//XSessionSearchByIds
+//{
+//    mangled_ppc("XSessionSearchByIds");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// CompareFileTime;
+
+//CompareFileTime
+//{
+//    mangled_ppc("CompareFileTime");
+//};
+

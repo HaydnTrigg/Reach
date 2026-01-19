@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// WideCharToMultiByte;
+
+//WideCharToMultiByte
+//{
+//    mangled_ppc("WideCharToMultiByte");
+//};
+

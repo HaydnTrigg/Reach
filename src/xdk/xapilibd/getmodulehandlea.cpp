@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetModuleHandleA;
+
+//GetModuleHandleA
+//{
+//    mangled_ppc("GetModuleHandleA");
+//};
+

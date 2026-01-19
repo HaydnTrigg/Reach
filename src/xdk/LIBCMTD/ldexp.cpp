@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// ldexp;
+
+//ldexp
+//{
+//    mangled_ppc("ldexp");
+//};
+

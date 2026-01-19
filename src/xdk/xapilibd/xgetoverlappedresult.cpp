@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XGetOverlappedResult;
+
+//XGetOverlappedResult
+//{
+//    mangled_ppc("XGetOverlappedResult");
+//};
+

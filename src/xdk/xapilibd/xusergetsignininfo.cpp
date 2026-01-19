@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XUserGetSigninInfo;
+
+//XUserGetSigninInfo
+//{
+//    mangled_ppc("XUserGetSigninInfo");
+//};
+

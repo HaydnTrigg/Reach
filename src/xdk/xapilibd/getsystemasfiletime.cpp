@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// GetSystemTimeAsFileTime;
+
+//GetSystemTimeAsFileTime
+//{
+//    mangled_ppc("GetSystemTimeAsFileTime");
+//};
+

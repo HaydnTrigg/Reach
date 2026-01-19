@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// calloc;
+
+//calloc
+//{
+//    mangled_ppc("calloc");
+//};
+

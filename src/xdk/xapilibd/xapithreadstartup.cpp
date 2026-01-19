@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapiThreadStartup;
+
+//XapiThreadStartup
+//{
+//    mangled_ppc("XapiThreadStartup");
+//};
+

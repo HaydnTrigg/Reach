@@ -583,3 +583,215 @@ extern "C" char* strrchr_debug(const char* haystack, int needle)
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// bool ascii_islower(long);
+// bool ascii_isupper(long);
+// bool ascii_isdigit(long);
+// bool ascii_isalnum(long);
+// bool ascii_isspace(long);
+// bool ascii_isspace(char);
+// long ascii_tolower(long);
+// long ascii_toupper(long);
+// char * ascii_strnupr(char *, unsigned int);
+// char * ascii_strnlwr(char *, unsigned int);
+// unsigned int ascii_stristr(char const *, char const *);
+// long ascii_strnicmp(char const *, char const *, unsigned int);
+// long ascii_stricmp(char const *, char const *);
+// long csstricmp(char const *, char const *);
+// long csstrnicmp(char const *, char const *, unsigned int);
+// char * csstristr(char const *, char const *);
+// char * csstrnzcpy(char *, char const *, unsigned int);
+// char * csstrnzcat(char *, char const *, unsigned int);
+// char * csstrnzncat(char *, char const *, unsigned int, unsigned int);
+// unsigned int csstrnlen(char const *, unsigned int);
+// char * csstrnupr(char *, unsigned int);
+// char * csstrnlwr(char *, unsigned int);
+// char * csnzprintf(char *, unsigned int, char const *, ...);
+// char * csnzappendf(char *, unsigned int, char const *, ...);
+// long cvsnzprintf(char *, unsigned int, char const *, char *);
+// char * csstrtok(char *, char const *, enum e_csstrtok_delimiter_mode, struct csstrtok_data *);
+// char * strpbrk(char *, char const *);
+// strcmp_debug;
+// strncmp_debug;
+// strlen_debug;
+// strstr_debug;
+// strchr_debug;
+// strrchr_debug;
+// unsigned int int_min3<unsigned int>(unsigned int const &, unsigned int const &, unsigned int const &);
+// unsigned int int_min<unsigned int>(unsigned int const &, unsigned int const &);
+
+//bool ascii_islower(long)
+//{
+//    mangled_ppc("?ascii_islower@@YA_NJ@Z");
+//};
+
+//bool ascii_isupper(long)
+//{
+//    mangled_ppc("?ascii_isupper@@YA_NJ@Z");
+//};
+
+//bool ascii_isdigit(long)
+//{
+//    mangled_ppc("?ascii_isdigit@@YA_NJ@Z");
+//};
+
+//bool ascii_isalnum(long)
+//{
+//    mangled_ppc("?ascii_isalnum@@YA_NJ@Z");
+//};
+
+//bool ascii_isspace(long)
+//{
+//    mangled_ppc("?ascii_isspace@@YA_NJ@Z");
+//};
+
+//bool ascii_isspace(char)
+//{
+//    mangled_ppc("?ascii_isspace@@YA_ND@Z");
+//};
+
+//long ascii_tolower(long)
+//{
+//    mangled_ppc("?ascii_tolower@@YAJJ@Z");
+//};
+
+//long ascii_toupper(long)
+//{
+//    mangled_ppc("?ascii_toupper@@YAJJ@Z");
+//};
+
+//char * ascii_strnupr(char *, unsigned int)
+//{
+//    mangled_ppc("?ascii_strnupr@@YAPADPADI@Z");
+//};
+
+//char * ascii_strnlwr(char *, unsigned int)
+//{
+//    mangled_ppc("?ascii_strnlwr@@YAPADPADI@Z");
+//};
+
+//unsigned int ascii_stristr(char const *, char const *)
+//{
+//    mangled_ppc("?ascii_stristr@@YAIPBD0@Z");
+//};
+
+//long ascii_strnicmp(char const *, char const *, unsigned int)
+//{
+//    mangled_ppc("?ascii_strnicmp@@YAJPBD0I@Z");
+//};
+
+//long ascii_stricmp(char const *, char const *)
+//{
+//    mangled_ppc("?ascii_stricmp@@YAJPBD0@Z");
+//};
+
+//long csstricmp(char const *, char const *)
+//{
+//    mangled_ppc("?csstricmp@@YAJPBD0@Z");
+//};
+
+//long csstrnicmp(char const *, char const *, unsigned int)
+//{
+//    mangled_ppc("?csstrnicmp@@YAJPBD0I@Z");
+//};
+
+//char * csstristr(char const *, char const *)
+//{
+//    mangled_ppc("?csstristr@@YAPADPBD0@Z");
+//};
+
+//char * csstrnzcpy(char *, char const *, unsigned int)
+//{
+//    mangled_ppc("?csstrnzcpy@@YAPADPADPBDI@Z");
+//};
+
+//char * csstrnzcat(char *, char const *, unsigned int)
+//{
+//    mangled_ppc("?csstrnzcat@@YAPADPADPBDI@Z");
+//};
+
+//char * csstrnzncat(char *, char const *, unsigned int, unsigned int)
+//{
+//    mangled_ppc("?csstrnzncat@@YAPADPADPBDII@Z");
+//};
+
+//unsigned int csstrnlen(char const *, unsigned int)
+//{
+//    mangled_ppc("?csstrnlen@@YAIPBDI@Z");
+//};
+
+//char * csstrnupr(char *, unsigned int)
+//{
+//    mangled_ppc("?csstrnupr@@YAPADPADI@Z");
+//};
+
+//char * csstrnlwr(char *, unsigned int)
+//{
+//    mangled_ppc("?csstrnlwr@@YAPADPADI@Z");
+//};
+
+//char * csnzprintf(char *, unsigned int, char const *, ...)
+//{
+//    mangled_ppc("?csnzprintf@@YAPADPADIPBDZZ");
+//};
+
+//char * csnzappendf(char *, unsigned int, char const *, ...)
+//{
+//    mangled_ppc("?csnzappendf@@YAPADPADIPBDZZ");
+//};
+
+//long cvsnzprintf(char *, unsigned int, char const *, char *)
+//{
+//    mangled_ppc("?cvsnzprintf@@YAJPADIPBD0@Z");
+//};
+
+//char * csstrtok(char *, char const *, enum e_csstrtok_delimiter_mode, struct csstrtok_data *)
+//{
+//    mangled_ppc("?csstrtok@@YAPADPADPBDW4e_csstrtok_delimiter_mode@@PAUcsstrtok_data@@@Z");
+//};
+
+//char * strpbrk(char *, char const *)
+//{
+//    mangled_ppc("?strpbrk@@YAPADPADPBD@Z");
+//};
+
+//strcmp_debug
+//{
+//    mangled_ppc("strcmp_debug");
+//};
+
+//strncmp_debug
+//{
+//    mangled_ppc("strncmp_debug");
+//};
+
+//strlen_debug
+//{
+//    mangled_ppc("strlen_debug");
+//};
+
+//strstr_debug
+//{
+//    mangled_ppc("strstr_debug");
+//};
+
+//strchr_debug
+//{
+//    mangled_ppc("strchr_debug");
+//};
+
+//strrchr_debug
+//{
+//    mangled_ppc("strrchr_debug");
+//};
+
+//unsigned int int_min3<unsigned int>(unsigned int const &, unsigned int const &, unsigned int const &)
+//{
+//    mangled_ppc("??$int_min3@I@@YAIABI00@Z");
+//};
+
+//unsigned int int_min<unsigned int>(unsigned int const &, unsigned int const &)
+//{
+//    mangled_ppc("??$int_min@I@@YAIABI0@Z");
+//};
+

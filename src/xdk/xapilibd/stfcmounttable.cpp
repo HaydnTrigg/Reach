@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XMountUtilityDriveUseStfc;
+
+//XMountUtilityDriveUseStfc
+//{
+//    mangled_ppc("XMountUtilityDriveUseStfc");
+//};
+

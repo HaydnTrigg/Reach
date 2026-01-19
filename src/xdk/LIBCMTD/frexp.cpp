@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// frexp;
+
+//frexp
+//{
+//    mangled_ppc("frexp");
+//};
+

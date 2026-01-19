@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// IsBadReadPtr;
+
+//IsBadReadPtr
+//{
+//    mangled_ppc("IsBadReadPtr");
+//};
+

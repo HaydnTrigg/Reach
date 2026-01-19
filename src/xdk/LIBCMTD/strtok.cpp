@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// strtok;
+
+//strtok
+//{
+//    mangled_ppc("strtok");
+//};
+

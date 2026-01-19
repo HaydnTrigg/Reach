@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// SwitchToThread;
+
+//SwitchToThread
+//{
+//    mangled_ppc("SwitchToThread");
+//};
+

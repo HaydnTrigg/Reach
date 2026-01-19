@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// CreateFileA;
+
+//CreateFileA
+//{
+//    mangled_ppc("CreateFileA");
+//};
+

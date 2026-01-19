@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkpVehicleVelocityDamperClass; // "?hkpVehicleVelocityDamperClass@@3VhkClass@@B"

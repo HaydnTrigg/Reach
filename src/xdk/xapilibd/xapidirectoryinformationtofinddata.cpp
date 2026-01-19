@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XapiDirectoryInformationToFindData;
+
+//XapiDirectoryInformationToFindData
+//{
+//    mangled_ppc("XapiDirectoryInformationToFindData");
+//};
+

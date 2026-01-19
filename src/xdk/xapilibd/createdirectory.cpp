@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// CreateDirectoryA;
+
+//CreateDirectoryA
+//{
+//    mangled_ppc("CreateDirectoryA");
+//};
+

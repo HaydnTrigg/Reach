@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// VirtualFree;
+
+//VirtualFree
+//{
+//    mangled_ppc("VirtualFree");
+//};
+

@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _wopenfile;
+
+//_wopenfile
+//{
+//    mangled_ppc("_wopenfile");
+//};
+

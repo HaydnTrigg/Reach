@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// longjmp;
+
+//longjmp
+//{
+//    mangled_ppc("longjmp");
+//};
+

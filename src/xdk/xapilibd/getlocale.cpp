@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// XGetLocale;
+
+//XGetLocale
+//{
+//    mangled_ppc("XGetLocale");
+//};
+

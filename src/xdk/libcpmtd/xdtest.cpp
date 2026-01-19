@@ -14,3 +14,11 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// _Dtest;
+
+//_Dtest
+//{
+//    mangled_ppc("_Dtest");
+//};
+

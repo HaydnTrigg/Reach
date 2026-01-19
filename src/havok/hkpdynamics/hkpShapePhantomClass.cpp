@@ -13,3 +13,5 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+
+// class hkClass const hkpShapePhantomClass; // "?hkpShapePhantomClass@@3VhkClass@@B"

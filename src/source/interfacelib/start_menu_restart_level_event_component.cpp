@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_restart_level_event_component.h"
 
 /* ---------- constants */
 

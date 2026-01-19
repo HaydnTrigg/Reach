@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\synchronization_object.h"
 
 /* ---------- constants */
 

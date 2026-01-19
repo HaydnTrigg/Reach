@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPairCollisionFilter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

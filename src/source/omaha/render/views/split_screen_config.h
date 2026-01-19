@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SPLIT_SCREEN_CONFIG_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\tag_string_id_editor.h"
 
 /* ---------- constants */
 

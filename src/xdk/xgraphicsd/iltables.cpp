@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\iltables.h"
 
 /* ---------- constants */
 
@@ -31,3 +32,4 @@
 // char const **XGRAPHICS::ILTexShadowModeStr; // "?ILTexShadowModeStr@XGRAPHICS@@3PAPBDA"
 // char const **XGRAPHICS::ILImportSelStr; // "?ILImportSelStr@XGRAPHICS@@3PAPBDA"
 // char const **XGRAPHICS::ILZeroOpStr; // "?ILZeroOpStr@XGRAPHICS@@3PAPBDA"
+

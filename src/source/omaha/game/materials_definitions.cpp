@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\materials_definitions.h"
 
 /* ---------- constants */
 

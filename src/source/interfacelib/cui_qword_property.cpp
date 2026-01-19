@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_qword_property.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMathUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

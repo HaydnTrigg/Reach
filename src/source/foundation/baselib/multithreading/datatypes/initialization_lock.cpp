@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\datatypes\initialization_lock.h"
 
 /* ---------- constants */
 

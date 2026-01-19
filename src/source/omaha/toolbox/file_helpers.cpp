@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\file_helpers.h"
 
 /* ---------- constants */
 

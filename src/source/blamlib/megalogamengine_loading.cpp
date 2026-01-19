@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_loading.h"
 
 /* ---------- constants */
 

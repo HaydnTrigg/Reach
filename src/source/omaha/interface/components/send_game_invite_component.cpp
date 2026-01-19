@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\send_game_invite_component.h"
 
 /* ---------- constants */
 

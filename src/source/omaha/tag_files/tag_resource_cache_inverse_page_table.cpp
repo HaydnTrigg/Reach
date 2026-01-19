@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_resource_cache_inverse_page_table.h"
 
 /* ---------- constants */
 

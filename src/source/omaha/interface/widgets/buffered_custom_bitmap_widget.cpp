@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\buffered_custom_bitmap_widget.h"
 
 /* ---------- constants */
 

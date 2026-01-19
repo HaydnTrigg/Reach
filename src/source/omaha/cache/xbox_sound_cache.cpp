@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\xbox_sound_cache.h"
 
 /* ---------- constants */
 

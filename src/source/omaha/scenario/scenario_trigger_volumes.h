@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SCENARIO_TRIGGER_VOLUMES_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\toggle_switch_component.h"
 
 /* ---------- constants */
 

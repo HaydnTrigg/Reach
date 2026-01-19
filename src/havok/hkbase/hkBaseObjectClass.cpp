@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkBaseObjectClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkBaseObjectClass; // "?hkBaseObjectClass@@3VhkClass@@B"
+

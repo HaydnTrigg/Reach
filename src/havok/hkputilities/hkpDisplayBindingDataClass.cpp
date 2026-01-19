@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpDisplayBindingDataClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

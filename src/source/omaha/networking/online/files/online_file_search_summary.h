@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ONLINE_FILE_SEARCH_SUMMARY_H__
+

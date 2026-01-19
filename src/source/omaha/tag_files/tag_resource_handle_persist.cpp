@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_resource_handle_persist.h"
 
 /* ---------- constants */
 

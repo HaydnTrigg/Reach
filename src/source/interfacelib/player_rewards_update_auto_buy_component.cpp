@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_rewards_update_auto_buy_component.h"
 
 /* ---------- constants */
 

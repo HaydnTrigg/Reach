@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\network_statistics.h"
 
 /* ---------- constants */
 

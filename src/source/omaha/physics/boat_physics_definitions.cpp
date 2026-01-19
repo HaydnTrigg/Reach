@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\boat_physics_definitions.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // struct s_tag_struct_definition boat_physics_definition_struct; // "?boat_physics_definition_struct@@3Us_tag_struct_definition@@A"
+

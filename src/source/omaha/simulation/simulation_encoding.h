@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_ENCODING_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\tab_widget.h"
 
 /* ---------- constants */
 

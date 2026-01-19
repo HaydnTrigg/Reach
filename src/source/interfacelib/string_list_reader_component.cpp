@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\string_list_reader_component.h"
 
 /* ---------- constants */
 

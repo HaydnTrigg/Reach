@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpSphereMotionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

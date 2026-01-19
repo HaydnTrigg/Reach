@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_debug_auto_graph.h"
 
 /* ---------- constants */
 

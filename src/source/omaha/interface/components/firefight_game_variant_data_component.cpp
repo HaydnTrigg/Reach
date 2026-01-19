@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\firefight_game_variant_data_component.h"
 
 /* ---------- constants */
 

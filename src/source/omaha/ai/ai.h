@@ -1,0 +1,18 @@
+#pragma once
+#ifndef __AI_H__
+#define __AI_H__
+
+/* ---------- headers */
+
+/* ---------- constants */
+
+/* ---------- definitions */
+
+/* ---------- prototypes */
+
+/* ---------- globals */
+
+/* ---------- public code */
+
+#endif // __AI_H__
+

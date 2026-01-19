@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\dialog_pipe_client_component.h"
 
 /* ---------- constants */
 

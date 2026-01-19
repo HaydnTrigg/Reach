@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __BINARY_SWITCH_COMPONENT_H__
+

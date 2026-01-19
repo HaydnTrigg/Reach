@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\xenon_geometry_cache.h"
 
 /* ---------- constants */
 

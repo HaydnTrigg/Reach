@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\networking_active_roster_reader_component.h"
 
 /* ---------- constants */
 

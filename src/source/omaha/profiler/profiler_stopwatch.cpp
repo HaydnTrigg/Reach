@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\profiler\profiler_stopwatch.h"
 
 /* ---------- constants */
 

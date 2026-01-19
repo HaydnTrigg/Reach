@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpRigidBodyInertiaViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

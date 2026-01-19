@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\game_audibility.h"
 
 /* ---------- constants */
 

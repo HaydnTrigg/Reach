@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\unit_phase_motor_program.h"
 
 /* ---------- constants */
 

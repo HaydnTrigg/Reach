@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\combat_range.h"
 
 /* ---------- constants */
 

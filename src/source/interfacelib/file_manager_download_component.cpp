@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_manager_download_component.h"
 
 /* ---------- constants */
 

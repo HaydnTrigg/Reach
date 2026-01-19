@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\campaign_metagame.h"
 
 /* ---------- constants */
 

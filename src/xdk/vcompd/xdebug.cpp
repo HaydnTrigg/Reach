@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\vcompd\xdebug.h"
 
 /* ---------- constants */
 

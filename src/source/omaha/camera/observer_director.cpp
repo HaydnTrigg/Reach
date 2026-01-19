@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\observer_director.h"
 
 /* ---------- constants */
 

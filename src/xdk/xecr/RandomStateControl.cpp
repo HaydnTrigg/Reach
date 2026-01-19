@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xecr\RandomStateControl.h"
 
 /* ---------- constants */
 

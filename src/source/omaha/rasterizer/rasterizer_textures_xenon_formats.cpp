@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_textures_xenon_formats.h"
 
 /* ---------- constants */
 

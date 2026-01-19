@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\loadout_select_component.h"
 
 /* ---------- constants */
 

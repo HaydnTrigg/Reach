@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xaudiod\xaudcmn.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUnziAJUxlivUkirezgvUcgoUzfwrlUxlnnlmUmlinzoUlyqUcylcUczfwxnmOlyq@xaudcmnd; // "__@@_PchSym_@00@UcvmlmUnziAJUxlivUkirezgvUcgoUzfwrlUxlnnlmUmlinzoUlyqUcylcUczfwxnmOlyq@xaudcmnd"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\change_privacy_list_data_component.h"
 
 /* ---------- constants */
 

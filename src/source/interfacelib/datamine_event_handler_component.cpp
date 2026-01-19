@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\datamine_event_handler_component.h"
 
 /* ---------- constants */
 

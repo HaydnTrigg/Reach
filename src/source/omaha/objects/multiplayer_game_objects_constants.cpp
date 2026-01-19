@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\multiplayer_game_objects_constants.h"
 
 /* ---------- constants */
 

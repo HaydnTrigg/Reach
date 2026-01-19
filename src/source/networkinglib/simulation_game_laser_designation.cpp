@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\simulation_game_laser_designation.h"
 
 /* ---------- constants */
 

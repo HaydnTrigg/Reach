@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxTextureInplaceClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

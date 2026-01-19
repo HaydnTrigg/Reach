@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPulleyConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

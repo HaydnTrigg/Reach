@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\target_tracking.h"
 
 /* ---------- constants */
 

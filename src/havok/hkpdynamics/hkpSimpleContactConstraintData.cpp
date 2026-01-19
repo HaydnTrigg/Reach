@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpSimpleContactConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

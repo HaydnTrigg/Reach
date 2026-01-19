@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\content_item_screenshot_widget.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\storage_device_manager.h"
 
 /* ---------- constants */
 

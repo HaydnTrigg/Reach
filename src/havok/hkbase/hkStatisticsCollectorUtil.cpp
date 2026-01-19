@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkStatisticsCollectorUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

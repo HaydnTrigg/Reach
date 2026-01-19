@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_file_layout_persist.h"
 
 /* ---------- constants */
 

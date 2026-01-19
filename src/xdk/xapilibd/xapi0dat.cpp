@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\xapi0dat.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxVertexFloatDataChannelClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

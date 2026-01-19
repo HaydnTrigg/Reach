@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkDebugMemorySnapshot.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

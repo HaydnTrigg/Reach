@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\clear_new_user_armory_flag_event_handler_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\screen_shader.h"
 
 /* ---------- constants */
 

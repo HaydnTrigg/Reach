@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\vsval20.h"
 
 /* ---------- constants */
 

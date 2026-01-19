@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpWheelConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

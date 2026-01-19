@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_manager_subscribe_bnet_pro_component.h"
 
 /* ---------- constants */
 

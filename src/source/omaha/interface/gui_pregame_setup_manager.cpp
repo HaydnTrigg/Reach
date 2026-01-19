@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\gui_pregame_setup_manager.h"
 
 /* ---------- constants */
 

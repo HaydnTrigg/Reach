@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleCastBatchingManagerClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkpVehicleCastBatchingManagerClass; // "?hkpVehicleCastBatchingManagerClass@@3VhkClass@@B"
+

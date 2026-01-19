@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDefaultSteeringClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

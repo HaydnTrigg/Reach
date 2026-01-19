@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\user_interface_html_text_parsers.h"
 
 /* ---------- constants */
 

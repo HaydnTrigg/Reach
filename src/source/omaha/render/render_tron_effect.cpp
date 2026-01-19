@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_tron_effect.h"
 
 /* ---------- constants */
 

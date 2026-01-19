@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkStackTracer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

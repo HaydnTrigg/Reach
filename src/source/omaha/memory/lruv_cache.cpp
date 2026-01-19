@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\lruv_cache.h"
 
 /* ---------- constants */
 

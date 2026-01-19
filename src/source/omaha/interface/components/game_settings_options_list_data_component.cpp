@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\game_settings_options_list_data_component.h"
 
 /* ---------- constants */
 

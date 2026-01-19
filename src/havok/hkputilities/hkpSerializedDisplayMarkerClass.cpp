@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSerializedDisplayMarkerClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpRayCollidableFilterClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkpRayCollidableFilterClass; // "?hkpRayCollidableFilterClass@@3VhkClass@@B"
+

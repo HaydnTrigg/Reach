@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\work_unit_params.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\pgcr_multi_player_medal_list_data_component.h"
 
 /* ---------- constants */
 

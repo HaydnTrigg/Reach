@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\scenery.h"
 
 /* ---------- constants */
 

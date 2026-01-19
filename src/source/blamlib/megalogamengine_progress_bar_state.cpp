@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_progress_bar_state.h"
 
 /* ---------- constants */
 

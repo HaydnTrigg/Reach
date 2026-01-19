@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __WRAPPED_ARRAYS_H__
+

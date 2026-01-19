@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\scenario_zone_debugger.h"
 
 /* ---------- constants */
 

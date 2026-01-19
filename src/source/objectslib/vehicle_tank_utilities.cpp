@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "objectslib\vehicle_tank_utilities.h"
 
 /* ---------- constants */
 

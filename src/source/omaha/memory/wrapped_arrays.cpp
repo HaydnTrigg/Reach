@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\wrapped_arrays.h"
 
 /* ---------- constants */
 

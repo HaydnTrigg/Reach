@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\cui_alert.h"
 
 /* ---------- constants */
 

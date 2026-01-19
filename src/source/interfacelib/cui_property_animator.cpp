@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_property_animator.h"
 
 /* ---------- constants */
 

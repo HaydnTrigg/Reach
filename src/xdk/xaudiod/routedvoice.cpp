@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xaudiod\routedvoice.h"
 
 /* ---------- constants */
 

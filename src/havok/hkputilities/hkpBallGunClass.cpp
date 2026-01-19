@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpBallGunClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

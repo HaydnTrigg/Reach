@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\life_cycle\life_cycle_component_gather.h"
 
 /* ---------- constants */
 

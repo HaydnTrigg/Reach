@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPhantomDisplayViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\cseries_events.h"
 
 /* ---------- constants */
 

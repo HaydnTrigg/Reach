@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDefaultAerodynamics.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

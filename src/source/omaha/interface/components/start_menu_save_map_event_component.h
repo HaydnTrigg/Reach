@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __START_MENU_SAVE_MAP_EVENT_COMPONENT_H__
+

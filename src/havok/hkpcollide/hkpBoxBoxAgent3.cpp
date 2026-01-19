@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpBoxBoxAgent3.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

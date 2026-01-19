@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\resetevent.h"
 
 /* ---------- constants */
 

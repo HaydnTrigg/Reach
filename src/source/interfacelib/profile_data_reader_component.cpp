@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\profile_data_reader_component.h"
 
 /* ---------- constants */
 

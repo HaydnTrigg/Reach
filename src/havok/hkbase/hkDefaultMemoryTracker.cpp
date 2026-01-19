@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkDefaultMemoryTracker.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

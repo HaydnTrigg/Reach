@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\nag_message_image_downloader_component.h"
 
 /* ---------- constants */
 

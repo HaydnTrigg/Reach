@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SAVE_CONTENT_ITEM_AS_COMPONENT_H__
+

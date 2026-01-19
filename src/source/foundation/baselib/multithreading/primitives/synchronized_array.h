@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SYNCHRONIZED_ARRAY_H__
+

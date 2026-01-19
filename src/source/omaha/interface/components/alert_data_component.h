@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ALERT_DATA_COMPONENT_H__
+

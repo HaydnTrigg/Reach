@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cutscene\cinematic_lighting.h"
 
 /* ---------- constants */
 

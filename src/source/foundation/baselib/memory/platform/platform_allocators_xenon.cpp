@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\memory\platform\platform_allocators_xenon.h"
 
 /* ---------- constants */
 

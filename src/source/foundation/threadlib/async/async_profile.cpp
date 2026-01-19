@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\async\async_profile.h"
 
 /* ---------- constants */
 

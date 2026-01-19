@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __JPEG_COMPRESSION_TARGET_H__
+

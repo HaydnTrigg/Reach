@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkClassEnumClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

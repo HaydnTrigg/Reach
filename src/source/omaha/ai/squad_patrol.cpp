@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\squad_patrol.h"
 
 /* ---------- constants */
 

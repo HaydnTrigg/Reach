@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpBallSocketDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STOP_WATCH_H__
+

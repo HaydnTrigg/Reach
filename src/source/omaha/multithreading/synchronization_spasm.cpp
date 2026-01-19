@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\multithreading\synchronization_spasm.h"
 
 /* ---------- constants */
 

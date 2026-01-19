@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\keyboard_component.h"
 
 /* ---------- constants */
 

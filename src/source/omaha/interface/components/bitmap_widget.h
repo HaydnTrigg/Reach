@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __BITMAP_WIDGET_H__
+

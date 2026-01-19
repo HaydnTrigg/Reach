@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\curve_codec\facial_curve_packer.h"
 
 /* ---------- constants */
 

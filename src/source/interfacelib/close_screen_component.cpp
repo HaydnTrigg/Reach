@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\close_screen_component.h"
 
 /* ---------- constants */
 

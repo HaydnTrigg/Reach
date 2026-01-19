@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_promote_to_leader_component.h"
 
 /* ---------- constants */
 

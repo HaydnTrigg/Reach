@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\loading.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\views\render_view_stack.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpConvexRadiusBuilder.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

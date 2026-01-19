@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\critical_section_windows.h"
 
 /* ---------- constants */
 

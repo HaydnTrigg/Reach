@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSerializedDisplayRbTransforms.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

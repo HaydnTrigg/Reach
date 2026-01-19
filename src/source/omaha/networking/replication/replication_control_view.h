@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __REPLICATION_CONTROL_VIEW_H__
+

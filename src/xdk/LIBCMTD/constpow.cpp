@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\constpow.h"
 
 /* ---------- constants */
 
@@ -17,3 +18,4 @@
 
 // _pow10pos; // "_pow10pos"
 // _pow10neg; // "_pow10neg"
+

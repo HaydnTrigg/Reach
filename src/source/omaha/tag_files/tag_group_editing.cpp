@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_group_editing.h"
 
 /* ---------- constants */
 

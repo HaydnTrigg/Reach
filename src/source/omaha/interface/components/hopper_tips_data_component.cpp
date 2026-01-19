@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\hopper_tips_data_component.h"
 
 /* ---------- constants */
 

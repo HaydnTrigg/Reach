@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\simulation_queue_entities.h"
 
 /* ---------- constants */
 

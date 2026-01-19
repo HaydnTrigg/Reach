@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\xenon\dsp\waves_effect_helpers.h"
 
 /* ---------- constants */
 

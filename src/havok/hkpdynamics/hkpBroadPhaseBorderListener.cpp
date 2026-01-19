@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpBroadPhaseBorderListener.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

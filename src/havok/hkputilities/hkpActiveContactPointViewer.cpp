@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpActiveContactPointViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

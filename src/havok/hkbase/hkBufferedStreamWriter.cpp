@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkBufferedStreamWriter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\per_vertex_compression.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // union vector3d *tessellated_Icosahedron; // "?tessellated_Icosahedron@@3PATvector3d@@A"
+

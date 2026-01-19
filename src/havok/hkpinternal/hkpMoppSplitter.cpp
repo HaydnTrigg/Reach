@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppSplitter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\campaign_lobby_data_component.h"
 
 /* ---------- constants */
 

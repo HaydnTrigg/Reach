@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\screenspace_antialias_hack.h"
 
 /* ---------- constants */
 

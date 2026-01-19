@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\collision_bsp.h"
 
 /* ---------- constants */
 

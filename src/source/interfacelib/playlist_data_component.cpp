@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\playlist_data_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\cl_engine.h"
 
 /* ---------- constants */
 

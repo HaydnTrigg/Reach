@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_resource_internals.h"
 
 /* ---------- constants */
 

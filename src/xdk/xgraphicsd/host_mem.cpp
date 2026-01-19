@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\host_mem.h"
 
 /* ---------- constants */
 

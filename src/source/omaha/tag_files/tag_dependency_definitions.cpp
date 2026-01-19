@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_dependency_definitions.h"
 
 /* ---------- constants */
 

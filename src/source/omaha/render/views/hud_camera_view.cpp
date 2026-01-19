@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\views\hud_camera_view.h"
 
 /* ---------- constants */
 

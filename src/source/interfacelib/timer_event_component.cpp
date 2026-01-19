@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\timer_event_component.h"
 
 /* ---------- constants */
 

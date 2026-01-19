@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\light_volumes.h"
 
 /* ---------- constants */
 

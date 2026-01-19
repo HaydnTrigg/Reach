@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\algorithms\binary_search.h"
 
 /* ---------- constants */
 

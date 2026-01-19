@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_control_pad_stop_recording_event_handler_component.h"
 
 /* ---------- constants */
 

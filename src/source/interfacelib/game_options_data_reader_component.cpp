@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_options_data_reader_component.h"
 
 /* ---------- constants */
 

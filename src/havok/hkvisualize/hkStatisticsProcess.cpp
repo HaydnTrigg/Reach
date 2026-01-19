@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkStatisticsProcess.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __NETWORK_CHANNEL_H__
+

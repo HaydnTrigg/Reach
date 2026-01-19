@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TAG_RESOURCE_CACHE_DATUM_PERSIST_H__
+

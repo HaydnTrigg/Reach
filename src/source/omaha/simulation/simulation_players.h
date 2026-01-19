@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_PLAYERS_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\user_interface_player_model_camera.h"
 
 /* ---------- constants */
 

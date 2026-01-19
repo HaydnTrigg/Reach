@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\txtmode.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // _fmode; // "_fmode"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_end_film_event_component.h"
 
 /* ---------- constants */
 

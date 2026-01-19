@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpReorientAction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

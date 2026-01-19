@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkinternal\hkPlaneEquationUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

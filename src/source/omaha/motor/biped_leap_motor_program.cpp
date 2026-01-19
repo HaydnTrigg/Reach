@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\biped_leap_motor_program.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\breakable_surfaces.h"
 
 /* ---------- constants */
 

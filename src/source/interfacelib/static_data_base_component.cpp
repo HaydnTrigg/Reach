@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\static_data_base_component.h"
 
 /* ---------- constants */
 

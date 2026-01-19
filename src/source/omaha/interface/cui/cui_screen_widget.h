@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_SCREEN_WIDGET_H__
+

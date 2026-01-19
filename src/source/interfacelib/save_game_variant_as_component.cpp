@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\save_game_variant_as_component.h"
 
 /* ---------- constants */
 

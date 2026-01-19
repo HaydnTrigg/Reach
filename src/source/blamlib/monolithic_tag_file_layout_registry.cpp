@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\monolithic_tag_file_layout_registry.h"
 
 /* ---------- constants */
 

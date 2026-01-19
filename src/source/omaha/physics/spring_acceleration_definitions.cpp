@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\spring_acceleration_definitions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\hs\hs_unit_seats.h"
 
 /* ---------- constants */
 

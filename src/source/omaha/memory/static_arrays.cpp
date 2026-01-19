@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\static_arrays.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpConvexPieceStreamDataClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __NETWORK_SESSION_PARAMETERS_GENERIC_H__
+

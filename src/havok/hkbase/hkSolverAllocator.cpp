@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkSolverAllocator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

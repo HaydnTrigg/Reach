@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpWorldOperationQueue.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

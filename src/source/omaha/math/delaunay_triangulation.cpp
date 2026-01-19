@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\delaunay_triangulation.h"
 
 /* ---------- constants */
 

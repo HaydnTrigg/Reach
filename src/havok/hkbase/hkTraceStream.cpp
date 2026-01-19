@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkTraceStream.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

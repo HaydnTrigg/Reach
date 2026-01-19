@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\fseeki64.h"
 
 /* ---------- constants */
 

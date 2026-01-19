@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\memory\allocation_interface.h"
 
 /* ---------- constants */
 

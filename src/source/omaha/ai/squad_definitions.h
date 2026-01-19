@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SQUAD_DEFINITIONS_H__
+

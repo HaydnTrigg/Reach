@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_toggle_editor_event_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPhysicsContext.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

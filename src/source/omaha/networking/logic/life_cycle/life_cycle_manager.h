@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __LIFE_CYCLE_MANAGER_H__
+

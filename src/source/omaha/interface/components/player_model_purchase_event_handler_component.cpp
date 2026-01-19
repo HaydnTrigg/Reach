@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\player_model_purchase_event_handler_component.h"
 
 /* ---------- constants */
 

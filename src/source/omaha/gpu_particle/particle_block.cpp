@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\gpu_particle\particle_block.h"
 
 /* ---------- constants */
 

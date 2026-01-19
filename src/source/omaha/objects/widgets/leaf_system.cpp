@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\widgets\leaf_system.h"
 
 /* ---------- constants */
 

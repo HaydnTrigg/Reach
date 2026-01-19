@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpShapePhantom.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

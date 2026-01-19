@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\input\input_abstraction.h"
 
 /* ---------- constants */
 

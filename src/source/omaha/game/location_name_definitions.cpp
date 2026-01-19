@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\location_name_definitions.h"
 
 /* ---------- constants */
 

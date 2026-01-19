@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\simulation_game_object_index_state_data.h"
 
 /* ---------- constants */
 

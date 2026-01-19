@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpDashpotAction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

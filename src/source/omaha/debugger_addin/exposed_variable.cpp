@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\debugger_addin\exposed_variable.h"
 
 /* ---------- constants */
 

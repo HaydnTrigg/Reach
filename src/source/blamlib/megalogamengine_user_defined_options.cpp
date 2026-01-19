@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_user_defined_options.h"
 
 /* ---------- constants */
 

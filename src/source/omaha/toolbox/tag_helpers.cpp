@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\tag_helpers.h"
 
 /* ---------- constants */
 

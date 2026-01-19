@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpRemoveTerminalsMoppModifierClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

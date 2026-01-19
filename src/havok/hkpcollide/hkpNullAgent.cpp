@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpNullAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

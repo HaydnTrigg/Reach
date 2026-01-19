@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\interface.h"
 
 /* ---------- constants */
 

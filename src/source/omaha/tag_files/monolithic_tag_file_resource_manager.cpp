@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\monolithic_tag_file_resource_manager.h"
 
 /* ---------- constants */
 

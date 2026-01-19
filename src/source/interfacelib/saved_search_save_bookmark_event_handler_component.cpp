@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\saved_search_save_bookmark_event_handler_component.h"
 
 /* ---------- constants */
 

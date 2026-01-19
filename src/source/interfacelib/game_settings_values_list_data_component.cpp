@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_settings_values_list_data_component.h"
 
 /* ---------- constants */
 

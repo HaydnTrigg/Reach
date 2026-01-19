@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\pchmath.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUnzgsUcylcUlyqUcylcUkxsnzgsOlyq@d3dxmath; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUnzgsUcylcUlyqUcylcUkxsnzgsOlyq@d3dxmath"
+

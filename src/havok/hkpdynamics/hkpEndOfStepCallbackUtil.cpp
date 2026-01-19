@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpEndOfStepCallbackUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

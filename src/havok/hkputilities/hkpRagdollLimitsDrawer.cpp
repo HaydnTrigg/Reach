@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpRagdollLimitsDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

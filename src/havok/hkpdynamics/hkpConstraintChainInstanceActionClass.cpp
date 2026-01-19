@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpConstraintChainInstanceActionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

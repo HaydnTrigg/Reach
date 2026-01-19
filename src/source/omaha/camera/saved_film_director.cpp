@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\saved_film_director.h"
 
 /* ---------- constants */
 

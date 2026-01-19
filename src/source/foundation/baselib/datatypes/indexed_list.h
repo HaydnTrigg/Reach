@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __INDEXED_LIST_H__
+

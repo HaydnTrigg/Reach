@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_interpolators.h"
 
 /* ---------- constants */
 

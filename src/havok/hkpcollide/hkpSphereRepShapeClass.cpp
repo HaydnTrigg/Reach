@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpSphereRepShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkpSphereRepShapeClass; // "?hkpSphereRepShapeClass@@3VhkClass@@B"
+

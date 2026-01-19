@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\rtldbghelp.h"
 
 /* ---------- constants */
 

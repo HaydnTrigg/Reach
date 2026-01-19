@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\leave_matchmaking_component.h"
 
 /* ---------- constants */
 

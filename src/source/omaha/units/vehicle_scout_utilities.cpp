@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\vehicle_scout_utilities.h"
 
 /* ---------- constants */
 

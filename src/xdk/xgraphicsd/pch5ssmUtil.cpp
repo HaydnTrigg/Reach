@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\pch5ssmUtil.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUctizksrxhUfxlwvUhhnUfgroUcylcUlyqUcylcUkxsFhhnfgroOlyq@xgraphicsUcodessmUtild; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUctizksrxhUfxlwvUhhnUfgroUcylcUlyqUcylcUkxsFhhnfgroOlyq@xgraphicsUcodessmUtild"
+

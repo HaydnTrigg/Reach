@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\xbox_minidump.h"
 
 /* ---------- constants */
 

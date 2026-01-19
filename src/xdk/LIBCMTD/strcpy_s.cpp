@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\strcpy_s.h"
 
 /* ---------- constants */
 

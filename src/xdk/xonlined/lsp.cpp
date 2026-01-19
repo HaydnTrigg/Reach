@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xonlined\lsp.h"
 
 /* ---------- constants */
 

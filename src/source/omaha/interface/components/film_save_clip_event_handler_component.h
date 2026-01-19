@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FILM_SAVE_CLIP_EVENT_HANDLER_COMPONENT_H__
+

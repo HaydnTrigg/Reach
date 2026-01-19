@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuBroadPhaseJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

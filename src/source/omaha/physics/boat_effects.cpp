@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\boat_effects.h"
 
 /* ---------- constants */
 

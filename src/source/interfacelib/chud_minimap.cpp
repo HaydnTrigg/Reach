@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\chud_minimap.h"
 
 /* ---------- constants */
 

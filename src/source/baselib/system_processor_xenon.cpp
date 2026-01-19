@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\system_processor_xenon.h"
 
 /* ---------- constants */
 

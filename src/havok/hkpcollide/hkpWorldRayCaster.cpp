@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpWorldRayCaster.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

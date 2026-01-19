@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_d3d_allocations.h"
 
 /* ---------- constants */
 

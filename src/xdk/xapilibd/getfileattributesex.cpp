@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\getfileattributesex.h"
 
 /* ---------- constants */
 

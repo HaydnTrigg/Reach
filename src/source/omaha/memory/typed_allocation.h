@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TYPED_ALLOCATION_H__
+

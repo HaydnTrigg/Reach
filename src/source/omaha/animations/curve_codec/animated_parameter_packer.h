@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ANIMATED_PARAMETER_PACKER_H__
+

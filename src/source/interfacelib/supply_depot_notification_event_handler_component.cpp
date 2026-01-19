@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\supply_depot_notification_event_handler_component.h"
 
 /* ---------- constants */
 

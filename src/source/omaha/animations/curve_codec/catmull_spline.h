@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CATMULL_SPLINE_H__
+

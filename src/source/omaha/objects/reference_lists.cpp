@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\reference_lists.h"
 
 /* ---------- constants */
 

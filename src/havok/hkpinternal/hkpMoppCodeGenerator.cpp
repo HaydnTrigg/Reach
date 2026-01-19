@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppCodeGenerator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

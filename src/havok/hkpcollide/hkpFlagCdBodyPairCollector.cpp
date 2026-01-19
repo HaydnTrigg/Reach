@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpFlagCdBodyPairCollector.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

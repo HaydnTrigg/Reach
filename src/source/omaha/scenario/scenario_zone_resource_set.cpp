@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_zone_resource_set.h"
 
 /* ---------- constants */
 

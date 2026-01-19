@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpDynamicsJobQueueUtils.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

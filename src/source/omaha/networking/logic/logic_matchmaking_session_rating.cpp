@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\logic_matchmaking_session_rating.h"
 
 /* ---------- constants */
 

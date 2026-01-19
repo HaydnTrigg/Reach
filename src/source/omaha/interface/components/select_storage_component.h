@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SELECT_STORAGE_COMPONENT_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\in_progress_data_component.h"
 
 /* ---------- constants */
 

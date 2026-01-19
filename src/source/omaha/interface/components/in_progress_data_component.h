@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __IN_PROGRESS_DATA_COMPONENT_H__
+

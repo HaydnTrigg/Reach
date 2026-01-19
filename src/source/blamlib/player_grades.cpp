@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\player_grades.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\work_unit_handle.h"
 
 /* ---------- constants */
 

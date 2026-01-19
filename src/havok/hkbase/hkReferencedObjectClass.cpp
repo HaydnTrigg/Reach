@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkReferencedObjectClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

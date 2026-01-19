@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FILE_BROWSER_PIPE_READER_COMPONENT_H__
+

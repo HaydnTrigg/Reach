@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\system_link_game_players_data_component.h"
 
 /* ---------- constants */
 

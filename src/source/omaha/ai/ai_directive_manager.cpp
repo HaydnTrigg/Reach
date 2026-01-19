@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_directive_manager.h"
 
 /* ---------- constants */
 

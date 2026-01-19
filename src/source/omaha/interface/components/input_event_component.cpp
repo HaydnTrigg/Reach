@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\input_event_component.h"
 
 /* ---------- constants */
 

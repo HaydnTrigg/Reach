@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_manager_summary_reader_component.h"
 
 /* ---------- constants */
 

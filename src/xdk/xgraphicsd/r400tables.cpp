@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\r400tables.h"
 
 /* ---------- constants */
 

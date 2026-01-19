@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\show_gamercard_component.h"
 
 /* ---------- constants */
 

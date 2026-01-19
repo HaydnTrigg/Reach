@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\downloaded_bitmap_widget.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SHADER_BASE_COMPONENT_H__
+

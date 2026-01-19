@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\memory\debug_memory\debug_memory_globals.h"
 
 /* ---------- constants */
 

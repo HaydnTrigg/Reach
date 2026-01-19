@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpKdTreeWorldLinearCaster.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

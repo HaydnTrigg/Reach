@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkLineNumberStreamReader.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

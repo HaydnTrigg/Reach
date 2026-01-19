@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TRIANGULATION_H__
+

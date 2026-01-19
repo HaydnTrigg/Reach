@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_resource_manager_simple_cache_datum_handler.h"
 
 /* ---------- constants */
 

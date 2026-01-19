@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\online_file_identifier_list.h"
 
 /* ---------- constants */
 

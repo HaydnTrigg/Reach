@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SEND_GAME_INVITE_COMPONENT_H__
+

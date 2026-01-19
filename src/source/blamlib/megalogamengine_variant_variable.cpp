@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_variant_variable.h"
 
 /* ---------- constants */
 

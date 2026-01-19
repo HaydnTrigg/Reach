@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RENDER_PLAYER_VIEW_H__
+

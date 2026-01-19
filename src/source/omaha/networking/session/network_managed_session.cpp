@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\session\network_managed_session.h"
 
 /* ---------- constants */
 

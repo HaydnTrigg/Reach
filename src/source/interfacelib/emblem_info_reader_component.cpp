@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\emblem_info_reader_component.h"
 
 /* ---------- constants */
 

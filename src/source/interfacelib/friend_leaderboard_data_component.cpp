@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\friend_leaderboard_data_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppKDopGeometriesVirtualMachine.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

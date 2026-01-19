@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\load_content_item_game_variant_component.h"
 
 /* ---------- constants */
 

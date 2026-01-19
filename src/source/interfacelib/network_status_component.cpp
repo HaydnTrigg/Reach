@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\network_status_component.h"
 
 /* ---------- constants */
 

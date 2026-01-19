@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\custom_animation_component.h"
 
 /* ---------- constants */
 

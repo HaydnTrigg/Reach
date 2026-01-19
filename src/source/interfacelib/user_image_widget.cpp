@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\user_image_widget.h"
 
 /* ---------- constants */
 

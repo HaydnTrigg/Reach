@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\widgets\cellular_automata2d.h"
 
 /* ---------- constants */
 

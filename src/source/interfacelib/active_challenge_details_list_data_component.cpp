@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\active_challenge_details_list_data_component.h"
 
 /* ---------- constants */
 

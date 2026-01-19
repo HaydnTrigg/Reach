@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\player_model_widget.h"
 
 /* ---------- constants */
 

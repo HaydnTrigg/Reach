@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuIntegrateMotionJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

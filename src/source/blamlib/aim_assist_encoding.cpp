@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\aim_assist_encoding.h"
 
 /* ---------- constants */
 

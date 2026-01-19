@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\build_version_data_component.h"
 
 /* ---------- constants */
 

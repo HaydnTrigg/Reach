@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_map_variant_utilities.h"
 
 /* ---------- constants */
 

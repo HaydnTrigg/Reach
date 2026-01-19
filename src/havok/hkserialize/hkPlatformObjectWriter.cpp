@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkPlatformObjectWriter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

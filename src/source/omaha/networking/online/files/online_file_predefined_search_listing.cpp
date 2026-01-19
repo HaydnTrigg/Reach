@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\files\online_file_predefined_search_listing.h"
 
 /* ---------- constants */
 

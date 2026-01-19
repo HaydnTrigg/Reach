@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\stacked_layout_container_widget.h"
 
 /* ---------- constants */
 

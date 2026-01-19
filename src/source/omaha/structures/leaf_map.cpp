@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\leaf_map.h"
 
 /* ---------- constants */
 

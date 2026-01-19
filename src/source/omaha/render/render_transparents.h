@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RENDER_TRANSPARENTS_H__
+

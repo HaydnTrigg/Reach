@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_equipment_info_component.h"
 
 /* ---------- constants */
 

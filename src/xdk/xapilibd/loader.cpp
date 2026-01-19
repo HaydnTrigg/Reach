@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\loader.h"
 
 /* ---------- constants */
 

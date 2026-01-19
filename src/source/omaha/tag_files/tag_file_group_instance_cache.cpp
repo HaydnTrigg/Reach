@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_file_group_instance_cache.h"
 
 /* ---------- constants */
 

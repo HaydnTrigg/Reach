@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleBrakeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkpVehicleBrakeClass; // "?hkpVehicleBrakeClass@@3VhkClass@@B"
+

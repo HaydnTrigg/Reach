@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpMousePickingViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

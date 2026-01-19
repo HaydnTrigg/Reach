@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\widgets\widgets.h"
 
 /* ---------- constants */
 

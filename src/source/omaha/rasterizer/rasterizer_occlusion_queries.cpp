@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_occlusion_queries.h"
 
 /* ---------- constants */
 

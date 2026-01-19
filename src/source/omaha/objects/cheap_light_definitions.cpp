@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\cheap_light_definitions.h"
 
 /* ---------- constants */
 

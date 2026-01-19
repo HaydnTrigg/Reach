@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_PROPERTY_ANIMATOR_H__
+

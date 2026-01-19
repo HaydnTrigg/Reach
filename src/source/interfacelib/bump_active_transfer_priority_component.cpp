@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\bump_active_transfer_priority_component.h"
 
 /* ---------- constants */
 

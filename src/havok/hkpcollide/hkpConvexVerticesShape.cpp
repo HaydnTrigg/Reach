@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpConvexVerticesShape.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpHingeDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

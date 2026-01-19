@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ACTIVE_CHALLENGES_LIST_DATA_COMPONENT_H__
+

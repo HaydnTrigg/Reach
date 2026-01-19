@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\views\render_texture_camera_view.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xaudiod\reverbeffect.h"
 
 /* ---------- constants */
 

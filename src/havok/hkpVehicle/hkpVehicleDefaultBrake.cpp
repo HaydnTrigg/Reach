@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDefaultBrake.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

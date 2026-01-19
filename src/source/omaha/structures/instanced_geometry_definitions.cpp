@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\instanced_geometry_definitions.h"
 
 /* ---------- constants */
 

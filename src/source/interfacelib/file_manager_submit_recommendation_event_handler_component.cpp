@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_manager_submit_recommendation_event_handler_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkVersionReporter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

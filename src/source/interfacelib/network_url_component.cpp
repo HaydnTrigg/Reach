@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\network_url_component.h"
 
 /* ---------- constants */
 

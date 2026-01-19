@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_reset_map_event_component.h"
 
 /* ---------- constants */
 

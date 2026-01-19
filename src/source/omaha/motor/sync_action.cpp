@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\sync_action.h"
 
 /* ---------- constants */
 

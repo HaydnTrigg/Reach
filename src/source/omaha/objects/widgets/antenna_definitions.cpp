@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\widgets\antenna_definitions.h"
 
 /* ---------- constants */
 

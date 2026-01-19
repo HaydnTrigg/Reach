@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkp26Dop.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpThinBoxMotionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

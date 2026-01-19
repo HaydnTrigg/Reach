@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkLineSegmentUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\saved_search_edit_text_event_handler_component.h"
 
 /* ---------- constants */
 

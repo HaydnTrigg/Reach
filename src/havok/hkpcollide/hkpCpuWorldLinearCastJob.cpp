@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCpuWorldLinearCastJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

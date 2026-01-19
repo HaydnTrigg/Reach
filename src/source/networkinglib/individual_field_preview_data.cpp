@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\individual_field_preview_data.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_load_parameters.h"
 
 /* ---------- constants */
 

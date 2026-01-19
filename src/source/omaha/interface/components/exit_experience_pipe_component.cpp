@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\exit_experience_pipe_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "Rockall\Cache.h"
 
 /* ---------- constants */
 

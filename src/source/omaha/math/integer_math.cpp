@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\integer_math.h"
 
 /* ---------- constants */
 

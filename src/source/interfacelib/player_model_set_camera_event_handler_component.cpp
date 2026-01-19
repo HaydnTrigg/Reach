@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_model_set_camera_event_handler_component.h"
 
 /* ---------- constants */
 

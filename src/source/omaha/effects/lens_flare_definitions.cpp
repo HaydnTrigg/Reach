@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\lens_flare_definitions.h"
 
 /* ---------- constants */
 

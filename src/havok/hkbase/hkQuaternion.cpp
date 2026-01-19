@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkQuaternion.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

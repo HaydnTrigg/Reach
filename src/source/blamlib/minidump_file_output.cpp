@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\minidump_file_output.h"
 
 /* ---------- constants */
 

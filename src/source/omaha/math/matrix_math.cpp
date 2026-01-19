@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\matrix_math.h"
 
 /* ---------- constants */
 

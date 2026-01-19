@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\list_item_widget.h"
 
 /* ---------- constants */
 

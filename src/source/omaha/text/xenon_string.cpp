@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\text\xenon_string.h"
 
 /* ---------- constants */
 

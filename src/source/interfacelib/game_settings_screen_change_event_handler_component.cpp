@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_settings_screen_change_event_handler_component.h"
 
 /* ---------- constants */
 

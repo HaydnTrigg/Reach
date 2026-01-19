@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\xfvalues.h"
 
 /* ---------- constants */
 
@@ -23,3 +24,4 @@
 // _FRteps; // "_FRteps"
 // _FXbig; // "_FXbig"
 // _FZero; // "_FZero"
+

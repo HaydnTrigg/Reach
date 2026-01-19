@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_active_animation.h"
 
 /* ---------- constants */
 

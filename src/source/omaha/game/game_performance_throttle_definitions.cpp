@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_performance_throttle_definitions.h"
 
 /* ---------- constants */
 
@@ -21,3 +22,4 @@
 // struct s_tag_group_stream_definition legacy_game_performance_throttle_stream_definition; // "?legacy_game_performance_throttle_stream_definition@@3Us_tag_group_stream_definition@@A"
 // struct s_tag_group_sync_definition legacy_game_performance_throttle_xsync_declaration; // "?legacy_game_performance_throttle_xsync_declaration@@3Us_tag_group_sync_definition@@A"
 // class c_legacy_tag_group_vtable_shim legacy_game_performance_throttle_vtable_shim; // "?legacy_game_performance_throttle_vtable_shim@@3Vc_legacy_tag_group_vtable_shim@@A"
+

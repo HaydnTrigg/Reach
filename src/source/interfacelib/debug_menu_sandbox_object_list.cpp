@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\debug_menu_sandbox_object_list.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpWeldingViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

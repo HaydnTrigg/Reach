@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\user_interface_widget_group.h"
 
 /* ---------- constants */
 

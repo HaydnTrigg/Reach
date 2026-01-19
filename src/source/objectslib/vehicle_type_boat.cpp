@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "objectslib\vehicle_type_boat.h"
 
 /* ---------- constants */
 

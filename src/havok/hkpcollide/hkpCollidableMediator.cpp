@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCollidableMediator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

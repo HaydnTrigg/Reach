@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\files\debug_paths.h"
 
 /* ---------- constants */
 

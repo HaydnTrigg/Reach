@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\physics_variables.h"
 
 /* ---------- constants */
 

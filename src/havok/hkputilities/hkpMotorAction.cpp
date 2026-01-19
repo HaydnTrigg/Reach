@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpMotorAction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

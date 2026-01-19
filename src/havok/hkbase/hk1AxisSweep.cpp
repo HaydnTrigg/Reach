@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hk1AxisSweep.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

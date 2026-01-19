@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\weapon_actions.h"
 
 /* ---------- constants */
 

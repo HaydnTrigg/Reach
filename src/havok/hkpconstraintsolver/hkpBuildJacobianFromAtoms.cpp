@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpBuildJacobianFromAtoms.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

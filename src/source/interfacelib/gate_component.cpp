@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\gate_component.h"
 
 /* ---------- constants */
 

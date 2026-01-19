@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxMaterialEffectClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\wcsicmp.h"
 
 /* ---------- constants */
 

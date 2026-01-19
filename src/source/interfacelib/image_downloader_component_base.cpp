@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\image_downloader_component_base.h"
 
 /* ---------- constants */
 

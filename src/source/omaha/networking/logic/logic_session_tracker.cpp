@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\logic_session_tracker.h"
 
 /* ---------- constants */
 

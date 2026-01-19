@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\alert_pipe_client_component.h"
 
 /* ---------- constants */
 

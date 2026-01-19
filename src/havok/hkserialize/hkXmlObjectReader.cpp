@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkXmlObjectReader.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

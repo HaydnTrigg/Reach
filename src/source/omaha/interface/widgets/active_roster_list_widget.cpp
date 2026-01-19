@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\active_roster_list_widget.h"
 
 /* ---------- constants */
 

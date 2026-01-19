@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpWorldMemoryAvailableWatchDogClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkWorldMemoryAvailableWatchDogClass; // "?hkWorldMemoryAvailableWatchDogClass@@3VhkClass@@B"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\big_battle_squad\render_bbsquad.h"
 
 /* ---------- constants */
 

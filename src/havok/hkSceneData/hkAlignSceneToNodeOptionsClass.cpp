@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkAlignSceneToNodeOptionsClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

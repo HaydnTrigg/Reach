@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CACHE_FILE_BUILDER_H__
+

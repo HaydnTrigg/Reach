@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "binkxenon\popmal.h"
 
 /* ---------- constants */
 

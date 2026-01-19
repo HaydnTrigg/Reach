@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_zone_set_multi_bsp.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\spinner_item_widget.h"
 
 /* ---------- constants */
 

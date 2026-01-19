@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_VIEW_TELEMETRY_H__
+

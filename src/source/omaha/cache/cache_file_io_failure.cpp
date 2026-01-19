@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\cache_file_io_failure.h"
 
 /* ---------- constants */
 

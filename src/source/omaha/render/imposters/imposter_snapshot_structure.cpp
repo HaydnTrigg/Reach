@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\imposters\imposter_snapshot_structure.h"
 
 /* ---------- constants */
 

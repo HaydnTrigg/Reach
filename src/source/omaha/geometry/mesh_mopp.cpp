@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\geometry\mesh_mopp.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_controller_globals.h"
 
 /* ---------- constants */
 

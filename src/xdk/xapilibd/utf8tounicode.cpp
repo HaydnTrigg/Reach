@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\utf8tounicode.h"
 
 /* ---------- constants */
 

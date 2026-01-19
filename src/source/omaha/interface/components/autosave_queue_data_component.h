@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __AUTOSAVE_QUEUE_DATA_COMPONENT_H__
+

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkp3AxisSweep.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

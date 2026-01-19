@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\load_dialog_component.h"
 
 /* ---------- constants */
 

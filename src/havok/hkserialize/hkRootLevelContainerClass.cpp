@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkRootLevelContainerClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

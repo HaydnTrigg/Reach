@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpPoweredChainSolverUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

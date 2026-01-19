@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sky_atm\atmosphere.h"
 
 /* ---------- constants */
 

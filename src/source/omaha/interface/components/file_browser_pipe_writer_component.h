@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FILE_BROWSER_PIPE_WRITER_COMPONENT_H__
+

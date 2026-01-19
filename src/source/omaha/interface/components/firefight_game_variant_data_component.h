@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FIREFIGHT_GAME_VARIANT_DATA_COMPONENT_H__
+

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpMultiRayConvexAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\havok_mopp_code_definitions.h"
 
 /* ---------- constants */
 

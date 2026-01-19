@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxNodeSelectionSetClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

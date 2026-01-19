@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\film_farm\film_farm_manager.h"
 
 /* ---------- constants */
 

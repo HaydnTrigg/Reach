@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\progress_indicator_widget.h"
 
 /* ---------- constants */
 

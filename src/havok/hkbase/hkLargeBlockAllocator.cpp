@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkLargeBlockAllocator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

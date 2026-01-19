@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ANIMATION_COMPUTE_ORIENTATIONS_INTERFACE_H__
+

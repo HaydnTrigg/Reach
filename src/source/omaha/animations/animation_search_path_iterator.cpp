@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\animation_search_path_iterator.h"
 
 /* ---------- constants */
 

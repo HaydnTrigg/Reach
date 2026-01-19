@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __JPEG_DECOMPRESSION_SOURCE_H__
+

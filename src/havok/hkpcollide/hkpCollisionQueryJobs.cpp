@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCollisionQueryJobs.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

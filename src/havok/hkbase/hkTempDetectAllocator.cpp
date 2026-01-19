@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkTempDetectAllocator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

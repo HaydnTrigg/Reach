@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpStorageMeshShape.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

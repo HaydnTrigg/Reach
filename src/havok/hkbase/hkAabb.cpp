@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkAabb.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

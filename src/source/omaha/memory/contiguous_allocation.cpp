@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\contiguous_allocation.h"
 
 /* ---------- constants */
 

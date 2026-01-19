@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\online_lsp_xenon.h"
 
 /* ---------- constants */
 

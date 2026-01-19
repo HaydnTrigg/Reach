@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpTriSampledHeightFieldBvTreeShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

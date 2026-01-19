@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\cui_string_parse.h"
 
 /* ---------- constants */
 

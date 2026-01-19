@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\editor\editor_flags.h"
 
 /* ---------- constants */
 

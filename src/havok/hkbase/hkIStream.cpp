@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkIStream.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

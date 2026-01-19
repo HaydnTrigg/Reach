@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\unknwn.h"
 
 /* ---------- constants */
 
@@ -18,3 +19,4 @@
 // IID_IUnknown; // "IID_IUnknown"
 // IID_AsyncIUnknown; // "IID_AsyncIUnknown"
 // IID_IClassFactory; // "IID_IClassFactory"
+

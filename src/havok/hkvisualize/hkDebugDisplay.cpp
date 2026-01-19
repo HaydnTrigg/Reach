@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDebugDisplay.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

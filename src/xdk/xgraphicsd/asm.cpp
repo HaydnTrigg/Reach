@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\asm.h"
 
 /* ---------- constants */
 

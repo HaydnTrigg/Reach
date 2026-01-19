@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppAabbCastVirtualMachine.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

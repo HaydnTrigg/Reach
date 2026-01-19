@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCpuKdTreeAabbJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\static_data_reference_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxAnimatedMatrixClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cancel_active_transfer_component.h"
 
 /* ---------- constants */
 

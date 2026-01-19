@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\_wopen.h"
 
 /* ---------- constants */
 

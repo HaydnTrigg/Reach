@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_resource_manager_simple.h"
 
 /* ---------- constants */
 

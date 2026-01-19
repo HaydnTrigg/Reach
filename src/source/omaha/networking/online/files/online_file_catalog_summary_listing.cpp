@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\files\online_file_catalog_summary_listing.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\cui_player_select.h"
 
 /* ---------- constants */
 

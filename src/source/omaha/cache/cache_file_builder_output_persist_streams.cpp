@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\cache_file_builder_output_persist_streams.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\ssmobject.h"
 
 /* ---------- constants */
 

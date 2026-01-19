@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\spring_acceleration.h"
 
 /* ---------- constants */
 

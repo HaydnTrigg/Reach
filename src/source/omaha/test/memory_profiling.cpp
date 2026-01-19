@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\test\memory_profiling.h"
 
 /* ---------- constants */
 

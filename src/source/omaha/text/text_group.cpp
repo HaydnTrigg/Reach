@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\text\text_group.h"
 
 /* ---------- constants */
 

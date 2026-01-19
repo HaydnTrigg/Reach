@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkGeometryUtilities\hkMeshPrimitiveUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

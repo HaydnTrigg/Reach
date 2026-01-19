@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\endian.h"
 
 /* ---------- constants */
 

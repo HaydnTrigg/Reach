@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ANIMATION_DATA_H__
+

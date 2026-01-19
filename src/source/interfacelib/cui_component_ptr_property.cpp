@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_component_ptr_property.h"
 
 /* ---------- constants */
 

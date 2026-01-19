@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\meter_definitions.h"
 
 /* ---------- constants */
 

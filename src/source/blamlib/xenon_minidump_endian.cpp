@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\xenon_minidump_endian.h"
 
 /* ---------- constants */
 

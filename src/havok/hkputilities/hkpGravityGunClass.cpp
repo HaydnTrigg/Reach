@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpGravityGunClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpWingedEdge.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

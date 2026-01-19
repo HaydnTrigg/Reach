@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\notify_new_user_bonuses_component.h"
 
 /* ---------- constants */
 

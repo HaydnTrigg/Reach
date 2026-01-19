@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\platform_tracking_xenon.h"
 
 /* ---------- constants */
 

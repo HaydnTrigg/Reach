@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\determinism_debug\determinism_debug_consumer_effects.h"
 
 /* ---------- constants */
 

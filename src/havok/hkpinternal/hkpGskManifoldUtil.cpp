@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpGskManifoldUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

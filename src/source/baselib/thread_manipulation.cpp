@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\thread_manipulation.h"
 
 /* ---------- constants */
 

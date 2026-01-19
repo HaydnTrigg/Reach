@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\autosave_queue_category_bucket_data_component.h"
 
 /* ---------- constants */
 

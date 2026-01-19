@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FILM_SCREENSHOT_STORAGE_COMPONENT_H__
+

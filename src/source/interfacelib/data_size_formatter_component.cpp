@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\data_size_formatter_component.h"
 
 /* ---------- constants */
 

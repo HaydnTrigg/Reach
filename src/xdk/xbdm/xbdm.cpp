@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xbdm\xbdm.h"
 
 /* ---------- constants */
 

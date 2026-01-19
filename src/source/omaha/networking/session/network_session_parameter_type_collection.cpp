@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\session\network_session_parameter_type_collection.h"
 
 /* ---------- constants */
 

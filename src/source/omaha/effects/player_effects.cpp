@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\player_effects.h"
 
 /* ---------- constants */
 

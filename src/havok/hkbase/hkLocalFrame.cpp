@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkLocalFrame.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

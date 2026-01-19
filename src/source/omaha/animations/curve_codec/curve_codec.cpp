@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\curve_codec\curve_codec.h"
 
 /* ---------- constants */
 

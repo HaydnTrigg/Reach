@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\geometry\geometry_sampling.h"
 
 /* ---------- constants */
 

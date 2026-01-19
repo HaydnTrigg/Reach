@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSaveContactPointsUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\lighting_interface.h"
 
 /* ---------- constants */
 

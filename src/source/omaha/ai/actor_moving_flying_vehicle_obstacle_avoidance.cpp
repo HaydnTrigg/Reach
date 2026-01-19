@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_moving_flying_vehicle_obstacle_avoidance.h"
 
 /* ---------- constants */
 

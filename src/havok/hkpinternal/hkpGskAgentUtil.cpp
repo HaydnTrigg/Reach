@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpGskAgentUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\player_select_pipe_component.h"
 
 /* ---------- constants */
 

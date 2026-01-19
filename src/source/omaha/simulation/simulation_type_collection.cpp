@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\simulation_type_collection.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __LIST_ITEM_WIDGET_H__
+

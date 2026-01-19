@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpRayShapeCollectionFilterClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkpRayShapeCollectionFilterClass; // "?hkpRayShapeCollectionFilterClass@@3VhkClass@@B"
+

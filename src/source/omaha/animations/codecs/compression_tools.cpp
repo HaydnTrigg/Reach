@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\codecs\compression_tools.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\dialogs\edit_text.h"
 
 /* ---------- constants */
 

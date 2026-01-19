@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SAVE_AUTOSAVE_QUEUE_ITEM_COMPONENT_H__
+

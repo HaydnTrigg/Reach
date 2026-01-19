@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xonlined\schema.h"
 
 /* ---------- constants */
 

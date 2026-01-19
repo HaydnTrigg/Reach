@@ -43,3 +43,4 @@ typedef unsigned char boolean;
 #undef PROGRESS_REPORT		/* optional */
 
 #endif /* JPEG_CJPEG_DJPEG */
+

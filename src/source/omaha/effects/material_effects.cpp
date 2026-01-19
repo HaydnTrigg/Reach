@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\material_effects.h"
 
 /* ---------- constants */
 

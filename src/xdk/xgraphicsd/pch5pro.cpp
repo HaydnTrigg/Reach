@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\pch5pro.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUctizksrxhUfxlwvUxlnkroviUkiltiznUcylcUlyqUcylcUkxsFkilOlyq@xgraphicsUcodeCompilerProd; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUctizksrxhUfxlwvUxlnkroviUkiltiznUcylcUlyqUcylcUkxsFkilOlyq@xgraphicsUcodeCompilerProd"
+

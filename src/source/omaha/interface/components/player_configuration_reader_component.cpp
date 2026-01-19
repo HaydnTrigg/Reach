@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\player_configuration_reader_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\network_bandwidth_desires.h"
 
 /* ---------- constants */
 

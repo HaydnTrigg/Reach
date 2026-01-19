@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\predicted_resources.h"
 
 /* ---------- constants */
 

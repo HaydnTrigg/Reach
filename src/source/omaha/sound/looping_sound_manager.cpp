@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\looping_sound_manager.h"
 
 /* ---------- constants */
 

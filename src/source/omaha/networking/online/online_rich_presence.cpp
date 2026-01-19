@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\online_rich_presence.h"
 
 /* ---------- constants */
 

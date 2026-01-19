@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\physics_model_definitions.h"
 
 /* ---------- constants */
 

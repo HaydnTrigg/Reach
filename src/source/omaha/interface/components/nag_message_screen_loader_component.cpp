@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\nag_message_screen_loader_component.h"
 
 /* ---------- constants */
 

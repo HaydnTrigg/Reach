@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_player_configuration_ptr_property.h"
 
 /* ---------- constants */
 

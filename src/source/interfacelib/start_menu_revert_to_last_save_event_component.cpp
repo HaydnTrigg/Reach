@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_revert_to_last_save_event_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\sector_environment_objects.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_named_location_volumes.h"
 
 /* ---------- constants */
 

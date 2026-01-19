@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\game_settings_pipe_component.h"
 
 /* ---------- constants */
 

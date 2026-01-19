@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\crosstitlecontentd\xam.h"
 
 /* ---------- constants */
 

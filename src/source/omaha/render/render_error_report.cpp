@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_error_report.h"
 
 /* ---------- constants */
 

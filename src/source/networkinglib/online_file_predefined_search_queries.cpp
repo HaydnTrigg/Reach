@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\online_file_predefined_search_queries.h"
 
 /* ---------- constants */
 

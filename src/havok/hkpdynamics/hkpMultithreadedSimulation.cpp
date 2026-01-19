@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpMultithreadedSimulation.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

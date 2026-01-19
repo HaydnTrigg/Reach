@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\user_interface_content_tasks.h"
 
 /* ---------- constants */
 

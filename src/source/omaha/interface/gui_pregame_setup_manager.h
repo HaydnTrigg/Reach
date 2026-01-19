@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __GUI_PREGAME_SETUP_MANAGER_H__
+

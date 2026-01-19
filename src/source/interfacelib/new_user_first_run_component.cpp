@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\new_user_first_run_component.h"
 
 /* ---------- constants */
 

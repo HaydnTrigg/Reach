@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpLinearParametricCurveClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

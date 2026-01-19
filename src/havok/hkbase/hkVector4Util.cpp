@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkVector4Util.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

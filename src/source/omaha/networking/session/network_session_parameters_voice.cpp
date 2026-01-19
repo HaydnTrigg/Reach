@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\session\network_session_parameters_voice.h"
 
 /* ---------- constants */
 

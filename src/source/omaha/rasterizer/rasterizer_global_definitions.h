@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RASTERIZER_GLOBAL_DEFINITIONS_H__
+

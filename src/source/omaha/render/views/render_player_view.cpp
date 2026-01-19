@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\views\render_player_view.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_rain_light_volume.h"
 
 /* ---------- constants */
 

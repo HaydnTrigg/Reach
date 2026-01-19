@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STRING_TABLE_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_combiner_definition.h"
 
 /* ---------- constants */
 

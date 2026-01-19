@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STRUCTURES_H__
+

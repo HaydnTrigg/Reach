@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_LONG_PROPERTY_H__
+

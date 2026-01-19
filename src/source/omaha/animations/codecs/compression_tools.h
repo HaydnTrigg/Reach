@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __COMPRESSION_TOOLS_H__
+

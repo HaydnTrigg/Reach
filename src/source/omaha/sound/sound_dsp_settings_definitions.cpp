@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_dsp_settings_definitions.h"
 
 /* ---------- constants */
 
@@ -32,3 +33,4 @@
 // class c_tag_group_vtable<class c_null_tag_vtable> sound_radio_settings_vtable; // "?sound_radio_settings_vtable@@3V?$c_tag_group_vtable@Vc_null_tag_vtable@@@@A"
 // class c_tag_struct_vtable<class c_null_tag_vtable> sound_radio_settings_block_struct_struct_vtable; // "?sound_radio_settings_block_struct_struct_vtable@@3V?$c_tag_struct_vtable@Vc_null_tag_vtable@@@@A"
 // struct s_sound_look_up_table_distortion_settings const k_default_radio_distortion_settings; // "?k_default_radio_distortion_settings@@3Us_sound_look_up_table_distortion_settings@@B"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\hs\hs_compile.h"
 
 /* ---------- constants */
 

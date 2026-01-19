@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PARTY_DETAILS_COMPONENTS_H__
+

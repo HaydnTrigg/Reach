@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpIterativeLinearCastAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

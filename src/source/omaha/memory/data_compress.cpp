@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\data_compress.h"
 
 /* ---------- constants */
 

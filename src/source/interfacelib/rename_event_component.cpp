@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\rename_event_component.h"
 
 /* ---------- constants */
 

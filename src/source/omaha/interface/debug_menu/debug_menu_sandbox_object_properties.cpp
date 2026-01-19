@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\debug_menu\debug_menu_sandbox_object_properties.h"
 
 /* ---------- constants */
 

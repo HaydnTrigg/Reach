@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\structure_bsp_definitions.h"
 
 /* ---------- constants */
 

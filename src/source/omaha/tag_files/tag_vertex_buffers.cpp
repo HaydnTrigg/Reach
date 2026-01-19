@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_vertex_buffers.h"
 
 /* ---------- constants */
 

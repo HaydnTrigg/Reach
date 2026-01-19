@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\character_physics_definitions.h"
 
 /* ---------- constants */
 

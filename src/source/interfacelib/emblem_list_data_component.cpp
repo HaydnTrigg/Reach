@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\emblem_list_data_component.h"
 
 /* ---------- constants */
 

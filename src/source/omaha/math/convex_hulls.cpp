@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\convex_hulls.h"
 
 /* ---------- constants */
 

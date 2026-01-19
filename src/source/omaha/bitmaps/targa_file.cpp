@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\bitmaps\targa_file.h"
 
 /* ---------- constants */
 

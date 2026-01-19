@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __EXIT_EXPERIENCE_PIPE_READER_COMPONENT_H__
+

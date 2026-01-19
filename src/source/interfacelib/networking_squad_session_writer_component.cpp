@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\networking_squad_session_writer_component.h"
 
 /* ---------- constants */
 

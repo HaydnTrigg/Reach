@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpWorldObjectClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -19,3 +21,4 @@
 // class hkClassEnum const *const hkpWorldObjectMtChecksEnum; // "?hkpWorldObjectMtChecksEnum@@3PBVhkClassEnum@@B"
 // class hkClassEnum const *const hkpWorldObjectBroadPhaseTypeEnum; // "?hkpWorldObjectBroadPhaseTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpWorldObjectClass; // "?hkpWorldObjectClass@@3VhkClass@@B"
+

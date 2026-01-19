@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpTriangleUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

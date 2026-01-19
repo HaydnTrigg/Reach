@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __LOAD_AUTOSAVE_QUEUE_FILM_DESCRIPTION_COMPONENT_H__
+

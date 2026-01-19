@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\fileatt.h"
 
 /* ---------- constants */
 

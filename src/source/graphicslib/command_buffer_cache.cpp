@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\command_buffer_cache.h"
 
 /* ---------- constants */
 
@@ -22,3 +23,4 @@
 // float g_command_buffer_release_threshold; // "?g_command_buffer_release_threshold@@3MA"
 // class c_command_buffer_cache g_command_buffer_cache; // "?g_command_buffer_cache@@3Vc_command_buffer_cache@@A"
 // bool g_use_command_buffer_shadow_generate; // "?g_use_command_buffer_shadow_generate@@3_NA"
+

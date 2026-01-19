@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\scatter_read_stream.h"
 
 /* ---------- constants */
 

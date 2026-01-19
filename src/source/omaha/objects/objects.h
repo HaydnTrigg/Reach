@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __OBJECTS_H__
+

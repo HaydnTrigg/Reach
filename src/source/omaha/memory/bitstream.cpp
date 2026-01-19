@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\bitstream.h"
 
 /* ---------- constants */
 

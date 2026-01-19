@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpHavokSnapshot.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\subscreen_loader_component.h"
 
 /* ---------- constants */
 

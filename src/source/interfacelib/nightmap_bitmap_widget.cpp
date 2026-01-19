@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\nightmap_bitmap_widget.h"
 
 /* ---------- constants */
 

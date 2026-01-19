@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpSimpleClosestContactCollector.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

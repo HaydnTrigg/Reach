@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_TYPE_COLLECTION_H__
+

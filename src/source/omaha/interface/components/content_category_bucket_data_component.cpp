@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\content_category_bucket_data_component.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __POSE_BLEND_CHANNEL_H__
+

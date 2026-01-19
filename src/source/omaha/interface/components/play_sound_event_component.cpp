@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\play_sound_event_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\player_rumble.h"
 
 /* ---------- constants */
 

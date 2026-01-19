@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\dx9\rasterizer_dx9_dynamic_geometry.h"
 
 /* ---------- constants */
 

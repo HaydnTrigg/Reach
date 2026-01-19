@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_faux_data_definitions.h"
 
 /* ---------- constants */
 

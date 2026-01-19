@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleLinearCastWheelCollideClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

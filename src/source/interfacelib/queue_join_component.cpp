@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\queue_join_component.h"
 
 /* ---------- constants */
 

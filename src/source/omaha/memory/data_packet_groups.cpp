@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\data_packet_groups.h"
 
 /* ---------- constants */
 

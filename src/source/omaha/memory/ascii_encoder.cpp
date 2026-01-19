@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\ascii_encoder.h"
 
 /* ---------- constants */
 

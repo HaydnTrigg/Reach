@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "Rockall\Sharelock.h"
 
 /* ---------- constants */
 

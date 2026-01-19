@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\matchmaking_histogram_bitmap_widget.h"
 
 /* ---------- constants */
 

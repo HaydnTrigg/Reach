@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\player_control_debug.h"
 
 /* ---------- constants */
 

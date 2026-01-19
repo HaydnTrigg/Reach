@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\animation_debug_director.h"
 
 /* ---------- constants */
 

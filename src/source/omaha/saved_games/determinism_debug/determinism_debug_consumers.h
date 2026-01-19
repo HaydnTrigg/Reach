@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __DETERMINISM_DEBUG_CONSUMERS_H__
+

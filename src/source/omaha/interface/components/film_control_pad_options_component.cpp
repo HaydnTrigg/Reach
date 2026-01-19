@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\film_control_pad_options_component.h"
 
 /* ---------- constants */
 

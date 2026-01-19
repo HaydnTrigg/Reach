@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\biped_definitions_v1.h"
 
 /* ---------- constants */
 

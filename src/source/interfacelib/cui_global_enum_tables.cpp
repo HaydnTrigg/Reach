@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_global_enum_tables.h"
 
 /* ---------- constants */
 

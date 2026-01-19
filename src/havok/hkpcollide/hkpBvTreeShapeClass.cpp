@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpBvTreeShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClassEnum const *const hkpBvTreeShapeBvTreeTypeEnum; // "?hkpBvTreeShapeBvTreeTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpBvTreeShapeClass; // "?hkpBvTreeShapeClass@@3VhkClass@@B"
+

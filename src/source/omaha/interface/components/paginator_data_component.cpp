@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\paginator_data_component.h"
 
 /* ---------- constants */
 

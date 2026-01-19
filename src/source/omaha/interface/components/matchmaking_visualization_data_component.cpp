@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\matchmaking_visualization_data_component.h"
 
 /* ---------- constants */
 

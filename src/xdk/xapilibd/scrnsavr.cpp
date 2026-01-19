@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\scrnsavr.h"
 
 /* ---------- constants */
 

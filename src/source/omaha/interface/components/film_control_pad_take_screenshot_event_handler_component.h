@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FILM_CONTROL_PAD_TAKE_SCREENSHOT_EVENT_HANDLER_COMPONENT_H__
+

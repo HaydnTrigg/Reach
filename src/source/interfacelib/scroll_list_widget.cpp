@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\scroll_list_widget.h"
 
 /* ---------- constants */
 

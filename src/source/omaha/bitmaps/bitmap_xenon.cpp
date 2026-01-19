@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\bitmaps\bitmap_xenon.h"
 
 /* ---------- constants */
 

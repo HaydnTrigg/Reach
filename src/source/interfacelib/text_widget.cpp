@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\text_widget.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\custom_animation_container_widget.h"
 
 /* ---------- constants */
 

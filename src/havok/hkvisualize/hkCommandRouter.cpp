@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkCommandRouter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

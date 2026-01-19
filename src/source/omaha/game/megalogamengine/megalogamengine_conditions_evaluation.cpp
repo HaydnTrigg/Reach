@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\megalogamengine\megalogamengine_conditions_evaluation.h"
 
 /* ---------- constants */
 

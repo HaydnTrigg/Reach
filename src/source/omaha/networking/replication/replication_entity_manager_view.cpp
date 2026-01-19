@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\replication\replication_entity_manager_view.h"
 
 /* ---------- constants */
 

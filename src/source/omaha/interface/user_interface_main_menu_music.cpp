@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\user_interface_main_menu_music.h"
 
 /* ---------- constants */
 

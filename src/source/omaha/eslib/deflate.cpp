@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\eslib\deflate.h"
 
 /* ---------- constants */
 
@@ -14,3 +15,4 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+

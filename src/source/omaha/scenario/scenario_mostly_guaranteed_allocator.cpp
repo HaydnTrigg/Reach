@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_mostly_guaranteed_allocator.h"
 
 /* ---------- constants */
 

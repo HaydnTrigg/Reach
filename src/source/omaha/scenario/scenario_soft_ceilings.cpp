@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_soft_ceilings.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpStorageSampledHeightFieldShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

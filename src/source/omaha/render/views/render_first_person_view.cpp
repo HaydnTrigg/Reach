@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\views\render_first_person_view.h"
 
 /* ---------- constants */
 

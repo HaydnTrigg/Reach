@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SAVE_MAP_VARIANT_AS_COMPONENT_H__
+

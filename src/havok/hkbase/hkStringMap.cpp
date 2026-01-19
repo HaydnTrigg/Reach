@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkStringMap.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

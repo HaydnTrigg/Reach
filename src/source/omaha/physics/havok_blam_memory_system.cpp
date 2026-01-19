@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\havok_blam_memory_system.h"
 
 /* ---------- constants */
 

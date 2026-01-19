@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xonlined\profile.h"
 
 /* ---------- constants */
 

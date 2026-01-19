@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "core\corelib\cseries\cseries_string.h"
+
 #define NULL 0
 
 #include <ctype.h>

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_scenery_group.h"
 
 /* ---------- constants */
 

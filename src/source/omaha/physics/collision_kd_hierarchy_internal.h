@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __COLLISION_KD_HIERARCHY_INTERNAL_H__
+

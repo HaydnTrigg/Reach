@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_sector_structures.h"
 
 /* ---------- constants */
 

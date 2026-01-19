@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\debug_menu_sandbox_coordinate_manipulation.h"
 
 /* ---------- constants */
 

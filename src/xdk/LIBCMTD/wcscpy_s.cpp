@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\wcscpy_s.h"
 
 /* ---------- constants */
 

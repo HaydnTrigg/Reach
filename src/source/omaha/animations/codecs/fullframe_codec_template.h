@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FULLFRAME_CODEC_TEMPLATE_H__
+

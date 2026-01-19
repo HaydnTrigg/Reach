@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_content_status.h"
 
 /* ---------- constants */
 

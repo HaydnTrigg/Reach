@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkRelocationInfo.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

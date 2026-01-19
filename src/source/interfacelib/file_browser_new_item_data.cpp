@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_browser_new_item_data.h"
 
 /* ---------- constants */
 

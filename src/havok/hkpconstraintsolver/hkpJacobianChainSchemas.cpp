@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpJacobianChainSchemas.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

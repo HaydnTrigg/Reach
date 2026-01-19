@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\quick_preview.h"
 
 /* ---------- constants */
 

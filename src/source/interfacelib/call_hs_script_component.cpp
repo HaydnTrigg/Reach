@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\call_hs_script_component.h"
 
 /* ---------- constants */
 

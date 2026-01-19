@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\tag_api_interop_editor.h"
 
 /* ---------- constants */
 

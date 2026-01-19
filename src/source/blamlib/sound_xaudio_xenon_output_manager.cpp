@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\sound_xaudio_xenon_output_manager.h"
 
 /* ---------- constants */
 

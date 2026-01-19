@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render_methods\render_method_definitions.h"
 
 /* ---------- constants */
 

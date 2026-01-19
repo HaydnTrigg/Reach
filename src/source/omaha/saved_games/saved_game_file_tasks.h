@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SAVED_GAME_FILE_TASKS_H__
+

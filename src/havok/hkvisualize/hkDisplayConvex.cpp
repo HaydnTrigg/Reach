@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDisplayConvex.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

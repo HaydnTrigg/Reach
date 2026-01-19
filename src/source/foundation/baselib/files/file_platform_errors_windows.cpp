@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\files\file_platform_errors_windows.h"
 
 /* ---------- constants */
 

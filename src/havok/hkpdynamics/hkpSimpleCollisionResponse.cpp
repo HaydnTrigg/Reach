@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpSimpleCollisionResponse.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

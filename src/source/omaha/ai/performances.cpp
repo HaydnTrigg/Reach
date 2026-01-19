@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\performances.h"
 
 /* ---------- constants */
 

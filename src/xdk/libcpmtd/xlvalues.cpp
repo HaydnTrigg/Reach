@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\xlvalues.h"
 
 /* ---------- constants */
 
@@ -23,3 +24,4 @@
 // _LRteps; // "_LRteps"
 // _LXbig; // "_LXbig"
 // _LZero; // "_LZero"
+

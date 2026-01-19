@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\alert_data_component.h"
 
 /* ---------- constants */
 

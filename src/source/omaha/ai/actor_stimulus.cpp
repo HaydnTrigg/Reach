@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_stimulus.h"
 
 /* ---------- constants */
 

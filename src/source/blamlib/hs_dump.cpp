@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\hs_dump.h"
 
 /* ---------- constants */
 

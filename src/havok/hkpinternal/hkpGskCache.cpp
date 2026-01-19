@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpGskCache.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

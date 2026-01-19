@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\emblem_update_new_item_record_component.h"
 
 /* ---------- constants */
 

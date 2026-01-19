@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\lightning_definition.h"
 
 /* ---------- constants */
 

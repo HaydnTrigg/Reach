@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\wcsspn.h"
 
 /* ---------- constants */
 

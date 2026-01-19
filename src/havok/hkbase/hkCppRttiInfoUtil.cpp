@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkCppRttiInfoUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

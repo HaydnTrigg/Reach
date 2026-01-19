@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\tools\remote_command.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TAG_RESOURCE_CACHE_ACCESS_CACHE_INLINES_H__
+

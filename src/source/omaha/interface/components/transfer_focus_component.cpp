@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\transfer_focus_component.h"
 
 /* ---------- constants */
 

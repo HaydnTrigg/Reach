@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpClosestRayHitCollector.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

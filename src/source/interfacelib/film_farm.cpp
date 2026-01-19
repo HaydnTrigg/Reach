@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_farm.h"
 
 /* ---------- constants */
 

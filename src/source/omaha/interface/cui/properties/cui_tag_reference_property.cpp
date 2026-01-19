@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\properties\cui_tag_reference_property.h"
 
 /* ---------- constants */
 

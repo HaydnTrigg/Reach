@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\priority\simulation_priority.h"
 
 /* ---------- constants */
 

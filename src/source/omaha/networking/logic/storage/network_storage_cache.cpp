@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\storage\network_storage_cache.h"
 
 /* ---------- constants */
 

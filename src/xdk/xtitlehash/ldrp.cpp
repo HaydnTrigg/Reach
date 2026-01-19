@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xtitlehash\ldrp.h"
 
 /* ---------- constants */
 
@@ -22,3 +23,4 @@
 // g_abSaltXcontrol; // "g_abSaltXcontrol"
 // g_abSaltSVChalStub; // "g_abSaltSVChalStub"
 // g_abSaltSsb; // "g_abSaltSsb"
+

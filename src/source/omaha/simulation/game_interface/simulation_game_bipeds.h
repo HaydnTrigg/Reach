@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_GAME_BIPEDS_H__
+

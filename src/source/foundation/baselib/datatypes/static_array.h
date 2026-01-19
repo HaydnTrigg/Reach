@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STATIC_ARRAY_H__
+

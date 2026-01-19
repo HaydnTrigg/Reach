@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\structure_design_definitions.h"
 
 /* ---------- constants */
 

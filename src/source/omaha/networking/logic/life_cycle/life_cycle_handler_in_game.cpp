@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\life_cycle\life_cycle_handler_in_game.h"
 
 /* ---------- constants */
 

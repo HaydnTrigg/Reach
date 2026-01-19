@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_directives\ai_directive_object_interact.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RENDER_FLAGS_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\mutex_windows.h"
 
 /* ---------- constants */
 

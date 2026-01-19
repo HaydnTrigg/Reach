@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\upload_content_item_component.h"
 
 /* ---------- constants */
 

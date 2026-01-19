@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMemoryRouter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

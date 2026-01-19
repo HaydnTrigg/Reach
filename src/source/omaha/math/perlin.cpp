@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\perlin.h"
 
 /* ---------- constants */
 

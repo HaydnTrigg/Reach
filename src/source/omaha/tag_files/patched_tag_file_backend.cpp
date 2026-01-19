@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\patched_tag_file_backend.h"
 
 /* ---------- constants */
 

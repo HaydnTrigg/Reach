@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\stop_watch.h"
 
 /* ---------- constants */
 

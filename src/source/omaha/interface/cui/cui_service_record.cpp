@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\cui_service_record.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppRayVirtualMachine.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

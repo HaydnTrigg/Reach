@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkinternal\hkSystemTime.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

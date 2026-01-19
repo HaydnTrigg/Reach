@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MEGALOGAMENGINE_VARIABLE_VALUES_H__
+

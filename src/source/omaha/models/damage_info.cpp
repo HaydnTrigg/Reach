@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\models\damage_info.h"
 
 /* ---------- constants */
 

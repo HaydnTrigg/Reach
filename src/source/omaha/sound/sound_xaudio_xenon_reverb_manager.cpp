@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_xaudio_xenon_reverb_manager.h"
 
 /* ---------- constants */
 

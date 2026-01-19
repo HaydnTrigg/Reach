@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RESTRICTED_MEMORY_REGIONS_H__
+

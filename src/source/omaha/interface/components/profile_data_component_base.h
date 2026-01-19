@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PROFILE_DATA_COMPONENT_BASE_H__
+

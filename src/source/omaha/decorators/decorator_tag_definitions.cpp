@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\decorators\decorator_tag_definitions.h"
 
 /* ---------- constants */
 

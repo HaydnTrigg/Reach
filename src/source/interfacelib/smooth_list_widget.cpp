@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\smooth_list_widget.h"
 
 /* ---------- constants */
 

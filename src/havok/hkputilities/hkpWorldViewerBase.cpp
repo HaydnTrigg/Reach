@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpWorldViewerBase.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

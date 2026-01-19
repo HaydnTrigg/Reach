@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\styles.h"
 
 /* ---------- constants */
 

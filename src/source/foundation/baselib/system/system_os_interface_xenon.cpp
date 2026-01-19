@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\system\system_os_interface_xenon.h"
 
 /* ---------- constants */
 

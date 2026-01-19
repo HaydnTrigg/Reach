@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\filedel.h"
 
 /* ---------- constants */
 

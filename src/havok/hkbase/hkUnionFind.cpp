@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkUnionFind.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

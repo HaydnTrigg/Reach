@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\extras_menu_component.h"
 
 /* ---------- constants */
 

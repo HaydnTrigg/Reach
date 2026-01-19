@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\eslib\stateswitch.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\simulation_definition_table.h"
 
 /* ---------- constants */
 

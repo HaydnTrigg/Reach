@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\megalogamengine\megalogamengine_string_id_table.h"
 
 /* ---------- constants */
 

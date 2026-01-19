@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __HAVOK_SHAPES_H__
+

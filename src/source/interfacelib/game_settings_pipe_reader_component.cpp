@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_settings_pipe_reader_component.h"
 
 /* ---------- constants */
 

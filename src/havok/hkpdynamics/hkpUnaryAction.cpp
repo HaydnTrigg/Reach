@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpUnaryAction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

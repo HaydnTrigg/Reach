@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpBallSocketChainData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

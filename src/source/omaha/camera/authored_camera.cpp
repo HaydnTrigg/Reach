@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\authored_camera.h"
 
 /* ---------- constants */
 

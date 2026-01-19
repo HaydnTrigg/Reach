@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\sliding_window.h"
 
 /* ---------- constants */
 

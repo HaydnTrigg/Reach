@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\platform_sound_hs_externals.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // bool debug_platform_sound_channels; // "?debug_platform_sound_channels@@3_NA"
+

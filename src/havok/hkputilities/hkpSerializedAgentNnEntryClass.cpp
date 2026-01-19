@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSerializedAgentNnEntryClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

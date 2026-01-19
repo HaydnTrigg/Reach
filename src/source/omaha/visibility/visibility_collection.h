@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __VISIBILITY_COLLECTION_H__
+

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PARTICLE_SYSTEM_H__
+

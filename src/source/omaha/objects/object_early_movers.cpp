@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\object_early_movers.h"
 
 /* ---------- constants */
 

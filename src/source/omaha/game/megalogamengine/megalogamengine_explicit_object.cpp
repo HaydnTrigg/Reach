@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\megalogamengine\megalogamengine_explicit_object.h"
 
 /* ---------- constants */
 

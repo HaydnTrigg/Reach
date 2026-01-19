@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\scenario_tags_fixup.h"
 
 /* ---------- constants */
 

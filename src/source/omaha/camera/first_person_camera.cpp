@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\first_person_camera.h"
 
 /* ---------- constants */
 

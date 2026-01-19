@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\files\file_path.h"
 
 /* ---------- constants */
 

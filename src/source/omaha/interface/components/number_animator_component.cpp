@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\number_animator_component.h"
 
 /* ---------- constants */
 

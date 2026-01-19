@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\story_components.h"
 
 /* ---------- constants */
 

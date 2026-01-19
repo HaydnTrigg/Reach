@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\arena_pipe_reader_component.h"
 
 /* ---------- constants */
 

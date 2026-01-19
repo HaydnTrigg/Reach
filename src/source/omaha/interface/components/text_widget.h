@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TEXT_WIDGET_H__
+

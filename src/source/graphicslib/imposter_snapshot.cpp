@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\imposter_snapshot.h"
 
 /* ---------- constants */
 

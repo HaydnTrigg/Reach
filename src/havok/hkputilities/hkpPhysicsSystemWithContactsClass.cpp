@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPhysicsSystemWithContactsClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

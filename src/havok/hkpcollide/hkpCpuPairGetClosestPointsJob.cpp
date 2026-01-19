@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCpuPairGetClosestPointsJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

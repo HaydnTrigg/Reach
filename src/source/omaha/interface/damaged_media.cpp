@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\damaged_media.h"
 
 /* ---------- constants */
 

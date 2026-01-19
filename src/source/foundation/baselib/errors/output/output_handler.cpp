@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\errors\output\output_handler.h"
 
 /* ---------- constants */
 

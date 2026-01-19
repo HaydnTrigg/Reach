@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\saved_search_options_list_data_component.h"
 
 /* ---------- constants */
 

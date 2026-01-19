@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MULTIPLAYER_MAP_VARIANT_BUCKET_DATA_COMPONENT_H__
+

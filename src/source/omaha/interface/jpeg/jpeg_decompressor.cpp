@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\jpeg\jpeg_decompressor.h"
 
 /* ---------- constants */
 

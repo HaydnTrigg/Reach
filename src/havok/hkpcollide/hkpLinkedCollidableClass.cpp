@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpLinkedCollidableClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

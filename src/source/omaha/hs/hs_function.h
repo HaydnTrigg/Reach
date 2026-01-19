@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __HS_FUNCTION_H__
+

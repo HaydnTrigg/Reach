@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\show_exit_experience_component.h"
 
 /* ---------- constants */
 

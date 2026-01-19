@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_loading_screen_definitions.h"
 
 /* ---------- constants */
 
@@ -23,3 +24,4 @@
 // struct s_tag_group_stream_definition legacy_load_screen_globals_stream_definition; // "?legacy_load_screen_globals_stream_definition@@3Us_tag_group_stream_definition@@A"
 // struct s_tag_group_sync_definition legacy_load_screen_globals_xsync_declaration; // "?legacy_load_screen_globals_xsync_declaration@@3Us_tag_group_sync_definition@@A"
 // class c_legacy_tag_group_vtable_shim legacy_load_screen_globals_vtable_shim; // "?legacy_load_screen_globals_vtable_shim@@3Vc_legacy_tag_group_vtable_shim@@A"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\saved_search_value_writer_component.h"
 
 /* ---------- constants */
 

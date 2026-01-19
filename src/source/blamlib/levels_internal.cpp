@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\levels_internal.h"
 
 /* ---------- constants */
 

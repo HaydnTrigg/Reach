@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_identifier_generator.h"
 
 /* ---------- constants */
 

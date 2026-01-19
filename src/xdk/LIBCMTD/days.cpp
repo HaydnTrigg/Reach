@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\days.h"
 
 /* ---------- constants */
 
@@ -17,3 +18,4 @@
 
 // _lpdays; // "_lpdays"
 // _days; // "_days"
+

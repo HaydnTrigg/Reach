@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\threads\thread_manipulation_xenon.h"
 
 /* ---------- constants */
 

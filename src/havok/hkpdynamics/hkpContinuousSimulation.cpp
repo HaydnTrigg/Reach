@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpContinuousSimulation.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

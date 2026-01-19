@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\player_rewards\player_cookie_purchases.h"
 
 /* ---------- constants */
 

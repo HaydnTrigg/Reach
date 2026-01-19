@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\dialog_event_handler_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_configuration_writer_component.h"
 
 /* ---------- constants */
 

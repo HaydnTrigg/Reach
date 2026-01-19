@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\uiapithunk2.h"
 
 /* ---------- constants */
 

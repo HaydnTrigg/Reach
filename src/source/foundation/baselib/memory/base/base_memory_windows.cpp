@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\memory\base\base_memory_windows.h"
 
 /* ---------- constants */
 

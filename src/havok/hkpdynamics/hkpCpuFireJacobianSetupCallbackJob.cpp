@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuFireJacobianSetupCallbackJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __NETWORKING_ACTIVE_ROSTER_READER_COMPONENT_H__
+

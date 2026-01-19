@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkBindingClassNameRegistry.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

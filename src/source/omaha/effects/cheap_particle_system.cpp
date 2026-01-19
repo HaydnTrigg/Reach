@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\cheap_particle_system.h"
 
 /* ---------- constants */
 

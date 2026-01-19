@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\pchgen.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUhszwviUtvmUcylcUlyqUcylcUkxstvmOlyq@d3dxshadergen; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUhszwviUtvmUcylcUlyqUcylcUkxstvmOlyq@d3dxshadergen"
+

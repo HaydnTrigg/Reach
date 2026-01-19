@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMath.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -25,3 +27,4 @@
 // struct __vector4const hkQuadRealMinusHalf; // "?hkQuadRealMinusHalf@@3U__vector4@@B"
 // struct __vector4const hkQuadRealMax; // "?hkQuadRealMax@@3U__vector4@@B"
 // struct __vector4const hkQuadRealEps; // "?hkQuadRealEps@@3U__vector4@@B"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\chunk_persist_stream_helpers.h"
 
 /* ---------- constants */
 

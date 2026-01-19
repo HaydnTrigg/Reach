@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_variant_component.h"
 
 /* ---------- constants */
 

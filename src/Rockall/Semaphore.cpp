@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "Rockall\Semaphore.h"
 
 /* ---------- constants */
 

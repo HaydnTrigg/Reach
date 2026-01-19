@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\voice.h"
 
 /* ---------- constants */
 

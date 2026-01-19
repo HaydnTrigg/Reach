@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\save_game_variant_component.h"
 
 /* ---------- constants */
 

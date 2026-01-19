@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpHeightFieldAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

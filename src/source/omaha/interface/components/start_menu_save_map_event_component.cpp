@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\start_menu_save_map_event_component.h"
 
 /* ---------- constants */
 

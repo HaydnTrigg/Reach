@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\init.h"
 
 /* ---------- constants */
 
@@ -72,3 +73,4 @@
 // IID_ID3DXFileData; // "IID_ID3DXFileData"
 // IID_TEnumObject; // "IID_TEnumObject"
 // IID_TBinaryLoad; // "IID_TBinaryLoad"
+

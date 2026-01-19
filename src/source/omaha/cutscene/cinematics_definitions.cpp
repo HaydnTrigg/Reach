@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cutscene\cinematics_definitions.h"
 
 /* ---------- constants */
 

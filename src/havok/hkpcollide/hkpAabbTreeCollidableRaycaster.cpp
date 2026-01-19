@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpAabbTreeCollidableRaycaster.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

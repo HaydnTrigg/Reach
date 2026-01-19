@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_acoustics_definitions.h"
 
 /* ---------- constants */
 

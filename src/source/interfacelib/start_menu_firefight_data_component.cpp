@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_firefight_data_component.h"
 
 /* ---------- constants */
 

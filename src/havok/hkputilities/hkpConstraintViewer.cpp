@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpConstraintViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

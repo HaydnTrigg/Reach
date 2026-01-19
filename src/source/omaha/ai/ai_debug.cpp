@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_debug.h"
 
 /* ---------- constants */
 

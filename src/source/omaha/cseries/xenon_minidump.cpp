@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\xenon_minidump.h"
 
 /* ---------- constants */
 

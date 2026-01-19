@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "binkxenon\binkacd.h"
 
 /* ---------- constants */
 

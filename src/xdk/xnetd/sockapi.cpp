@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xnetd\sockapi.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TAG_RESOURCE_RUNTIME_H__
+

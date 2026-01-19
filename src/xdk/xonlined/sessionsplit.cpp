@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xonlined\sessionsplit.h"
 
 /* ---------- constants */
 

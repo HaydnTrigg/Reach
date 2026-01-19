@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\collision_damage_definitions.h"
 
 /* ---------- constants */
 
@@ -21,3 +22,4 @@
 // struct s_tag_group_stream_definition legacy_collision_damage_stream_definition; // "?legacy_collision_damage_stream_definition@@3Us_tag_group_stream_definition@@A"
 // struct s_tag_group_sync_definition legacy_collision_damage_xsync_declaration; // "?legacy_collision_damage_xsync_declaration@@3Us_tag_group_sync_definition@@A"
 // class c_legacy_tag_group_vtable_shim legacy_collision_damage_vtable_shim; // "?legacy_collision_damage_vtable_shim@@3Vc_legacy_tag_group_vtable_shim@@A"
+

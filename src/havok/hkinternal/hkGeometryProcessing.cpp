@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkinternal\hkGeometryProcessing.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

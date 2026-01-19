@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxVertexDescription.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

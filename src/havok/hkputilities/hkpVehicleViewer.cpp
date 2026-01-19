@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpVehicleViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

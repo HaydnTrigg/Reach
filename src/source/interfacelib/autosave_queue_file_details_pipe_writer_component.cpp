@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\autosave_queue_file_details_pipe_writer_component.h"
 
 /* ---------- constants */
 

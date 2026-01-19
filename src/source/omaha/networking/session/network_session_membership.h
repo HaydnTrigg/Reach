@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __NETWORK_SESSION_MEMBERSHIP_H__
+

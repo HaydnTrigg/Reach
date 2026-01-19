@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppCostFunction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

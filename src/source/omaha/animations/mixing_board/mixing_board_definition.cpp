@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\mixing_board\mixing_board_definition.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\content\content.h"
 
 /* ---------- constants */
 

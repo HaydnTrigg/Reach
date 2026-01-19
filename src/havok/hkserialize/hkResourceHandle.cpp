@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkResourceHandle.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

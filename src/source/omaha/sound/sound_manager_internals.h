@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SOUND_MANAGER_INTERNALS_H__
+

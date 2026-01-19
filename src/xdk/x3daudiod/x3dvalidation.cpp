@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\x3daudiod\x3dvalidation.h"
 
 /* ---------- constants */
 

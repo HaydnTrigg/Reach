@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_cache_file_globals.h"
 
 /* ---------- constants */
 

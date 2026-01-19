@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_map_permissions.h"
 
 /* ---------- constants */
 

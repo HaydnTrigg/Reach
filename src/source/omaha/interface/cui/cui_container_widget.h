@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_CONTAINER_WIDGET_H__
+

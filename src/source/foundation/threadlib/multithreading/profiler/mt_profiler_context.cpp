@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\multithreading\profiler\mt_profiler_context.h"
 
 /* ---------- constants */
 

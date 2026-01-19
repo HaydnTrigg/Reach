@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\exit_experience_pipe_writer_component.h"
 
 /* ---------- constants */
 

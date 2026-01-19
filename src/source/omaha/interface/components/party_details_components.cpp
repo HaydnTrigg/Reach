@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\party_details_components.h"
 
 /* ---------- constants */
 

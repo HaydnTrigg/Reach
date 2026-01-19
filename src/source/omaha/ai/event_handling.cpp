@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\event_handling.h"
 
 /* ---------- constants */
 

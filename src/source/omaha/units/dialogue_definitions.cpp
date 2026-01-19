@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\dialogue_definitions.h"
 
 /* ---------- constants */
 

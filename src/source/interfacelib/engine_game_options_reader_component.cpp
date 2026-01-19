@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\engine_game_options_reader_component.h"
 
 /* ---------- constants */
 

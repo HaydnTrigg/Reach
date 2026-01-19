@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\bink\bink_definitions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\items\equipment_types.h"
 
 /* ---------- constants */
 

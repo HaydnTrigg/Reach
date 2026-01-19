@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\map_bitmap_widget.h"
 
 /* ---------- constants */
 

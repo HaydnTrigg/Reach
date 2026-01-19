@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkRotation.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

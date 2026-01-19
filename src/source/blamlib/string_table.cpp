@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\string_table.h"
 
 /* ---------- constants */
 

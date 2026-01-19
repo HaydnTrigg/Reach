@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPulleyDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CLUSTER_MARKER_H__
+

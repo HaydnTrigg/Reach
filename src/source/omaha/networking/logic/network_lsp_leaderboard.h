@@ -1,0 +1,18 @@
+#pragma once
+#ifndef __NETWORK_LSP_LEADERBOARD_H__
+#define __NETWORK_LSP_LEADERBOARD_H__
+
+/* ---------- headers */
+
+/* ---------- constants */
+
+/* ---------- definitions */
+
+/* ---------- prototypes */
+
+/* ---------- globals */
+
+/* ---------- public code */
+
+#endif // __NETWORK_LSP_LEADERBOARD_H__
+

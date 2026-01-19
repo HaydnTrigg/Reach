@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\cseries_security_xenon.h"
 
 /* ---------- constants */
 

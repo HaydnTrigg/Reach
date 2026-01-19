@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\camera_fx_settings.h"
 
 /* ---------- constants */
 

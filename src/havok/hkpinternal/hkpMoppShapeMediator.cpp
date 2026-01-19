@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppShapeMediator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

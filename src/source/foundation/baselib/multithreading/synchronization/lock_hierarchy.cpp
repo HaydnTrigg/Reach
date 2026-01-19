@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\lock_hierarchy.h"
 
 /* ---------- constants */
 

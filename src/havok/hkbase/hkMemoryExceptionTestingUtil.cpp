@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMemoryExceptionTestingUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

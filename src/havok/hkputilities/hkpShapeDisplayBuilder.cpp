@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpShapeDisplayBuilder.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

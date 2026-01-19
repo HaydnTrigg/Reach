@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\player_rewards\game_completion_rewards_definitions.h"
 
 /* ---------- constants */
 

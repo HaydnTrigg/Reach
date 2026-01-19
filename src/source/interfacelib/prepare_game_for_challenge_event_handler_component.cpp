@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\prepare_game_for_challenge_event_handler_component.h"
 
 /* ---------- constants */
 

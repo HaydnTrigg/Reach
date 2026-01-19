@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\debug_async_log.h"
 
 /* ---------- constants */
 

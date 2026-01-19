@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkPackfileData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\game_state_xenon.h"
 
 /* ---------- constants */
 

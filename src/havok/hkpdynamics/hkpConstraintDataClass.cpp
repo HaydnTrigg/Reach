@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpConstraintDataClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClassEnum const *const hkpConstraintDataConstraintTypeEnum; // "?hkpConstraintDataConstraintTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpConstraintDataClass; // "?hkpConstraintDataClass@@3VhkClass@@B"
+

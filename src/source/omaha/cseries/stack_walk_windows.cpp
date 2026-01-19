@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\stack_walk_windows.h"
 
 /* ---------- constants */
 

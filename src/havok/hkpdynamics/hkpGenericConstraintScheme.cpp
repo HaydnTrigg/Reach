@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpGenericConstraintScheme.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\files\online_file_transfer_tasks.h"
 
 /* ---------- constants */
 

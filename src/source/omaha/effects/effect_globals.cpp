@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\effect_globals.h"
 
 /* ---------- constants */
 

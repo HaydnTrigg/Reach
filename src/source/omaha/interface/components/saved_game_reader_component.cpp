@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\saved_game_reader_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_primitives.h"
 
 /* ---------- constants */
 

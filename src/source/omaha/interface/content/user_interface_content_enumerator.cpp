@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\content\user_interface_content_enumerator.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __NETWORK_STORAGE_MATCHMAKING_FILE_DEFINITIONS_H__
+

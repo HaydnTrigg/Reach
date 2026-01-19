@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCollectionAgent3.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

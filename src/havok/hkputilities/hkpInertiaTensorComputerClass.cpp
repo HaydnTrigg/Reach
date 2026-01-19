@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpInertiaTensorComputerClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

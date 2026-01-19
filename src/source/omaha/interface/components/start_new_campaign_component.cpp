@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\start_new_campaign_component.h"
 
 /* ---------- constants */
 

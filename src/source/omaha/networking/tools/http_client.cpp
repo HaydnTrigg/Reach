@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\tools\http_client.h"
 
 /* ---------- constants */
 

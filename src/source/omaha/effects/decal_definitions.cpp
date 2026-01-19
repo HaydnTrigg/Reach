@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\decal_definitions.h"
 
 /* ---------- constants */
 

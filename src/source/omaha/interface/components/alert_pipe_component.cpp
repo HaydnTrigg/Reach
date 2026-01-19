@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\alert_pipe_component.h"
 
 /* ---------- constants */
 

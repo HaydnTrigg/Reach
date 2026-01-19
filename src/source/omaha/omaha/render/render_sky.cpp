@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\omaha\render\render_sky.h"
 
 /* ---------- constants */
 
@@ -14,3 +15,4 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+

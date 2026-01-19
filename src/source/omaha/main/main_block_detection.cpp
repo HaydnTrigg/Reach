@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\main_block_detection.h"
 
 /* ---------- constants */
 

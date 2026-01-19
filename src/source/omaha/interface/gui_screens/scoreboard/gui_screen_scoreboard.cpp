@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\gui_screens\scoreboard\gui_screen_scoreboard.h"
 
 /* ---------- constants */
 

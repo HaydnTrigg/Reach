@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __REPLICATION_EVENT_MANAGER_VIEW_H__
+

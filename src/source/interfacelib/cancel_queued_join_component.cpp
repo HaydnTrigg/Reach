@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cancel_queued_join_component.h"
 
 /* ---------- constants */
 

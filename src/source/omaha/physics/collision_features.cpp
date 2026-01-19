@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\collision_features.h"
 
 /* ---------- constants */
 

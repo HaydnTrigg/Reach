@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\il2irtable.h"
 
 /* ---------- constants */
 

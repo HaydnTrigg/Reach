@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\fire_teams.h"
 
 /* ---------- constants */
 

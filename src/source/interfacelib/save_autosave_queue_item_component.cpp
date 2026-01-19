@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\save_autosave_queue_item_component.h"
 
 /* ---------- constants */
 

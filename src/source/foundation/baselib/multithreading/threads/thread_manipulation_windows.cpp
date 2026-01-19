@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\threads\thread_manipulation_windows.h"
 
 /* ---------- constants */
 

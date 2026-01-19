@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\emblem_info_writer_component.h"
 
 /* ---------- constants */
 

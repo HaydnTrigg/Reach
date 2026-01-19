@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\matchmaking_progress_data_component.h"
 
 /* ---------- constants */
 

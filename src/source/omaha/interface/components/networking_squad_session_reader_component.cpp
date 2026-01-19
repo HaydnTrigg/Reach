@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\networking_squad_session_reader_component.h"
 
 /* ---------- constants */
 

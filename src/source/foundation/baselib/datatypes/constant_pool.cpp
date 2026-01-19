@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\datatypes\constant_pool.h"
 
 /* ---------- constants */
 

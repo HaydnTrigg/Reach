@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\giant_scarab_motor_program.h"
 
 /* ---------- constants */
 

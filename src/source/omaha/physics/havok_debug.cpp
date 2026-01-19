@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\havok_debug.h"
 
 /* ---------- constants */
 

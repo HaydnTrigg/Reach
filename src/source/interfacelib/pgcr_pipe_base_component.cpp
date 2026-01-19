@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\pgcr_pipe_base_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxMeshSectionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

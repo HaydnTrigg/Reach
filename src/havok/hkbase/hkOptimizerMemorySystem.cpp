@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkOptimizerMemorySystem.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

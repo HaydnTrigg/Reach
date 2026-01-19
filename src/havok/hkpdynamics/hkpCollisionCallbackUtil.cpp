@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCollisionCallbackUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

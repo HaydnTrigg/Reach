@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\challenges\challenge_definitions.h"
 
 /* ---------- constants */
 

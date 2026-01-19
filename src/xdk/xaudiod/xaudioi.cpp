@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xaudiod\xaudioi.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUnziAJUxlivUkirezgvUcgoUzfwrlUczfwrlUmlinzoUlyqUcylcUczfwrlrOlyq@xaudiod; // "__@@_PchSym_@00@UcvmlmUnziAJUxlivUkirezgvUcgoUzfwrlUczfwrlUmlinzoUlyqUcylcUczfwrlrOlyq@xaudiod"
+

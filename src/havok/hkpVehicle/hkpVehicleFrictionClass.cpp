@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleFrictionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

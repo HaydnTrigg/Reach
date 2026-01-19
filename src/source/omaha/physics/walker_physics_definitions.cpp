@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\walker_physics_definitions.h"
 
 /* ---------- constants */
 

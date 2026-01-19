@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_vertex_definitions.h"
 
 /* ---------- constants */
 

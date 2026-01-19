@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpMidphaseViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

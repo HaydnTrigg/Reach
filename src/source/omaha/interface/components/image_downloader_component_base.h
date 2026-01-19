@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __IMAGE_DOWNLOADER_COMPONENT_BASE_H__
+

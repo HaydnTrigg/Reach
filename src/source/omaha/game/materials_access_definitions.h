@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MATERIALS_ACCESS_DEFINITIONS_H__
+

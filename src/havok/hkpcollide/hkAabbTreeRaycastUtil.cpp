@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkAabbTreeRaycastUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

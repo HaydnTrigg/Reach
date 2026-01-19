@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\xdscale.h"
 
 /* ---------- constants */
 

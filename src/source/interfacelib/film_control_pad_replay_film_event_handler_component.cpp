@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_control_pad_replay_film_event_handler_component.h"
 
 /* ---------- constants */
 

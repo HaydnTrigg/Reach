@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3d9d\texture.h"
 
 /* ---------- constants */
 

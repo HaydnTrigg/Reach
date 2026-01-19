@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\crt0msg.h"
 
 /* ---------- constants */
 

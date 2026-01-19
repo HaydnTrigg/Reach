@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\omaha\gpu_particle\common_gpu.h"
 
 /* ---------- constants */
 
@@ -14,3 +15,4 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+

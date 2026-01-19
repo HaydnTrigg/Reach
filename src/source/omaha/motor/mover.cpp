@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\mover.h"
 
 /* ---------- constants */
 

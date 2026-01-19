@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\roster_player_options_component.h"
 
 /* ---------- constants */
 

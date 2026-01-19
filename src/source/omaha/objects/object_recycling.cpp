@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\object_recycling.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_type_scarab.h"
 
 /* ---------- constants */
 

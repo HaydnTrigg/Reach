@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\shader_compiler\shader_macros.h"
 
 /* ---------- constants */
 

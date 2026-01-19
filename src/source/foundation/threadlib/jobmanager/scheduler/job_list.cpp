@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\jobmanager\scheduler\job_list.h"
 
 /* ---------- constants */
 

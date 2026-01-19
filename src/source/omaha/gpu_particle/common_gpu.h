@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __COMMON_GPU_H__
+

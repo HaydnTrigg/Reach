@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\replication\replication_control_view.h"
 
 /* ---------- constants */
 

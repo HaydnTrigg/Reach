@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "core\corelib\cseries\cseries_asserts.h"
 
 /* ---------- constants */
 

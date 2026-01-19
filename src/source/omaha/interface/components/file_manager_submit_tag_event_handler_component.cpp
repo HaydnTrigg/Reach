@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\file_manager_submit_tag_event_handler_component.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_GAME_DEVICE_MACHINES_H__
+

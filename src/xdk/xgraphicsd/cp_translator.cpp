@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\cp_translator.h"
 
 /* ---------- constants */
 

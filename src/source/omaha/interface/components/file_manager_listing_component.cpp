@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\file_manager_listing_component.h"
 
 /* ---------- constants */
 

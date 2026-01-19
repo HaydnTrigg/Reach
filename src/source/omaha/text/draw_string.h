@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __DRAW_STRING_H__
+

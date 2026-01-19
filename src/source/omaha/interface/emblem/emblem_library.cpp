@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\emblem\emblem_library.h"
 
 /* ---------- constants */
 

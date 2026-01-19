@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\xmem.h"
 
 /* ---------- constants */
 

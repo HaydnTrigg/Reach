@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkProcessRegisterUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpKeyFrameUtility.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

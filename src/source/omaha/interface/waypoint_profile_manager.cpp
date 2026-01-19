@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\waypoint_profile_manager.h"
 
 /* ---------- constants */
 

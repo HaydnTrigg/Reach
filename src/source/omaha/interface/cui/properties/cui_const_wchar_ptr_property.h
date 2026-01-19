@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_CONST_WCHAR_PTR_PROPERTY_H__
+

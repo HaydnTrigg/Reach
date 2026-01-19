@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpConvexListShape.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

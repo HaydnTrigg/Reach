@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __DIALOG_PIPE_CLIENT_COMPONENT_H__
+

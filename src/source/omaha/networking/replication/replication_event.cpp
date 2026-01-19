@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\replication\replication_event.h"
 
 /* ---------- constants */
 

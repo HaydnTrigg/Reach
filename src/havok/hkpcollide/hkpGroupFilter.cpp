@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpGroupFilter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

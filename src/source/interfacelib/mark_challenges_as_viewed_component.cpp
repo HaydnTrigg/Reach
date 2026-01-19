@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\mark_challenges_as_viewed_component.h"
 
 /* ---------- constants */
 

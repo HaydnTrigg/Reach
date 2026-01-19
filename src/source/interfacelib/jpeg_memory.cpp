@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\jpeg_memory.h"
 
 /* ---------- constants */
 

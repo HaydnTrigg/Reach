@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\save_map_variant_as_component.h"
 
 /* ---------- constants */
 

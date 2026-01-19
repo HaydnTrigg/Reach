@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_TAG_REFERENCE_PROPERTY_H__
+

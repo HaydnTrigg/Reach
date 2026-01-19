@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3d9d\precomp.h"
 
 /* ---------- constants */
 
@@ -55,3 +56,4 @@
 // private: static int const D3D::ConstantTracker<1, 105, 16>::CTBitSet<16>::DWORD_SIZE; // "?DWORD_SIZE@?$CTBitSet@$0BA@@?$ConstantTracker@$00$0GJ@$0BA@@D3D@@0HB"
 // private: static int const D3D::ConstantTracker<1, 105, 16>::CTBitSet<16>::BITS_PER_DWORD; // "?BITS_PER_DWORD@?$CTBitSet@$0BA@@?$ConstantTracker@$00$0GJ@$0BA@@D3D@@0HB"
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwUzkrUcylcUlyqUcylcUkivxlnkOlyq@apid; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwUzkrUcylcUlyqUcylcUkivxlnkOlyq@apid"
+

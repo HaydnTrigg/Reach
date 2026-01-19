@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\vehicle_type_jackal_glider.h"
 
 /* ---------- constants */
 

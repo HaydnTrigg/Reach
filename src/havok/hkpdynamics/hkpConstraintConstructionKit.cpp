@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpConstraintConstructionKit.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

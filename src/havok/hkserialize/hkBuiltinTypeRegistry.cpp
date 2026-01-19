@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkBuiltinTypeRegistry.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

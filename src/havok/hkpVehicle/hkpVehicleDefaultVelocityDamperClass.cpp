@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDefaultVelocityDamperClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

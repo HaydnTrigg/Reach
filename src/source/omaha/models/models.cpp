@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\models\models.h"
 
 /* ---------- constants */
 

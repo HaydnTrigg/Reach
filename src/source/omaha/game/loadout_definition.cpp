@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\loadout_definition.h"
 
 /* ---------- constants */
 

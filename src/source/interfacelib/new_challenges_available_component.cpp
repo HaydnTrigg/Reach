@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\new_challenges_available_component.h"
 
 /* ---------- constants */
 

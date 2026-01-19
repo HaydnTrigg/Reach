@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\xboxmath_collision.h"
 
 /* ---------- constants */
 

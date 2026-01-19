@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MAIN_MENU_LIST_DATA_COMPONENT_H__
+

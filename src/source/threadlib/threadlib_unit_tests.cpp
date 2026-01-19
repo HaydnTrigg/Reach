@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\threadlib_unit_tests.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_model_update_new_item_record_event_handler_component.h"
 
 /* ---------- constants */
 

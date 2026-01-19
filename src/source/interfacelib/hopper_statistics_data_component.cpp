@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\hopper_statistics_data_component.h"
 
 /* ---------- constants */
 

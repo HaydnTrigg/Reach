@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\u64tod.h"
 
 /* ---------- constants */
 

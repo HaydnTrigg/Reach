@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpAgent3Bridge.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

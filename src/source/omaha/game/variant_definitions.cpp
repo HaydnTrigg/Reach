@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\variant_definitions.h"
 
 /* ---------- constants */
 

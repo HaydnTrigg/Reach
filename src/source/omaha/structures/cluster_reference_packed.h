@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CLUSTER_REFERENCE_PACKED_H__
+

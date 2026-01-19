@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\respawning_camera.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_cache_file_definitions.h"
 
 /* ---------- constants */
 

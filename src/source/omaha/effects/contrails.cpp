@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\contrails.h"
 
 /* ---------- constants */
 

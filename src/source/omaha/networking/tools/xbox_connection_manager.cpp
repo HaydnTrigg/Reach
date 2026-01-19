@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\tools\xbox_connection_manager.h"
 
 /* ---------- constants */
 

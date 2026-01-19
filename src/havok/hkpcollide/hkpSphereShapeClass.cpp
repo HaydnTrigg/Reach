@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpSphereShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

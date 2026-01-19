@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __HS_LIBRARY_INTERNAL_COMPILE_H__
+

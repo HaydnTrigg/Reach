@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_ANIMATION_MANAGER_H__
+

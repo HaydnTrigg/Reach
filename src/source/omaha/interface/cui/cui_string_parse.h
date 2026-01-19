@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_STRING_PARSE_H__
+

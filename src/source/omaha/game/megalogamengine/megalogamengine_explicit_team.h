@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MEGALOGAMENGINE_EXPLICIT_TEAM_H__
+

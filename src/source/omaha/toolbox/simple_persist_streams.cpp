@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\simple_persist_streams.h"
 
 /* ---------- constants */
 

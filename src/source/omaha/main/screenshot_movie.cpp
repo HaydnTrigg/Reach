@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\screenshot_movie.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\animation\cui_active_animation_collection.h"
 
 /* ---------- constants */
 

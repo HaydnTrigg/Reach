@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\file_share_listing_component.h"
 
 /* ---------- constants */
 

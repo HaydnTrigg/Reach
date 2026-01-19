@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\tag_resource_definitions_list.h"
 
 /* ---------- constants */
 

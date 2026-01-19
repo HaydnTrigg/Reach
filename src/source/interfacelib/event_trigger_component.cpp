@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\event_trigger_component.h"
 
 /* ---------- constants */
 

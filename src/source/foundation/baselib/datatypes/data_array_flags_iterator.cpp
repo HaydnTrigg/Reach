@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\datatypes\data_array_flags_iterator.h"
 
 /* ---------- constants */
 

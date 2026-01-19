@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_field_editors\tag_struct_editor.h"
 
 /* ---------- constants */
 

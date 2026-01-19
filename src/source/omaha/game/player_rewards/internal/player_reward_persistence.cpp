@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\player_rewards\internal\player_reward_persistence.h"
 
 /* ---------- constants */
 

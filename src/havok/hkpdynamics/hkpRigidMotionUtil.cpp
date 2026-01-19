@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpRigidMotionUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

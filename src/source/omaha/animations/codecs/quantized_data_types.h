@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __QUANTIZED_DATA_TYPES_H__
+

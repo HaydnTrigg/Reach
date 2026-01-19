@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\challenge_toast_data_component.h"
 
 /* ---------- constants */
 

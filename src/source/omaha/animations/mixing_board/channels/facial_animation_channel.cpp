@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\mixing_board\channels\facial_animation_channel.h"
 
 /* ---------- constants */
 

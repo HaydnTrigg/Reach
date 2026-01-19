@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\tools\telnet_console.h"
 
 /* ---------- constants */
 

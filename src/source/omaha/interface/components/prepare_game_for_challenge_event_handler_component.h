@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PREPARE_GAME_FOR_CHALLENGE_EVENT_HANDLER_COMPONENT_H__
+

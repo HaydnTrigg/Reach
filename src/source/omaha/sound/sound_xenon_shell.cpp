@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_xenon_shell.h"
 
 /* ---------- constants */
 

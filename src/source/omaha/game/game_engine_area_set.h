@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __GAME_ENGINE_AREA_SET_H__
+

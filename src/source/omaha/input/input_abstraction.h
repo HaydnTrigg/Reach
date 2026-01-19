@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __INPUT_ABSTRACTION_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_cancel_screenshot_upload_event_component.h"
 
 /* ---------- constants */
 

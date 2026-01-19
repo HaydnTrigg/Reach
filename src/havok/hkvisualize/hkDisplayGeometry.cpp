@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDisplayGeometry.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

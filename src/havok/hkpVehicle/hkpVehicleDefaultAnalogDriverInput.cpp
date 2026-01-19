@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDefaultAnalogDriverInput.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

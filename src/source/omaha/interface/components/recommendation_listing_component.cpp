@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\recommendation_listing_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_emblem_info_property.h"
 
 /* ---------- constants */
 

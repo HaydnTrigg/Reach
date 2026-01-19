@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\depth_of_field.h"
 
 /* ---------- constants */
 

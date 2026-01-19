@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\hs\hs_globals_external.h"
 
 /* ---------- constants */
 
@@ -25,3 +26,4 @@
 // public: static long const s_static_array<class c_typed_opaque_data<class c_cache_file_section_stream, 292, 4>, 4>::k_element_count; // "?k_element_count@?$s_static_array@V?$c_typed_opaque_data@Vc_cache_file_section_stream@@$0BCE@$03@@$03@@2JB"
 // struct hs_global_external **hs_external_globals; // "?hs_external_globals@@3PAPAUhs_global_external@@A"
 // bool e3; // "?e3@@3_NA"
+

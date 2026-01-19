@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpDefaultWorldMaintenanceMgr.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

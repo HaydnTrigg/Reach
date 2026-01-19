@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\rename_content_item_component.h"
 
 /* ---------- constants */
 

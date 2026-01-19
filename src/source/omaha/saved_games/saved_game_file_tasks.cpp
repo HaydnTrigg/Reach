@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\saved_game_file_tasks.h"
 
 /* ---------- constants */
 

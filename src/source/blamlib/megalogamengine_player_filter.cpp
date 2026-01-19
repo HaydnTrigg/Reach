@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_player_filter.h"
 
 /* ---------- constants */
 

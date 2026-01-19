@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\system_transfer_data_component.h"
 
 /* ---------- constants */
 

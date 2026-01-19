@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\creature_ground_motor_program.h"
 
 /* ---------- constants */
 

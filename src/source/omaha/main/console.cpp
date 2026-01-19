@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\console.h"
 
 /* ---------- constants */
 

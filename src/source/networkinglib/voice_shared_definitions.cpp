@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\voice_shared_definitions.h"
 
 /* ---------- constants */
 

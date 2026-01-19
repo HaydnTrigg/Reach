@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\items\projectile_definitions.h"
 
 /* ---------- constants */
 

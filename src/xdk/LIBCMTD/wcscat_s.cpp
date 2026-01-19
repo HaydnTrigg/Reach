@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\wcscat_s.h"
 
 /* ---------- constants */
 

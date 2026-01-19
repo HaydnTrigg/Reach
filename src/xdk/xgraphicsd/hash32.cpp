@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\hash32.h"
 
 /* ---------- constants */
 

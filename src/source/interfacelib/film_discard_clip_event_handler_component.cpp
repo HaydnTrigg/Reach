@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_discard_clip_event_handler_component.h"
 
 /* ---------- constants */
 

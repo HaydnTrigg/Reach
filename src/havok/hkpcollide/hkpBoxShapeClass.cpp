@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpBoxShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

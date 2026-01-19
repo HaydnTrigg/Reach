@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_loading_screen.h"
 
 /* ---------- constants */
 

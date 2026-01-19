@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\game_sound_player_effects.h"
 
 /* ---------- constants */
 

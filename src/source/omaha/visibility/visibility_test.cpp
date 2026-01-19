@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\visibility\visibility_test.h"
 
 /* ---------- constants */
 

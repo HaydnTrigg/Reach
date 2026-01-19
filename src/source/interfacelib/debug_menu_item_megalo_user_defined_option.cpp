@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\debug_menu_item_megalo_user_defined_option.h"
 
 /* ---------- constants */
 

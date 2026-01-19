@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\motor_tasks_common.h"
 
 /* ---------- constants */
 

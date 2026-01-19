@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\x10fout.h"
 
 /* ---------- constants */
 

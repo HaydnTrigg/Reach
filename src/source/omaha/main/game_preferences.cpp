@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\game_preferences.h"
 
 /* ---------- constants */
 

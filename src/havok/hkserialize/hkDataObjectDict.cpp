@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkDataObjectDict.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

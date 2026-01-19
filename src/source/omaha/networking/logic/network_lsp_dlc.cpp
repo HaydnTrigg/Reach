@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\network_lsp_dlc.h"
 
 /* ---------- constants */
 

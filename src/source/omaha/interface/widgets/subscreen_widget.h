@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SUBSCREEN_WIDGET_H__
+

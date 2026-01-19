@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\unit_vector_quantization.h"
 
 /* ---------- constants */
 

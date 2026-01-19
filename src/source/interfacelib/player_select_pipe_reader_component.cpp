@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_select_pipe_reader_component.h"
 
 /* ---------- constants */
 

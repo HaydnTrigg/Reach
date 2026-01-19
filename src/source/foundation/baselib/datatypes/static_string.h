@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STATIC_STRING_H__
+

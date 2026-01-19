@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\creatures\creature_definitions.h"
 
 /* ---------- constants */
 

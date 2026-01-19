@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\polygon_math.h"
 
 /* ---------- constants */
 

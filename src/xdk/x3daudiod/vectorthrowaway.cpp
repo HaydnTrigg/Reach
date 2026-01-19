@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\x3daudiod\vectorthrowaway.h"
 
 /* ---------- constants */
 

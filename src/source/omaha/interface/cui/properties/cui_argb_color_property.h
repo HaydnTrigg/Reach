@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_ARGB_COLOR_PROPERTY_H__
+

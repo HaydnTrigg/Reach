@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpRagdollLimitsData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

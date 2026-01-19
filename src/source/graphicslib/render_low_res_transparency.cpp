@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\render_low_res_transparency.h"
 
 /* ---------- constants */
 

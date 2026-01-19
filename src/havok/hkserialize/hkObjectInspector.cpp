@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkObjectInspector.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

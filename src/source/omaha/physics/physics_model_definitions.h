@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PHYSICS_MODEL_DEFINITIONS_H__
+

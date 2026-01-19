@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkColorClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\strspn.h"
 
 /* ---------- constants */
 

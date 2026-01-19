@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_combat.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\show_player_review_component.h"
 
 /* ---------- constants */
 

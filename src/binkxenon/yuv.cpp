@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "binkxenon\yuv.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\heapchk.h"
 
 /* ---------- constants */
 

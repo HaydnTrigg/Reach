@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\multithreading\test\thread_safe_linked_list_tests.h"
 
 /* ---------- constants */
 

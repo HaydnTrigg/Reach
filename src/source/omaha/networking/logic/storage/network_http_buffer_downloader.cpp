@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\storage\network_http_buffer_downloader.h"
 
 /* ---------- constants */
 

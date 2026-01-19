@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\character_definitions.h"
 
 /* ---------- constants */
 

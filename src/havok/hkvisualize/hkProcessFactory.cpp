@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkProcessFactory.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

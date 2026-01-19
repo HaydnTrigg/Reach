@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkOffsetOnlyStreamWriter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

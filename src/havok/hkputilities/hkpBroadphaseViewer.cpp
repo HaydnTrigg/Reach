@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpBroadphaseViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\weather\render_wet.h"
 
 /* ---------- constants */
 

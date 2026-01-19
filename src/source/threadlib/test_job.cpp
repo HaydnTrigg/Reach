@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\test_job.h"
 
 /* ---------- constants */
 

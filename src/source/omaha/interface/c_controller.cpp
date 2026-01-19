@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\c_controller.h"
 
 /* ---------- constants */
 

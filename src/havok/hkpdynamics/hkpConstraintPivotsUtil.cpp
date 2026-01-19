@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpConstraintPivotsUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

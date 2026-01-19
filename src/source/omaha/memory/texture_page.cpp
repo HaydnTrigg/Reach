@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\texture_page.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SOUND_MATH_H__
+

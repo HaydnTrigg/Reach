@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\select_storage_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cutscene\new_cinematic_sh_lighting.h"
 
 /* ---------- constants */
 

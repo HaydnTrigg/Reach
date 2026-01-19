@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\damage_effect_definitions.h"
 
 /* ---------- constants */
 

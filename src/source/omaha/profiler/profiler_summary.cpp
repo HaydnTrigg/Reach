@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\profiler\profiler_summary.h"
 
 /* ---------- constants */
 

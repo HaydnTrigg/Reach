@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_options_component_base.h"
 
 /* ---------- constants */
 

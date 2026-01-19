@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_designer_zones_definitions.h"
 
 /* ---------- constants */
 

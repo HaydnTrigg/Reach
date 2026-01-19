@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpConvexListFilterClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClassEnum const *const hkpConvexListFilterConvexListCollisionTypeEnum; // "?hkpConvexListFilterConvexListCollisionTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpConvexListFilterClass; // "?hkpConvexListFilterClass@@3VhkClass@@B"
+

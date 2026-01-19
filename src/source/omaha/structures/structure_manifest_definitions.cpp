@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\structure_manifest_definitions.h"
 
 /* ---------- constants */
 

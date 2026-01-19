@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\campaign_skull_list_data_component.h"
 
 /* ---------- constants */
 

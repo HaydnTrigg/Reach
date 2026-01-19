@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\animation_compute_orientations.h"
 
 /* ---------- constants */
 

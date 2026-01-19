@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\grid_list_widget.h"
 
 /* ---------- constants */
 

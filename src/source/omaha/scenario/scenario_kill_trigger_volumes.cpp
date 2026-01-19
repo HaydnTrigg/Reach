@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_kill_trigger_volumes.h"
 
 /* ---------- constants */
 

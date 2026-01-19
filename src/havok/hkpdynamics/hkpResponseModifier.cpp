@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpResponseModifier.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpPhantomCallbackShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -15,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class hkClass const hkpPhantomCallbackShapeClass; // "?hkpPhantomCallbackShapeClass@@3VhkClass@@B"
+

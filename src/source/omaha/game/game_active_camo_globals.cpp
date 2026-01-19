@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_active_camo_globals.h"
 
 /* ---------- constants */
 

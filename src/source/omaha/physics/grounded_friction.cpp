@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\grounded_friction.h"
 
 /* ---------- constants */
 

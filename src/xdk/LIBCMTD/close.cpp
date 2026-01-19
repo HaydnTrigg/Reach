@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\close.h"
 
 /* ---------- constants */
 

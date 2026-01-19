@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCapsuleCapsuleAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

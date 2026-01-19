@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPointToPathConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpCvxCvxDistByHeuristicSampling.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

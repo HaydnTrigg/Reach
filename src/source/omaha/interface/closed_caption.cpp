@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\closed_caption.h"
 
 /* ---------- constants */
 

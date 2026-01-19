@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\file_browser_predefined_search_data.h"
 
 /* ---------- constants */
 

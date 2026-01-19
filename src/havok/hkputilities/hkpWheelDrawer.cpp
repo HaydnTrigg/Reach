@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpWheelDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

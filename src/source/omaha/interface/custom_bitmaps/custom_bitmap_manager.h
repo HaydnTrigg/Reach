@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUSTOM_BITMAP_MANAGER_H__
+

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpBvTreeStreamAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

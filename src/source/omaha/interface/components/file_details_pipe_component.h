@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __FILE_DETAILS_PIPE_COMPONENT_H__
+

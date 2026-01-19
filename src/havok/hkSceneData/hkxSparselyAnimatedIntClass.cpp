@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxSparselyAnimatedIntClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

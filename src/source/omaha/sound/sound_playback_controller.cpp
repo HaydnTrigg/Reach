@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_playback_controller.h"
 
 /* ---------- constants */
 

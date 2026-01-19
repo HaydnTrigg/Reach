@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpRayCastQueryJobUtils.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

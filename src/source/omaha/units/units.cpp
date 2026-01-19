@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\units.h"
 
 /* ---------- constants */
 

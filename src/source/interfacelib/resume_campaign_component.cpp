@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\resume_campaign_component.h"
 
 /* ---------- constants */
 

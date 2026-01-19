@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuAgentSectorJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

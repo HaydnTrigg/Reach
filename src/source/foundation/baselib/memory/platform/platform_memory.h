@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PLATFORM_MEMORY_H__
+

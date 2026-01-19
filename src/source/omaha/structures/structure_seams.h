@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STRUCTURE_SEAMS_H__
+

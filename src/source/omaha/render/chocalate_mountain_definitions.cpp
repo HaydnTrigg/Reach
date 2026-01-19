@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\chocalate_mountain_definitions.h"
 
 /* ---------- constants */
 

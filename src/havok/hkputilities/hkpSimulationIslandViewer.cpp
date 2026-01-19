@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSimulationIslandViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

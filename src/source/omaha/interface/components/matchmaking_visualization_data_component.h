@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MATCHMAKING_VISUALIZATION_DATA_COMPONENT_H__
+

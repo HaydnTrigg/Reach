@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ALERT_PIPE_CLIENT_COMPONENT_H__
+

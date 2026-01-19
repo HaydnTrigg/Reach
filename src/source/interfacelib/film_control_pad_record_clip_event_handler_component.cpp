@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_control_pad_record_clip_event_handler_component.h"
 
 /* ---------- constants */
 

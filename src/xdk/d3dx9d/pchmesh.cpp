@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\pchmesh.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUnvhsUcylcUlyqUcylcUkxsnvhsOlyq@d3dxmesh; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUnvhsUcylcUlyqUcylcUkxsnvhsOlyq@d3dxmesh"
+

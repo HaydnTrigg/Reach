@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkBinaryTagfileReader.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

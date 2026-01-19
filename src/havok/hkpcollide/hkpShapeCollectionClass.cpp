@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpShapeCollectionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClassEnum const *const hkpShapeCollectionCollectionTypeEnum; // "?hkpShapeCollectionCollectionTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpShapeCollectionClass; // "?hkpShapeCollectionClass@@3VhkClass@@B"
+

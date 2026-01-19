@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\async_compare_private.h"
 
 /* ---------- constants */
 

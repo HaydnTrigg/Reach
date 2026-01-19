@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCallbackConstraintMotorClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

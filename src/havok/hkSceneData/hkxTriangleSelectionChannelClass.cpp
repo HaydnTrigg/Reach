@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxTriangleSelectionChannelClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

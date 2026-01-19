@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\forge_do_action_event_handler_component.h"
 
 /* ---------- constants */
 

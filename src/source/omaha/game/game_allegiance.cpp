@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_allegiance.h"
 
 /* ---------- constants */
 

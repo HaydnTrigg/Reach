@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\primitives\synchronized_list_windows.h"
 
 /* ---------- constants */
 

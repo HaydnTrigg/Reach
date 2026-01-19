@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\delivery\network_stream_manager.h"
 
 /* ---------- constants */
 

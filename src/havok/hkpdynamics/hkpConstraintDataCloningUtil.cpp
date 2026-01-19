@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpConstraintDataCloningUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

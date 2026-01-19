@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\vehicle_engine_definitions.h"
 
 /* ---------- constants */
 

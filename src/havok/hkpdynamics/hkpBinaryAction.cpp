@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpBinaryAction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\output_handler_default_xenon.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\xenon\dsp\peak_meter_effect.h"
 
 /* ---------- constants */
 

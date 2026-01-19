@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RASTERIZER_LOADING_SCREEN_AUNTIE_DOT_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\fileiohooks.h"
 
 /* ---------- constants */
 
@@ -17,3 +18,4 @@
 
 // _defaultFileIoHooks; // "_defaultFileIoHooks"
 // _fileIoHooks; // "_fileIoHooks"
+

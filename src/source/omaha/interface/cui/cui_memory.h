@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_MEMORY_H__
+

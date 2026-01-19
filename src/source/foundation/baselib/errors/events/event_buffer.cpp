@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\errors\events\event_buffer.h"
 
 /* ---------- constants */
 

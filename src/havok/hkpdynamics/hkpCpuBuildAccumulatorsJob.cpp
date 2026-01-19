@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuBuildAccumulatorsJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

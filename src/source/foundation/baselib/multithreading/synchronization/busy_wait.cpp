@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\busy_wait.h"
 
 /* ---------- constants */
 

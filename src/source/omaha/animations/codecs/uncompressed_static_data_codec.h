@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __UNCOMPRESSED_STATIC_DATA_CODEC_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_control_pad_take_screenshot_event_handler_component.h"
 
 /* ---------- constants */
 

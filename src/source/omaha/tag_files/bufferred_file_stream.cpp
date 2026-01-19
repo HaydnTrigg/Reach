@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\bufferred_file_stream.h"
 
 /* ---------- constants */
 

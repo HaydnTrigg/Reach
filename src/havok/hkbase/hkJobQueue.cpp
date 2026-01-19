@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkJobQueue.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

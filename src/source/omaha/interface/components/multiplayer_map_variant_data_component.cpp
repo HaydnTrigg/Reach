@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\multiplayer_map_variant_data_component.h"
 
 /* ---------- constants */
 

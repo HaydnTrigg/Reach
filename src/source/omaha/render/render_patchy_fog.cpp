@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_patchy_fog.h"
 
 /* ---------- constants */
 

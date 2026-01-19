@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\weather\weather_control.h"
 
 /* ---------- constants */
 

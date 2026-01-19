@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\file_browser_file_details_data.h"
 
 /* ---------- constants */
 

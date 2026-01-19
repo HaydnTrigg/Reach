@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\single_tag_instance_reloader.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_manager_list_data_component.h"
 
 /* ---------- constants */
 

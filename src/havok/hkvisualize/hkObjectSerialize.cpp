@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkObjectSerialize.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

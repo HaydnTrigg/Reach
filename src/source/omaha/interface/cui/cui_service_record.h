@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_SERVICE_RECORD_H__
+

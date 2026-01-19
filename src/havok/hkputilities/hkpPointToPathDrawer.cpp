@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPointToPathDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

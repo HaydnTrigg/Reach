@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\death_program_selection_definitions.h"
 
 /* ---------- constants */
 

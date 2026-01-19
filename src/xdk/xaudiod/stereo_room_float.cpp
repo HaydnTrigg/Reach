@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xaudiod\stereo_room_float.h"
 
 /* ---------- constants */
 

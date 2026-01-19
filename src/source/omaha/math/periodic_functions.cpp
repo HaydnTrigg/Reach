@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\periodic_functions.h"
 
 /* ---------- constants */
 

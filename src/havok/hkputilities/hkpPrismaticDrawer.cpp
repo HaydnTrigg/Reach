@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPrismaticDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

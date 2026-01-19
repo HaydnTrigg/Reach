@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_INPUT_EVENT_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\text\xml_parser.h"
 
 /* ---------- constants */
 

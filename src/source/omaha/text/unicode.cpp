@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\text\unicode.h"
 
 /* ---------- constants */
 

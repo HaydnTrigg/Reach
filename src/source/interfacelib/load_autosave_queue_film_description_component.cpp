@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\load_autosave_queue_film_description_component.h"
 
 /* ---------- constants */
 

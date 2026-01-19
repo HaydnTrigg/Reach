@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STATIC_HASH_TABLE_H__
+

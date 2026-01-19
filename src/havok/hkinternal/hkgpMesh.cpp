@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkinternal\hkgpMesh.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

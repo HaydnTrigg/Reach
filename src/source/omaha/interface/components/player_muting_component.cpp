@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\player_muting_component.h"
 
 /* ---------- constants */
 

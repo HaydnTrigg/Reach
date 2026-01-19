@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\jm_types.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpPredGskfAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

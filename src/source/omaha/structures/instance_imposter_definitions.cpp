@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\instance_imposter_definitions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\simulation_object_glue.h"
 
 /* ---------- constants */
 

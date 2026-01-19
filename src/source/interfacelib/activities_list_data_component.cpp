@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\activities_list_data_component.h"
 
 /* ---------- constants */
 

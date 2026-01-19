@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_object_property_table.h"
 
 /* ---------- constants */
 

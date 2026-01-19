@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\curve_codec\catmull_spline.h"
 
 /* ---------- constants */
 

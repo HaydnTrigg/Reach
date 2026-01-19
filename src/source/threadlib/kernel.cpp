@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "threadlib\kernel.h"
 
 /* ---------- constants */
 

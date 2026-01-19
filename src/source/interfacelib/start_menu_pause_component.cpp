@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_pause_component.h"
 
 /* ---------- constants */
 

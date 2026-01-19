@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __USER_INTERFACE_CONTENT_ENUMERATOR_H__
+

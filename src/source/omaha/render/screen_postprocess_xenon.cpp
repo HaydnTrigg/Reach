@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\screen_postprocess_xenon.h"
 
 /* ---------- constants */
 

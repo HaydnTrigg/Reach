@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_lsp_statistics.h"
 
 /* ---------- constants */
 

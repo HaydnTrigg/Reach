@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\pchfx.h"
 
 /* ---------- constants */
 
@@ -60,3 +61,4 @@
 // unsigned short const g_iVertexShaderConstantIState; // "?g_iVertexShaderConstantIState@@3GB"
 // unsigned int g_TimerRolloverCount; // "?g_TimerRolloverCount@@3IA"
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUhszwviUucUcylcUlyqUcylcUkxsucOlyq@d3dxshaderfx; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUtizksrxhUwDwcUhszwviUucUcylcUlyqUcylcUkxsucOlyq@d3dxshaderfx"
+

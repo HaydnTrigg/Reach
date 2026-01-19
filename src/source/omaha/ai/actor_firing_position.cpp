@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_firing_position.h"
 
 /* ---------- constants */
 

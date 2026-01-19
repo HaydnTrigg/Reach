@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\content_game_engine_bucket_data_component.h"
 
 /* ---------- constants */
 

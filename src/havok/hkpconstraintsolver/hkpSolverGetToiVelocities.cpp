@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpSolverGetToiVelocities.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

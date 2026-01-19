@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpWeldingUtilityClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpMoppMachine.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

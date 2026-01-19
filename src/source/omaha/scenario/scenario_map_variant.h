@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SCENARIO_MAP_VARIANT_H__
+

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDriverInputClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClass const hkpVehicleDriverInputStatusClass; // "?hkpVehicleDriverInputStatusClass@@3VhkClass@@B"
 // class hkClass const hkpVehicleDriverInputClass; // "?hkpVehicleDriverInputClass@@3VhkClass@@B"
+

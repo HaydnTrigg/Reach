@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ARENA_PIPE_READER_COMPONENT_H__
+

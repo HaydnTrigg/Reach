@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\challenge_toast_pipe_component.h"
 
 /* ---------- constants */
 

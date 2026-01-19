@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\Xparty\partylib.h"
 
 /* ---------- constants */
 

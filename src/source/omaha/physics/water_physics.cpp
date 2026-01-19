@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\water_physics.h"
 
 /* ---------- constants */
 

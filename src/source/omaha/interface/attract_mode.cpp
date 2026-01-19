@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\attract_mode.h"
 
 /* ---------- constants */
 

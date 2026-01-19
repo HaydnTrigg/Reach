@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpSphereSphereAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

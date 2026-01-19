@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxVertexSelectionChannelClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

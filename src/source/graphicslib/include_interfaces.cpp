@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\include_interfaces.h"
 
 /* ---------- constants */
 

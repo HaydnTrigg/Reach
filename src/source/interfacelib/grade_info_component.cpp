@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\grade_info_component.h"
 
 /* ---------- constants */
 

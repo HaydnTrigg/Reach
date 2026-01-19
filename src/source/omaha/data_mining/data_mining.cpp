@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\data_mining\data_mining.h"
 
 /* ---------- constants */
 

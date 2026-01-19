@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\cseries_events_defaults.h"
 
 /* ---------- constants */
 

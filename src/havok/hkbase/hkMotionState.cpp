@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMotionState.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

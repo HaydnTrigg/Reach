@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\watch_window.h"
 
 /* ---------- constants */
 

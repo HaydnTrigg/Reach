@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPoweredChainMapper.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

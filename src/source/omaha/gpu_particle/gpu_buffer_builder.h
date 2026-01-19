@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __GPU_BUFFER_BUILDER_H__
+

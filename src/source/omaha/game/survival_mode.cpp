@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\survival_mode.h"
 
 /* ---------- constants */
 
@@ -24,3 +25,4 @@
 // struct s_tag_group_sync_definition legacy_survival_mode_globals_xsync_declaration; // "?legacy_survival_mode_globals_xsync_declaration@@3Us_tag_group_sync_definition@@A"
 // class c_tag_struct_vtable<class c_null_tag_vtable> survival_mode_wave_templates_struct_struct_vtable; // "?survival_mode_wave_templates_struct_struct_vtable@@3V?$c_tag_struct_vtable@Vc_null_tag_vtable@@@@A"
 // class c_legacy_tag_group_vtable_shim legacy_survival_mode_globals_vtable_shim; // "?legacy_survival_mode_globals_vtable_shim@@3Vc_legacy_tag_group_vtable_shim@@A"
+

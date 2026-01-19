@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __REPLICATION_ENTITY_MANAGER_VIEW_H__
+

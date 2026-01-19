@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpBoxBoxManifold.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

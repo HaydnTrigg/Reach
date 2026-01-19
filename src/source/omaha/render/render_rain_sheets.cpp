@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_rain_sheets.h"
 
 /* ---------- constants */
 

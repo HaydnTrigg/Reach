@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\simulated_input.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\shared_region.h"
 
 /* ---------- constants */
 

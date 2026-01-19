@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\restricted_memory_regions.h"
 
 /* ---------- constants */
 

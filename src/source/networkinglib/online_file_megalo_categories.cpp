@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\online_file_megalo_categories.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\gui_screens\start_menu\gui_screen_start_menu.h"
 
 /* ---------- constants */
 

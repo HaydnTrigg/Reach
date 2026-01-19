@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\change_content_item_description_component.h"
 
 /* ---------- constants */
 

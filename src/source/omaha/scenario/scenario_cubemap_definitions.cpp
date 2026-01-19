@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_cubemap_definitions.h"
 
 /* ---------- constants */
 

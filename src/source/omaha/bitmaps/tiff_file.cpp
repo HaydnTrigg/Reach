@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\bitmaps\tiff_file.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\models\render_model_definitions.h"
 
 /* ---------- constants */
 

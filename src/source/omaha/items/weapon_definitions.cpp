@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\items\weapon_definitions.h"
 
 /* ---------- constants */
 

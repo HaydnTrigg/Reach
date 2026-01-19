@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\spinner_widget.h"
 
 /* ---------- constants */
 

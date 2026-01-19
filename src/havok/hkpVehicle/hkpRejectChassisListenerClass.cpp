@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpRejectChassisListenerClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

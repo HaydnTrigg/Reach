@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\saved_search_delete_custom_search_event_handler_component.h"
 
 /* ---------- constants */
 

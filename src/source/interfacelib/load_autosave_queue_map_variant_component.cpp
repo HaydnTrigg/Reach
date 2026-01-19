@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\load_autosave_queue_map_variant_component.h"
 
 /* ---------- constants */
 

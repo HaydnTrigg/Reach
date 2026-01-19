@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\system\system_identity_xenon.h"
 
 /* ---------- constants */
 

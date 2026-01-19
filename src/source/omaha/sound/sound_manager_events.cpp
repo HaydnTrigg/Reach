@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_manager_events.h"
 
 /* ---------- constants */
 

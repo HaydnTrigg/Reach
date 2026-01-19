@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\cseries_strings.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\global_fade_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_browser_pipe_writer_component.h"
 
 /* ---------- constants */
 

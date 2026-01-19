@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_QWORD_PROPERTY_H__
+

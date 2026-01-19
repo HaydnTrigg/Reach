@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\datatypes\memory_pool.h"
 
 /* ---------- constants */
 

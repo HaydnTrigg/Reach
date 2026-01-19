@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_resource_cache_datum_persist.h"
 
 /* ---------- constants */
 

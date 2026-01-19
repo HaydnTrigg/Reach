@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\game_director.h"
 
 /* ---------- constants */
 

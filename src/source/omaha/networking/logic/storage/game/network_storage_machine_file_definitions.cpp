@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\storage\game\network_storage_machine_file_definitions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpVehicleFrictionSolver.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\upload_autosave_queue_item_component.h"
 
 /* ---------- constants */
 

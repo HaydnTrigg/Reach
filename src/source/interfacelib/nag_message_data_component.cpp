@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\nag_message_data_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_loadout_menu.h"
 
 /* ---------- constants */
 

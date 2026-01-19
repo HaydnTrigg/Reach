@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\wide_data_array.h"
 
 /* ---------- constants */
 

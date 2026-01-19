@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CACHE_FILE_TAG_BUILDER_COPY_H__
+

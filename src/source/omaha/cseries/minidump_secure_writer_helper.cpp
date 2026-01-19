@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\minidump_secure_writer_helper.h"
 
 /* ---------- constants */
 

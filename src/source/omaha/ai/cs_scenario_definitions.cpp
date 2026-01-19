@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\cs_scenario_definitions.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __USER_INTERFACE_PREDICT_RESOURCES_H__
+

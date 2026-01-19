@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\start_menu_options_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\game_interface\simulation_game_engine_player.h"
 
 /* ---------- constants */
 

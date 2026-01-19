@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\iosptrs.h"
 
 /* ---------- constants */
 

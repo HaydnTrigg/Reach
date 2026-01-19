@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\damage_effect_obstacles.h"
 
 /* ---------- constants */
 

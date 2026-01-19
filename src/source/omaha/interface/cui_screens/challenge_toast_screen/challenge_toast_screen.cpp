@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui_screens\challenge_toast_screen\challenge_toast_screen.h"
 
 /* ---------- constants */
 

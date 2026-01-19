@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_statistics.h"
 
 /* ---------- constants */
 

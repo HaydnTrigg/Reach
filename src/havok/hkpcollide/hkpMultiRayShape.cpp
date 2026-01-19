@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpMultiRayShape.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

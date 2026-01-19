@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\multithreading\test\lockfree_event_fifo_tests.h"
 
 /* ---------- constants */
 

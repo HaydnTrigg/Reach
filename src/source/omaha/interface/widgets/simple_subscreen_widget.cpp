@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\simple_subscreen_widget.h"
 
 /* ---------- constants */
 

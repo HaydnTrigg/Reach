@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_OBJECT_GLUE_H__
+

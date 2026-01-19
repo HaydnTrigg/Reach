@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_leave_game_event_component.h"
 
 /* ---------- constants */
 

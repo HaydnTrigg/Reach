@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_ENTITY_UPDATE_THROTTLER_H__
+

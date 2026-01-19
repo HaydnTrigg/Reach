@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\xenon\dsp\voice_ring_buffer_effect.h"
 
 /* ---------- constants */
 

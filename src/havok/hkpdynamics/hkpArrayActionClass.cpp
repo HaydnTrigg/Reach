@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpArrayActionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // public: static struct hkInternalClassMember const *const const hkpArrayAction::Members; // "?Members@hkpArrayAction@@2QBUhkInternalClassMember@@B"
 // class hkClass const hkpArrayActionClass; // "?hkpArrayActionClass@@3VhkClass@@B"
+

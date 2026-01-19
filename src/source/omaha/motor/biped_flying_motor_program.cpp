@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\biped_flying_motor_program.h"
 
 /* ---------- constants */
 

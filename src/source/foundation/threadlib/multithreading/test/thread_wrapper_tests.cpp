@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\multithreading\test\thread_wrapper_tests.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxSparselyAnimatedEnum.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

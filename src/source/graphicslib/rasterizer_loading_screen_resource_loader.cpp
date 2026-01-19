@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\rasterizer_loading_screen_resource_loader.h"
 
 /* ---------- constants */
 

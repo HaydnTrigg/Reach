@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\nag_message_pipe_component.h"
 
 /* ---------- constants */
 

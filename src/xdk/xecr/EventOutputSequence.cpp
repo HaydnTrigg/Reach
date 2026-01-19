@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xecr\EventOutputSequence.h"
 
 /* ---------- constants */
 

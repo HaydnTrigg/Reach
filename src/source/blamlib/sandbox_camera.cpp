@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\sandbox_camera.h"
 
 /* ---------- constants */
 

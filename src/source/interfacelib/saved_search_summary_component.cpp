@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\saved_search_summary_component.h"
 
 /* ---------- constants */
 

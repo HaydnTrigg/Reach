@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxAttributeGroup.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

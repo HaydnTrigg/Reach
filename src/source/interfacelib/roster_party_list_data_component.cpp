@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\roster_party_list_data_component.h"
 
 /* ---------- constants */
 

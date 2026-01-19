@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\runtime_platform.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\row_subdata_component.h"
 
 /* ---------- constants */
 

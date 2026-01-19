@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\cluster_marker.h"
 
 /* ---------- constants */
 

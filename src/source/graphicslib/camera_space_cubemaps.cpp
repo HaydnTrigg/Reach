@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\camera_space_cubemaps.h"
 
 /* ---------- constants */
 

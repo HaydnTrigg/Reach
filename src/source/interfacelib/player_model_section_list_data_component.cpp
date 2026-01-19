@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_model_section_list_data_component.h"
 
 /* ---------- constants */
 

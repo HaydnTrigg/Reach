@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\tools\network_server_signing.h"
 
 /* ---------- constants */
 

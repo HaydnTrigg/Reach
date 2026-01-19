@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkinternal\hkKdTreeUtils.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

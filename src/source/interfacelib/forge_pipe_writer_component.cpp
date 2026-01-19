@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\forge_pipe_writer_component.h"
 
 /* ---------- constants */
 

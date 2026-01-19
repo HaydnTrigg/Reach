@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpDefaultWorldMemoryWatchDog.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\physical_memory_regions.h"
 
 /* ---------- constants */
 

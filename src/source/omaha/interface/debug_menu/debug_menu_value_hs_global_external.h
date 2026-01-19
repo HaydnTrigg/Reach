@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __DEBUG_MENU_VALUE_HS_GLOBAL_EXTERNAL_H__
+

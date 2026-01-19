@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_engine_candy_monitor.h"
 
 /* ---------- constants */
 

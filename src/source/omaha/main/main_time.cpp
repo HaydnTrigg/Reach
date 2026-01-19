@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\main_time.h"
 
 /* ---------- constants */
 

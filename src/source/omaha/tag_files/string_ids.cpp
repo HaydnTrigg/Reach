@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\string_ids.h"
 
 /* ---------- constants */
 

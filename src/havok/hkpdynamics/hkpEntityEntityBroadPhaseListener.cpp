@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpEntityEntityBroadPhaseListener.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

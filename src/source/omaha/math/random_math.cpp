@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\random_math.h"
 
 /* ---------- constants */
 

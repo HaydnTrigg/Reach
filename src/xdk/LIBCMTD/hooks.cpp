@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\hooks.h"
 
 /* ---------- constants */
 

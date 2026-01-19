@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\codecs\animation_codecs.h"
 
 /* ---------- constants */
 

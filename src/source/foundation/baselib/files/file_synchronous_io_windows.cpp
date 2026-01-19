@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\files\file_synchronous_io_windows.h"
 
 /* ---------- constants */
 

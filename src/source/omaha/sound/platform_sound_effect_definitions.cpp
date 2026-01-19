@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\platform_sound_effect_definitions.h"
 
 /* ---------- constants */
 

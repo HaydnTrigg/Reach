@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __TAG_RESOURCE_THREADING_INLINES_H__
+

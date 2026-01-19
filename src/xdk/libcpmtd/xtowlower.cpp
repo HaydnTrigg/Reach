@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\xtowlower.h"
 
 /* ---------- constants */
 

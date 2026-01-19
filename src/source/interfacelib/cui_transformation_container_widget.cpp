@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_transformation_container_widget.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\xenon\dsp\xaudio_output_ring_buffer.h"
 
 /* ---------- constants */
 

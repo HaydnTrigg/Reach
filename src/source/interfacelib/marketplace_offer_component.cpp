@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\marketplace_offer_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCharacterMotion.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

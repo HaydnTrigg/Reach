@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDisplayCylinder.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

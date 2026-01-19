@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SCREEN_EFFECT_H__
+

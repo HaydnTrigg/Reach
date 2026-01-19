@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\transport\transport.h"
 
 /* ---------- constants */
 

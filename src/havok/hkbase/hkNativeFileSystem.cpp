@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkNativeFileSystem.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

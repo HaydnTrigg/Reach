@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\HaloAutoTest.h"
 
 /* ---------- constants */
 

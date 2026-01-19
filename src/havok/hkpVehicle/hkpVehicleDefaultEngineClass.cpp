@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleDefaultEngineClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

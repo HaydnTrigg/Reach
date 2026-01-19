@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpAllCdPointCollector.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

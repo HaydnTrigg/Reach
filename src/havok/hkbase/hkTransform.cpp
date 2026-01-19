@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkTransform.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

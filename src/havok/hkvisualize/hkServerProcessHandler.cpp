@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkServerProcessHandler.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

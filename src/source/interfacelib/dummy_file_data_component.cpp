@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\dummy_file_data_component.h"
 
 /* ---------- constants */
 

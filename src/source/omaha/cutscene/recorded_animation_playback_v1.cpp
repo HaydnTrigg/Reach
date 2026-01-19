@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cutscene\recorded_animation_playback_v1.h"
 
 /* ---------- constants */
 

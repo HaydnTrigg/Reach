@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\real_value_compression.h"
 
 /* ---------- constants */
 

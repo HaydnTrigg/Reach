@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkSimpleMemorySystem.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\rockall_allocator.h"
 
 /* ---------- constants */
 

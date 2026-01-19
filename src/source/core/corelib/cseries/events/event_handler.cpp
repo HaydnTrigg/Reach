@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "core\corelib\cseries\events\event_handler.h"
 
 /* ---------- constants */
 

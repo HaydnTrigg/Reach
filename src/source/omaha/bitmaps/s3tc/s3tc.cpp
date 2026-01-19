@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\bitmaps\s3tc\s3tc.h"
 
 /* ---------- constants */
 

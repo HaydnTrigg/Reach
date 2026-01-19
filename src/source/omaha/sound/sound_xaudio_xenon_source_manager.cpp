@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_xaudio_xenon_source_manager.h"
 
 /* ---------- constants */
 

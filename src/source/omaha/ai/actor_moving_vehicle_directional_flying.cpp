@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_moving_vehicle_directional_flying.h"
 
 /* ---------- constants */
 

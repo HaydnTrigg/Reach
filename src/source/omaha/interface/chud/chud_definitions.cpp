@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\chud\chud_definitions.h"
 
 /* ---------- constants */
 

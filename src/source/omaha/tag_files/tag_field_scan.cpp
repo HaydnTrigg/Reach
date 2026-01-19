@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_field_scan.h"
 
 /* ---------- constants */
 

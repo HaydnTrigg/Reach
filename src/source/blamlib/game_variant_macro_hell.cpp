@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\game_variant_macro_hell.h"
 
 /* ---------- constants */
 

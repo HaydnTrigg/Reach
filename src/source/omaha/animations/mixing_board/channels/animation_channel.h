@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ANIMATION_CHANNEL_H__
+

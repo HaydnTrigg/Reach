@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_abandon_temp_profile_event_component.h"
 
 /* ---------- constants */
 

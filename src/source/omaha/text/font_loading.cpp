@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\text\font_loading.h"
 
 /* ---------- constants */
 

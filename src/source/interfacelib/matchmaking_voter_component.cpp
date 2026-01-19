@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\matchmaking_voter_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpRotationalConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

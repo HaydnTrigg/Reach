@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_PLAYER_IDENTIFIER_PROPERTY_H__
+

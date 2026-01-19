@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\vision_mode.h"
 
 /* ---------- constants */
 

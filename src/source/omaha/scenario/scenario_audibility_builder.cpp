@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_audibility_builder.h"
 
 /* ---------- constants */
 

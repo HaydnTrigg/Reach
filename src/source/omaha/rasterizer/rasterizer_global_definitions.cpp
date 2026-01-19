@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_global_definitions.h"
 
 /* ---------- constants */
 

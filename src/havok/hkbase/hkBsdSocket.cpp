@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkBsdSocket.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\game_engine_loadout_traits_structures.h"
 
 /* ---------- constants */
 

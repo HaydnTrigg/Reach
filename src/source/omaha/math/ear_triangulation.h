@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __EAR_TRIANGULATION_H__
+

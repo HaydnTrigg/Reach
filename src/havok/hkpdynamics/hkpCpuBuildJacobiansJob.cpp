@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuBuildJacobiansJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

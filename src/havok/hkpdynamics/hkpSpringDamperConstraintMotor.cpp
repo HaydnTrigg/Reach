@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpSpringDamperConstraintMotor.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

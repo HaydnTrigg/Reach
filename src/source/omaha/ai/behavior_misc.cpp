@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\behavior_misc.h"
 
 /* ---------- constants */
 

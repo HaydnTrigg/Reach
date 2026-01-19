@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xecr\Logger.h"
 
 /* ---------- constants */
 

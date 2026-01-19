@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPointToPlaneConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

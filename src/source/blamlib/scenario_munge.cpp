@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\scenario_munge.h"
 
 /* ---------- constants */
 

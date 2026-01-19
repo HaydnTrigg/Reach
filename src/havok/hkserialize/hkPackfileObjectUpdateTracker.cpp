@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkPackfileObjectUpdateTracker.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

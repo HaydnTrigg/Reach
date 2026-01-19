@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\spherical_harmonics.h"
 
 /* ---------- constants */
 

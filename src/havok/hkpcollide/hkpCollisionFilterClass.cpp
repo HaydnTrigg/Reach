@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCollisionFilterClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClassEnum const *const hkpCollisionFilterhkpFilterTypeEnum; // "?hkpCollisionFilterhkpFilterTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpCollisionFilterClass; // "?hkpCollisionFilterClass@@3VhkClass@@B"
+

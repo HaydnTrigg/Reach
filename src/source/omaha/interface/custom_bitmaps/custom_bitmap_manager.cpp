@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\custom_bitmaps\custom_bitmap_manager.h"
 
 /* ---------- constants */
 

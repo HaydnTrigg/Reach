@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\litevalr500.h"
 
 /* ---------- constants */
 

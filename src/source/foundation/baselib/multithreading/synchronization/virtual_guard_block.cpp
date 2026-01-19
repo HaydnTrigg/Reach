@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\virtual_guard_block.h"
 
 /* ---------- constants */
 

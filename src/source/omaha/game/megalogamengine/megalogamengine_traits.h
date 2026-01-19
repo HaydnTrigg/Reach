@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MEGALOGAMENGINE_TRAITS_H__
+

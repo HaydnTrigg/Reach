@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RASTERIZER_GEOMETRY_H__
+

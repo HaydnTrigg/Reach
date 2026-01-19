@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\pgcr_campaign_list_data_reader_component.h"
 
 /* ---------- constants */
 

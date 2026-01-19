@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\vehicle_auto_turret.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_dialogue_definitions.h"
 
 /* ---------- constants */
 

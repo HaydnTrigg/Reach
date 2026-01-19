@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\shield_impact_definitions.h"
 
 /* ---------- constants */
 

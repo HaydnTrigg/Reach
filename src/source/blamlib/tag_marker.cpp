@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\tag_marker.h"
 
 /* ---------- constants */
 

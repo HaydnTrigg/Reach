@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\network_session_membership_interface.h"
 
 /* ---------- constants */
 

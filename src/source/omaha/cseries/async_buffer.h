@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ASYNC_BUFFER_H__
+

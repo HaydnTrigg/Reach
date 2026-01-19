@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkWin32Semaphore.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

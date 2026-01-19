@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\jobmanager\work_unit\work_unit.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\tracked_target_camera.h"
 
 /* ---------- constants */
 

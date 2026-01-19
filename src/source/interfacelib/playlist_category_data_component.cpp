@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\playlist_category_data_component.h"
 
 /* ---------- constants */
 

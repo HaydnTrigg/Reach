@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\havok_convex_decomposition.h"
 
 /* ---------- constants */
 

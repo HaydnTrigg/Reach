@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\forge_menus.h"
 
 /* ---------- constants */
 

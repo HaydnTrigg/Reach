@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_atom_scripting.h"
 
 /* ---------- constants */
 

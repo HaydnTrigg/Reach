@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PARTICLE_PRIORITY_HEAP_H__
+

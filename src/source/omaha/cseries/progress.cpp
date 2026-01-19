@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\progress.h"
 
 /* ---------- constants */
 

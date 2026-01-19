@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __WAYPOINT_STATE_COMPONENT_H__
+

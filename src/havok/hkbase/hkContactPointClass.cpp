@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkContactPointClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

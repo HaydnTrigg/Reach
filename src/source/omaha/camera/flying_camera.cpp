@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\flying_camera.h"
 
 /* ---------- constants */
 

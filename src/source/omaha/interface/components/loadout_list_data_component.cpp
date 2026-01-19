@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\loadout_list_data_component.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __KEYFRAME_CODEC_TEMPLATE_H__
+

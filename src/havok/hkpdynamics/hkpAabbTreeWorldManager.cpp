@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpAabbTreeWorldManager.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

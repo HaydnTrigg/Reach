@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\expression_component.h"
 
 /* ---------- constants */
 

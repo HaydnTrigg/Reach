@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\matchmaking_options_list_data_component.h"
 
 /* ---------- constants */
 

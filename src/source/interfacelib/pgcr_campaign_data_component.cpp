@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\pgcr_campaign_data_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\shipping_map_variant_tasks.h"
 
 /* ---------- constants */
 

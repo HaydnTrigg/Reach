@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\camera_shake_definitions.h"
 
 /* ---------- constants */
 

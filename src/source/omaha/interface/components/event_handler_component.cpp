@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\event_handler_component.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ONLINE_FILE_CATALOG_SUMMARY_LISTING_H__
+

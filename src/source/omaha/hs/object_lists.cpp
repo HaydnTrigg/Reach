@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\hs\object_lists.h"
 
 /* ---------- constants */
 

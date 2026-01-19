@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkArrayStreamWriter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkDefaultClassNameRegistry.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

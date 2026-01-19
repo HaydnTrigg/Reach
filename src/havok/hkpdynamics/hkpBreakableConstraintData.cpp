@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpBreakableConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

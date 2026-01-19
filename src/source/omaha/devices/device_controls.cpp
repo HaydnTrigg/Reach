@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\devices\device_controls.h"
 
 /* ---------- constants */
 

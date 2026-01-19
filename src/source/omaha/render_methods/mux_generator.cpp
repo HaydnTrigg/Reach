@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render_methods\mux_generator.h"
 
 /* ---------- constants */
 

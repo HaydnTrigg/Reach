@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\logic_matchmaking_seeker.h"
 
 /* ---------- constants */
 

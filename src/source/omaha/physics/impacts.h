@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __IMPACTS_H__
+

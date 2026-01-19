@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\bitmaps\bitmap_group_tag_definition.h"
 
 /* ---------- constants */
 

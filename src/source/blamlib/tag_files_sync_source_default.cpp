@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\tag_files_sync_source_default.h"
 
 /* ---------- constants */
 

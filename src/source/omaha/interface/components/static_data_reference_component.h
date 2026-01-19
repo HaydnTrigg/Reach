@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STATIC_DATA_REFERENCE_COMPONENT_H__
+

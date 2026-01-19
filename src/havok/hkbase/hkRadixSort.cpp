@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkRadixSort.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\simulation_game_action_megalo.h"
 
 /* ---------- constants */
 

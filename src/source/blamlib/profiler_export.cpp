@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\profiler_export.h"
 
 /* ---------- constants */
 

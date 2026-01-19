@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\synchronized_value_windows.h"
 
 /* ---------- constants */
 

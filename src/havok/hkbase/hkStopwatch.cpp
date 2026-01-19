@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkStopwatch.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

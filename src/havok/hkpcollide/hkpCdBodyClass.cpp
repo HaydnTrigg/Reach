@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCdBodyClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

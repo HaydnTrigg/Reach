@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\load_content_item_film_description_component.h"
 
 /* ---------- constants */
 

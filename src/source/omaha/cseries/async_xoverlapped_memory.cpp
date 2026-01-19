@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\async_xoverlapped_memory.h"
 
 /* ---------- constants */
 

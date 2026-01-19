@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\system_exception_windows.h"
 
 /* ---------- constants */
 

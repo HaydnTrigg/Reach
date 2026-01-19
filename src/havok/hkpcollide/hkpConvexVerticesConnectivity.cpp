@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpConvexVerticesConnectivity.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

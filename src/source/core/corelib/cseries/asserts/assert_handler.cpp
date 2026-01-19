@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "core\corelib\cseries\asserts\assert_handler.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\wind_definitions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\saved_film_scratch_memory.h"
 
 /* ---------- constants */
 

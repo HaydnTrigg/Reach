@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\partitioned_persistent_heap.h"
 
 /* ---------- constants */
 

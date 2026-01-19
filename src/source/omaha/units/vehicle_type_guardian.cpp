@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\vehicle_type_guardian.h"
 
 /* ---------- constants */
 

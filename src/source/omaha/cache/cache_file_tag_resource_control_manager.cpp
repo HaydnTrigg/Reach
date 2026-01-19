@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\cache_file_tag_resource_control_manager.h"
 
 /* ---------- constants */
 

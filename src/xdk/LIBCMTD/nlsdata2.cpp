@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\nlsdata2.h"
 
 /* ---------- constants */
 
@@ -23,3 +24,4 @@
 // __lc_handle; // "__lc_handle"
 // __lc_codepage; // "__lc_codepage"
 // __lc_collate_cp; // "__lc_collate_cp"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\time_formatter_component.h"
 
 /* ---------- constants */
 

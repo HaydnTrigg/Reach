@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STATIC_BITARRAY_H__
+

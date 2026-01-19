@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\system_link_join_game_component.h"
 
 /* ---------- constants */
 

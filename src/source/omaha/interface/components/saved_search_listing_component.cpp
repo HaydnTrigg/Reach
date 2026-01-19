@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\saved_search_listing_component.h"
 
 /* ---------- constants */
 

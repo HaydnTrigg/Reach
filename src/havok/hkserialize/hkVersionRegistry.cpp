@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkVersionRegistry.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

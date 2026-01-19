@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\point_physics.h"
 
 /* ---------- constants */
 

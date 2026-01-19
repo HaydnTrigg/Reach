@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\shell\shell.h"
 
 /* ---------- constants */
 

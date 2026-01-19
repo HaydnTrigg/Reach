@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\tag_file_load_predictor_windows.h"
 
 /* ---------- constants */
 

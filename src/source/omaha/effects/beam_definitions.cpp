@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\beam_definitions.h"
 
 /* ---------- constants */
 

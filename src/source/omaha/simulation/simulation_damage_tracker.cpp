@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\simulation_damage_tracker.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __GAME_ENGINE_TRAITS_H__
+

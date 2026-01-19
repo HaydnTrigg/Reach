@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleWheelCollideClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -16,3 +18,4 @@
 
 // class hkClassEnum const *const hkpVehicleWheelCollideWheelCollideTypeEnum; // "?hkpVehicleWheelCollideWheelCollideTypeEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpVehicleWheelCollideClass; // "?hkpVehicleWheelCollideClass@@3VhkClass@@B"
+

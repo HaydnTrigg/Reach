@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\team_utilities.h"
 
 /* ---------- constants */
 

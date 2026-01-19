@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\object_scripting.h"
 
 /* ---------- constants */
 

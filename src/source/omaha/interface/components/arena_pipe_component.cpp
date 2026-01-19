@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\arena_pipe_component.h"
 
 /* ---------- constants */
 

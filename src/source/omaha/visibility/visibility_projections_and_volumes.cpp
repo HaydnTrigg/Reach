@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\visibility\visibility_projections_and_volumes.h"
 
 /* ---------- constants */
 

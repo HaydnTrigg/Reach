@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\film_screenshot_storage_component.h"
 
 /* ---------- constants */
 

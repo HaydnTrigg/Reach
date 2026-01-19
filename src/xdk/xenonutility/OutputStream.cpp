@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xenonutility\OutputStream.h"
 
 /* ---------- constants */
 

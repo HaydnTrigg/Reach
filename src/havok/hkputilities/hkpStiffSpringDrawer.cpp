@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpStiffSpringDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

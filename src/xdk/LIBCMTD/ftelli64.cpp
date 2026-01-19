@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\ftelli64.h"
 
 /* ---------- constants */
 

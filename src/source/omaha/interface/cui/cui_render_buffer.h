@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_RENDER_BUFFER_H__
+

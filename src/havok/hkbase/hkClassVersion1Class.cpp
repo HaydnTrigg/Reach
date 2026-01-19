@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkClassVersion1Class.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -22,3 +24,4 @@
 // class hkClass const hkClassVersion2Class; // "?hkClassVersion2Class@@3VhkClass@@B"
 // class hkClass const hkClassMemberVersion1Class; // "?hkClassMemberVersion1Class@@3VhkClass@@B"
 // class hkClass const hkClassEnumVersion1Class; // "?hkClassEnumVersion1Class@@3VhkClass@@B"
+

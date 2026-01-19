@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\enter_lobby_component.h"
 
 /* ---------- constants */
 

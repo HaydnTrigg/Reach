@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\load_alert_component.h"
 
 /* ---------- constants */
 

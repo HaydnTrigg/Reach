@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\items\item_definitions.h"
 
 /* ---------- constants */
 

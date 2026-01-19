@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\gpu_particle\contrail_gpu.h"
 
 /* ---------- constants */
 

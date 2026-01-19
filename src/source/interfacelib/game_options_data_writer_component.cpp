@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\game_options_data_writer_component.h"
 
 /* ---------- constants */
 

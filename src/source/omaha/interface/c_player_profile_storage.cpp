@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\c_player_profile_storage.h"
 
 /* ---------- constants */
 

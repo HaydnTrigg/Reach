@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ROSTER_LIST_DATA_COMPONENT_H__
+

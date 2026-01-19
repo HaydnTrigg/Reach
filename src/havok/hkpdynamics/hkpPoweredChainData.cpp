@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPoweredChainData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

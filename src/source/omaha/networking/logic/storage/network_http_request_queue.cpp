@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\storage\network_http_request_queue.h"
 
 /* ---------- constants */
 

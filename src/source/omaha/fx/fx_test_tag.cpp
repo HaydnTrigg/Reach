@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\fx\fx_test_tag.h"
 
 /* ---------- constants */
 

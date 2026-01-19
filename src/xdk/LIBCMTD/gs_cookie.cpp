@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\gs_cookie.h"
 
 /* ---------- constants */
 
@@ -17,3 +18,4 @@
 
 // __security_cookie; // "__security_cookie"
 // __security_cookie_complement; // "__security_cookie_complement"
+

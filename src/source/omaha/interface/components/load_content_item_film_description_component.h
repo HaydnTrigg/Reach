@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __LOAD_CONTENT_ITEM_FILM_DESCRIPTION_COMPONENT_H__
+

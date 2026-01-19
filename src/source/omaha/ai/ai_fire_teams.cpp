@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_fire_teams.h"
 
 /* ---------- constants */
 

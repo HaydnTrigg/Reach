@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\codecs\uncompressed_static_data_codec.h"
 
 /* ---------- constants */
 

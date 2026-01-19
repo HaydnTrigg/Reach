@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\content_map_bucket_data_component.h"
 
 /* ---------- constants */
 

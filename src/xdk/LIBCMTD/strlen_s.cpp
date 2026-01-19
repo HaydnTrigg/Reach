@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\strlen_s.h"
 
 /* ---------- constants */
 

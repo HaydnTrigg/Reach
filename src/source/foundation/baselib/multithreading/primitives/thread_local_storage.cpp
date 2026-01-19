@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\primitives\thread_local_storage.h"
 
 /* ---------- constants */
 

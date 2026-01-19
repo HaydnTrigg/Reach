@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\x3daudiod\x3daudio.h"
 
 /* ---------- constants */
 

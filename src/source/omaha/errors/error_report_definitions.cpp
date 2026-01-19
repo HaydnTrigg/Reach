@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\errors\error_report_definitions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\test\test_functions.h"
 
 /* ---------- constants */
 

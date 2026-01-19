@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\debug_keys.h"
 
 /* ---------- constants */
 

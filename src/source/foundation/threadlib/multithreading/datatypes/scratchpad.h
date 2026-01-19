@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SCRATCHPAD_H__
+

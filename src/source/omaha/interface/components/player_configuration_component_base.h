@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PLAYER_CONFIGURATION_COMPONENT_BASE_H__
+

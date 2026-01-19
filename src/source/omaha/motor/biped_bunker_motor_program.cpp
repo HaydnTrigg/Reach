@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\biped_bunker_motor_program.h"
 
 /* ---------- constants */
 

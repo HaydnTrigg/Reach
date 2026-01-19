@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CONTRAIL_STATES_H__
+

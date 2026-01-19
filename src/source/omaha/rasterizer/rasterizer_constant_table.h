@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RASTERIZER_CONSTANT_TABLE_H__
+

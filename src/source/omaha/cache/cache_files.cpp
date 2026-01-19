@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\cache_files.h"
 
 /* ---------- constants */
 

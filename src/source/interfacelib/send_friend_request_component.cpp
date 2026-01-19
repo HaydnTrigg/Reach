@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\send_friend_request_component.h"
 
 /* ---------- constants */
 

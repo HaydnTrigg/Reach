@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __AIMING_CHANNEL_H__
+

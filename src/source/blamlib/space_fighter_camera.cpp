@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\space_fighter_camera.h"
 
 /* ---------- constants */
 

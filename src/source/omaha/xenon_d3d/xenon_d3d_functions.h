@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __XENON_D3D_FUNCTIONS_H__
+

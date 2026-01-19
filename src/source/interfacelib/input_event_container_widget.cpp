@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\input_event_container_widget.h"
 
 /* ---------- constants */
 

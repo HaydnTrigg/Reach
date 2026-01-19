@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\cui_bool_property.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\render_emblem.h"
 
 /* ---------- constants */
 

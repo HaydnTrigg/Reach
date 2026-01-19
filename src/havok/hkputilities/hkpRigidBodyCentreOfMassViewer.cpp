@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpRigidBodyCentreOfMassViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

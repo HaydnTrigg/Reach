@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __STRUCTURE_BSP_DEFINITIONS_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\player_mapping.h"
 
 /* ---------- constants */
 

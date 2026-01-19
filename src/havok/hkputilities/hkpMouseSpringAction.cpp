@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpMouseSpringAction.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

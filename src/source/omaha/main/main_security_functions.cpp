@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\main_security_functions.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "Rockall\Environment.h"
 
 /* ---------- constants */
 

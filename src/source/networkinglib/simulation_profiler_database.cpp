@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\simulation_profiler_database.h"
 
 /* ---------- constants */
 

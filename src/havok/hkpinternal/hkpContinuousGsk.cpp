@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpContinuousGsk.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

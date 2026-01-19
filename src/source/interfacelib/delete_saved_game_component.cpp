@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\delete_saved_game_component.h"
 
 /* ---------- constants */
 

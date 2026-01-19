@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\geometry\triangle_strip_utilities.h"
 
 /* ---------- constants */
 

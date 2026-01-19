@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "binkxenon\expand.h"
 
 /* ---------- constants */
 

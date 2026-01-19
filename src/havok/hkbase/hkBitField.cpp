@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkBitField.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

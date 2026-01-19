@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\r500assembler.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\xrtlpch.h"
 
 /* ---------- constants */
 
@@ -45,3 +46,4 @@
 // g_XMNegIdentityR1; // "g_XMNegIdentityR1"
 // g_XMNegIdentityR2; // "g_XMNegIdentityR2"
 // g_XMNegIdentityR3; // "g_XMNegIdentityR3"
+

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpMotorBuildJacobian.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

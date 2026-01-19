@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __BIT_VECTOR_HELPERS_H__
+

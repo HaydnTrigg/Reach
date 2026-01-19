@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\cp_compiler.h"
 
 /* ---------- constants */
 

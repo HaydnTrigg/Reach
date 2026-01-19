@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\cache_file_runtime_codecs.h"
 
 /* ---------- constants */
 

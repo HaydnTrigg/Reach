@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\debug_menu_megalo_manager.h"
 
 /* ---------- constants */
 

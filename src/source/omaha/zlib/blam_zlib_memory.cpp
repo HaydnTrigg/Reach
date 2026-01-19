@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\zlib\blam_zlib_memory.h"
 
 /* ---------- constants */
 

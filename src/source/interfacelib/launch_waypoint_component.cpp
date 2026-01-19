@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\launch_waypoint_component.h"
 
 /* ---------- constants */
 

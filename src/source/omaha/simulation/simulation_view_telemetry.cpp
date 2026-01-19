@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\simulation\simulation_view_telemetry.h"
 
 /* ---------- constants */
 

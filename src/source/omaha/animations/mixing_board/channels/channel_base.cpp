@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\mixing_board\channels\channel_base.h"
 
 /* ---------- constants */
 

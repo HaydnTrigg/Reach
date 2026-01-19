@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_manager_listing_change_page_event_handler_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\online_presence_xenon.h"
 
 /* ---------- constants */
 

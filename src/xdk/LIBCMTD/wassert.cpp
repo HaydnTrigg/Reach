@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\wassert.h"
 
 /* ---------- constants */
 

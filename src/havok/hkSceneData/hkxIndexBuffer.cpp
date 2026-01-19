@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxIndexBuffer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

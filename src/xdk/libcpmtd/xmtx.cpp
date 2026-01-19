@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\xmtx.h"
 
 /* ---------- constants */
 

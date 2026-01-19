@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_emblem_flip_foreground_event_handler_component.h"
 
 /* ---------- constants */
 

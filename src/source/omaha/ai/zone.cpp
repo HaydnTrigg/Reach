@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\zone.h"
 
 /* ---------- constants */
 

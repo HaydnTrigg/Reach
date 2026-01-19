@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\object_activation_regions.h"
 
 /* ---------- constants */
 

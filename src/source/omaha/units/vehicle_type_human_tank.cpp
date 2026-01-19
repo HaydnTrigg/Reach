@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\vehicle_type_human_tank.h"
 
 /* ---------- constants */
 

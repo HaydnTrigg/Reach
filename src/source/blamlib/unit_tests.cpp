@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\unit_tests.h"
 
 /* ---------- constants */
 

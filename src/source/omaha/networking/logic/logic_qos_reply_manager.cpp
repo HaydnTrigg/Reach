@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\logic_qos_reply_manager.h"
 
 /* ---------- constants */
 

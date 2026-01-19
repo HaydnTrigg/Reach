@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __USER_INTERFACE_ERROR_MANAGER_H__
+

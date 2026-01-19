@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpConvexShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -19,3 +21,4 @@
 // class hkClassEnum const *const hkpConvexShapeWeldResultEnum; // "?hkpConvexShapeWeldResultEnum@@3PBVhkClassEnum@@B"
 // class hkClass const hkpConvexShapeClass; // "?hkpConvexShapeClass@@3VhkClass@@B"
 // class hkClass const hkpConvexTransformShapeBaseClass; // "?hkpConvexTransformShapeBaseClass@@3VhkClass@@B"
+

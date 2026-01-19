@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\discard_screenshot_component.h"
 
 /* ---------- constants */
 

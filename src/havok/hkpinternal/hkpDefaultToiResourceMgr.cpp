@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpDefaultToiResourceMgr.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

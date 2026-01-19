@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_game_state.h"
 
 /* ---------- constants */
 

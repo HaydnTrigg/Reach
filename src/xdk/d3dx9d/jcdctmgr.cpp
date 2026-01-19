@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\d3dx9d\jcdctmgr.h"
 
 /* ---------- constants */
 

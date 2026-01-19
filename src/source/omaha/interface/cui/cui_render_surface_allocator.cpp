@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\cui_render_surface_allocator.h"
 
 /* ---------- constants */
 

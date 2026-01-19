@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpinternal\hkpConvexPenetrationUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

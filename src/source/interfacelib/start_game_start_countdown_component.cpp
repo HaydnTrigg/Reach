@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_game_start_countdown_component.h"
 
 /* ---------- constants */
 

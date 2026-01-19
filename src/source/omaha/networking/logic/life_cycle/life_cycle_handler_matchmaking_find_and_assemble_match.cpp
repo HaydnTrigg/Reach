@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\life_cycle\life_cycle_handler_matchmaking_find_and_assemble_match.h"
 
 /* ---------- constants */
 

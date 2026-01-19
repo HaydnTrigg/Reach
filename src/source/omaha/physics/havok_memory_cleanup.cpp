@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\havok_memory_cleanup.h"
 
 /* ---------- constants */
 

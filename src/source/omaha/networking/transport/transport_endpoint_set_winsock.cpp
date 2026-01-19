@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\transport\transport_endpoint_set_winsock.h"
 
 /* ---------- constants */
 

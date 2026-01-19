@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\active_roster_squad_list_data_component.h"
 
 /* ---------- constants */
 

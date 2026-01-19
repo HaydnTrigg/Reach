@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxAnimatedFloatClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

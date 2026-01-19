@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_GAME_ENGINE_MEGALO_STATE_DATA_H__
+

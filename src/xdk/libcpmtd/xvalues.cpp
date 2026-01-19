@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\libcpmtd\xvalues.h"
 
 /* ---------- constants */
 
@@ -24,3 +25,4 @@
 // _Rteps; // "_Rteps"
 // _Xbig; // "_Xbig"
 // _Zero; // "_Zero"
+

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPrismaticConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

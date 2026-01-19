@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\unit_custom_animation_motor_program.h"
 
 /* ---------- constants */
 

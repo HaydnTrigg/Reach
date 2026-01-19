@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\particle_movement_definitions.h"
 
 /* ---------- constants */
 

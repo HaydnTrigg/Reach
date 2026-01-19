@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_xaudio_xenon_3d_voice.h"
 
 /* ---------- constants */
 

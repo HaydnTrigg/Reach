@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\gui_location_manager.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\main\levels_dlc.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xtitlehash\hash.h"
 
 /* ---------- constants */
 

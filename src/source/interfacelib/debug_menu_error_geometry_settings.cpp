@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\debug_menu_error_geometry_settings.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkDeepCopier.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_GAME_BREAKABLE_SURFACES_H__
+

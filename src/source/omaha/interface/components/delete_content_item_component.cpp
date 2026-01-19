@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\delete_content_item_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_pvs_builder.h"
 
 /* ---------- constants */
 

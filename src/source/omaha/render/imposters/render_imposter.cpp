@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\imposters\render_imposter.h"
 
 /* ---------- constants */
 

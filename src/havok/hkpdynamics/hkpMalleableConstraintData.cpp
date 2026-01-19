@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpMalleableConstraintData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

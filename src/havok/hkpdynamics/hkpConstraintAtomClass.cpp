@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpConstraintAtomClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

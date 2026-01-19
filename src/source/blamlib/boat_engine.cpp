@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\boat_engine.h"
 
 /* ---------- constants */
 

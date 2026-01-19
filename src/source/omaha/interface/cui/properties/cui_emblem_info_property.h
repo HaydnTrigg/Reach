@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CUI_EMBLEM_INFO_PROPERTY_H__
+

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __BEAM_STATES_H__
+

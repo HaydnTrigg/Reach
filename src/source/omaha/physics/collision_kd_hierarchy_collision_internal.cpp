@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\collision_kd_hierarchy_collision_internal.h"
 
 /* ---------- constants */
 

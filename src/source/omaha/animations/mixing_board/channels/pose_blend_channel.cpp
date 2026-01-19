@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\animations\mixing_board\channels\pose_blend_channel.h"
 
 /* ---------- constants */
 

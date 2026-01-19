@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ONLINE_FILE_MEGALO_CATEGORIES_H__
+

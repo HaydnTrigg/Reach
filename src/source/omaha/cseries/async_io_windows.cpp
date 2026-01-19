@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cseries\async_io_windows.h"
 
 /* ---------- constants */
 

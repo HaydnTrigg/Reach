@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpPointToPlaneDrawer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

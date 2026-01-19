@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\sector_analysis.h"
 
 /* ---------- constants */
 

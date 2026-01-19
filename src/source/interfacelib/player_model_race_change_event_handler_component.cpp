@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_model_race_change_event_handler_component.h"
 
 /* ---------- constants */
 

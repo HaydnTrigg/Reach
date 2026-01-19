@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpconstraintsolver\hkpInternalConstraintUtils.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

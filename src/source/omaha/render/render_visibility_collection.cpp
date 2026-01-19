@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_visibility_collection.h"
 
 /* ---------- constants */
 

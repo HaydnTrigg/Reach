@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\buffered_persist_streams.h"
 
 /* ---------- constants */
 

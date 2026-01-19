@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MAP_VARIANT_COMPONENT_H__
+

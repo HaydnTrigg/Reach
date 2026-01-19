@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkStructureLayout.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

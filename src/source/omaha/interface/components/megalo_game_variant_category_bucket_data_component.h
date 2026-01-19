@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MEGALO_GAME_VARIANT_CATEGORY_BUCKET_DATA_COMPONENT_H__
+

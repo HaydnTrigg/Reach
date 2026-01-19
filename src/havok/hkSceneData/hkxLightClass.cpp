@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxLightClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

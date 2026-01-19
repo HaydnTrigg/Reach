@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\life_cycle_state_handler.h"
 
 /* ---------- constants */
 

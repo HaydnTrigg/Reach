@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\path_obstacle_avoidance.h"
 
 /* ---------- constants */
 

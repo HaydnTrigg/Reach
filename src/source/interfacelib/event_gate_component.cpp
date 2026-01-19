@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\event_gate_component.h"
 
 /* ---------- constants */
 

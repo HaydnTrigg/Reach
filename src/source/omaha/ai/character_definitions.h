@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CHARACTER_DEFINITIONS_H__
+

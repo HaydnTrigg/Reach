@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __MONOLITHIC_TAG_FILE_SCATTER_READER_H__
+

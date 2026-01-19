@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\camera\animated_trick_camera.h"
 
 /* ---------- constants */
 

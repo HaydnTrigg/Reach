@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuSolveConstraintsJobs.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

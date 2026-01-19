@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CONTENT_ITEM_DATA_COMPONENT_BASE_H__
+

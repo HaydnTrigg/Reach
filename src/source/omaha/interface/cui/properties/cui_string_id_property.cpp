@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\cui\properties\cui_string_id_property.h"
 
 /* ---------- constants */
 

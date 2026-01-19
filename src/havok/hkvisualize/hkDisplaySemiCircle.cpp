@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDisplaySemiCircle.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

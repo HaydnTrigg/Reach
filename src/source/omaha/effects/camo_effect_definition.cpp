@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\camo_effect_definition.h"
 
 /* ---------- constants */
 

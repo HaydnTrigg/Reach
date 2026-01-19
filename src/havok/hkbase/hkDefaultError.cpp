@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkDefaultError.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

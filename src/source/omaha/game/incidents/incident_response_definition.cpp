@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\incidents\incident_response_definition.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CONTENT_CATEGORY_BUCKET_DATA_COMPONENT_H__
+

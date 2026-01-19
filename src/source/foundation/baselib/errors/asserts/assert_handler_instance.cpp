@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\errors\asserts\assert_handler_instance.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_object_type_reference.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\aim_target.h"
 
 /* ---------- constants */
 

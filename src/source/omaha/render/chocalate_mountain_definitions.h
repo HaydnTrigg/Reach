@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CHOCALATE_MOUNTAIN_DEFINITIONS_H__
+

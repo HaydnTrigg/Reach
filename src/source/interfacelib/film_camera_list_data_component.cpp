@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\film_camera_list_data_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\isbadreadptr.h"
 
 /* ---------- constants */
 

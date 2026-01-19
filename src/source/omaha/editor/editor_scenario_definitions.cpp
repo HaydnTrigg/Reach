@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\editor\editor_scenario_definitions.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __LIGHT_DEFINITIONS_H__
+

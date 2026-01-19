@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\jpeg\jpeg_compression_target.h"
 
 /* ---------- constants */
 

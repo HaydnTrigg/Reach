@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\messages\network_message_type_collection.h"
 
 /* ---------- constants */
 

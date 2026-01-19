@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\row_selector_component.h"
 
 /* ---------- constants */
 

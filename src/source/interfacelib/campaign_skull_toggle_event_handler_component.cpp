@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\campaign_skull_toggle_event_handler_component.h"
 
 /* ---------- constants */
 

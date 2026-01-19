@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpCpuSplitSimulationIslandJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

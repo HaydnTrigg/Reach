@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\gpu_particle\beam_gpu.h"
 
 /* ---------- constants */
 

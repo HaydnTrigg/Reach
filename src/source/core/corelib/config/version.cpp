@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "core\corelib\config\version.h"
 
 /* ---------- constants */
 

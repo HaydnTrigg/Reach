@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_type_custom_behavior.h"
 
 /* ---------- constants */
 
@@ -28,3 +29,4 @@
 // struct custom_child_entry *marine_engage; // "?marine_engage@@3PAUcustom_child_entry@@A"
 // struct custom_child_list *marine_behavior; // "?marine_behavior@@3PAUcustom_child_list@@A"
 // struct custom_child_list **global_custom_behavior_list; // "?global_custom_behavior_list@@3PAPAUcustom_child_list@@A"
+

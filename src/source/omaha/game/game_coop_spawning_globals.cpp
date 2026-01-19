@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_coop_spawning_globals.h"
 
 /* ---------- constants */
 
@@ -24,3 +25,4 @@
 // struct s_tag_group_stream_definition legacy_coop_spawning_globals_definition_stream_definition; // "?legacy_coop_spawning_globals_definition_stream_definition@@3Us_tag_group_stream_definition@@A"
 // struct s_tag_group_sync_definition legacy_coop_spawning_globals_definition_xsync_declaration; // "?legacy_coop_spawning_globals_definition_xsync_declaration@@3Us_tag_group_sync_definition@@A"
 // class c_legacy_tag_group_vtable_shim legacy_coop_spawning_globals_definition_vtable_shim; // "?legacy_coop_spawning_globals_definition_vtable_shim@@3Vc_legacy_tag_group_vtable_shim@@A"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\dialog_data_component.h"
 
 /* ---------- constants */
 

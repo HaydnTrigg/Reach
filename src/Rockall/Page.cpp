@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "Rockall\Page.h"
 
 /* ---------- constants */
 

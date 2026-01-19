@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxCameraClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

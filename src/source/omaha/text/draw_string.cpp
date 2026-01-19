@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\text\draw_string.h"
 
 /* ---------- constants */
 

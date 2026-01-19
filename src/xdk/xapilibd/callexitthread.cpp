@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\callexitthread.h"
 
 /* ---------- constants */
 
@@ -17,3 +18,4 @@
 
 // _CRTCallExitThread; // "_CRTCallExitThread"
 // _CRTCommandLineArgs; // "_CRTCommandLineArgs"
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\simulation_priority_display.h"
 
 /* ---------- constants */
 

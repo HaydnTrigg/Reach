@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMULATION_GAME_OBJECTS_H__
+

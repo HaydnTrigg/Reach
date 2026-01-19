@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\render_shield_cache.h"
 
 /* ---------- constants */
 

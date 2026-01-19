@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDisplayPlane.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMultiThreadCheckClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

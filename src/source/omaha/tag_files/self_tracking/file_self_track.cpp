@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\self_tracking\file_self_track.h"
 
 /* ---------- constants */
 

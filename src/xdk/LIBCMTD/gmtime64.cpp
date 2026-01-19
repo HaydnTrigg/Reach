@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\gmtime64.h"
 
 /* ---------- constants */
 

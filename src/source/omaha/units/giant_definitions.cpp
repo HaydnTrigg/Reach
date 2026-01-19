@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\units\giant_definitions.h"
 
 /* ---------- constants */
 

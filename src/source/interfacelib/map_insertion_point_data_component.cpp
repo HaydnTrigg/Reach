@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\map_insertion_point_data_component.h"
 
 /* ---------- constants */
 

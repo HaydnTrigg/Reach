@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "graphicslib\render_time.h"
 
 /* ---------- constants */
 

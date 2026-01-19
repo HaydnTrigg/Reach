@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xmpd\xmp.h"
 
 /* ---------- constants */
 

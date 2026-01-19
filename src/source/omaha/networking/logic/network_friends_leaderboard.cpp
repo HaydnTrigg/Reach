@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\network_friends_leaderboard.h"
 
 /* ---------- constants */
 

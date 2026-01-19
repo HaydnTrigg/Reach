@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\explicit_shader_component.h"
 
 /* ---------- constants */
 

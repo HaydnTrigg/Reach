@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\game_statborg.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\color_math.h"
 
 /* ---------- constants */
 

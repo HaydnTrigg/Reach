@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\saved_games\autosave_queue_tasks.h"
 
 /* ---------- constants */
 

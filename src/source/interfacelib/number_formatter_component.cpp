@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\number_formatter_component.h"
 
 /* ---------- constants */
 

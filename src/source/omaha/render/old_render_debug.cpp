@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\old_render_debug.h"
 
 /* ---------- constants */
 

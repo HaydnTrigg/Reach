@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\simple_font.h"
 
 /* ---------- constants */
 

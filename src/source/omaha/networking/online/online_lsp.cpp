@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\online\online_lsp.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\pgcr_multi_team_list_data_component.h"
 
 /* ---------- constants */
 

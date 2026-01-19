@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\instance_geometry_marker.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpVehicleLinearCastBatchingManager.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

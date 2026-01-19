@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpTypedBroadPhaseDispatcher.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

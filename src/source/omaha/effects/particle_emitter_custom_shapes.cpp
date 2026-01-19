@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\effects\particle_emitter_custom_shapes.h"
 
 /* ---------- constants */
 

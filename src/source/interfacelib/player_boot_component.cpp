@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\player_boot_component.h"
 
 /* ---------- constants */
 

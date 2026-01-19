@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\gpu_particle\light_volume_gpu.h"
 
 /* ---------- constants */
 

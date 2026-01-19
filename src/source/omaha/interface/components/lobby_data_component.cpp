@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\lobby_data_component.h"
 
 /* ---------- constants */
 

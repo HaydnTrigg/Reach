@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpHingeConstraintDataClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

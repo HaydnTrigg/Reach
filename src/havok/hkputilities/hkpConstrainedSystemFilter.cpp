@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpConstrainedSystemFilter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMatrix6.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

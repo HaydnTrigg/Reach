@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\collision_constants.h"
 
 /* ---------- constants */
 
@@ -49,3 +50,4 @@
 // struct s_collision_test_flags k_communication_collision_flags; // "?k_communication_collision_flags@@3Us_collision_test_flags@@A"
 // struct s_collision_test_flags k_trivial_obstruction_collision_flags; // "?k_trivial_obstruction_collision_flags@@3Us_collision_test_flags@@A"
 // struct s_collision_test_flags _collision_test_for_laser_designation; // "?_collision_test_for_laser_designation@@3Us_collision_test_flags@@A"
+

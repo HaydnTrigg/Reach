@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\leave_lobby_component.h"
 
 /* ---------- constants */
 

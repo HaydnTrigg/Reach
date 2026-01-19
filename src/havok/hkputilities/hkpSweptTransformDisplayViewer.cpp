@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSweptTransformDisplayViewer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

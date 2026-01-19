@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\structure_lighting_definitions.h"
 
 /* ---------- constants */
 

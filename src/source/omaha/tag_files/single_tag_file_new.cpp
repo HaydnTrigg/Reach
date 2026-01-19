@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\tag_files\single_tag_file_new.h"
 
 /* ---------- constants */
 

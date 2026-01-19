@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\xenon_d3d_library.h"
 
 /* ---------- constants */
 

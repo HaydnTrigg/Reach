@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\sound_manager_channel_debugger.h"
 
 /* ---------- constants */
 

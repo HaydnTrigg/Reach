@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\lightmapper\lightmapper_globals.h"
 
 /* ---------- constants */
 

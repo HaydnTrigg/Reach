@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __GAME_VARIANT_H__
+

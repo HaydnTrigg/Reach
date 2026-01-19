@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "binkxenon\bitplane.h"
 
 /* ---------- constants */
 

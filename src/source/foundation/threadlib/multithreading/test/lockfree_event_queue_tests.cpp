@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\threadlib\multithreading\test\lockfree_event_queue_tests.h"
 
 /* ---------- constants */
 

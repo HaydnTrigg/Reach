@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\actor_type_elite.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // class Behavior_impulse charge_when_cornered_impulse; // "?charge_when_cornered_impulse@@3VBehavior_impulse@@A"
+

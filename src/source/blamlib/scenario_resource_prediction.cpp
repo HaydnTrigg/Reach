@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\scenario_resource_prediction.h"
 
 /* ---------- constants */
 

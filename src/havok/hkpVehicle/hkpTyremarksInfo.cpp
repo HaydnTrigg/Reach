@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpVehicle\hkpTyremarksInfo.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

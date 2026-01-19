@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CHUNK_PERSIST_STREAM_HELPERS_H__
+

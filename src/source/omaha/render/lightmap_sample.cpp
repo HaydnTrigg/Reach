@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\lightmap_sample.h"
 
 /* ---------- constants */
 

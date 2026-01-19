@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\rasterizer\rasterizer_dynamic_render_targets.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\shader_base_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "baselib\system_debugger_xenon.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\ai_reference_frame.h"
 
 /* ---------- constants */
 

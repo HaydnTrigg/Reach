@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\xenon\dsp\remote_voice_ring_buffer_effect.h"
 
 /* ---------- constants */
 

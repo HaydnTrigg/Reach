@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\structures\structure_seam_definitions.h"
 
 /* ---------- constants */
 

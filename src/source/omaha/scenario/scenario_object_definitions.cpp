@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\scenario\scenario_object_definitions.h"
 
 /* ---------- constants */
 

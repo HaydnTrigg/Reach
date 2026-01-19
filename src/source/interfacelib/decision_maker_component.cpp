@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\decision_maker_component.h"
 
 /* ---------- constants */
 

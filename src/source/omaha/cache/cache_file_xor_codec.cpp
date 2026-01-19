@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\cache_file_xor_codec.h"
 
 /* ---------- constants */
 

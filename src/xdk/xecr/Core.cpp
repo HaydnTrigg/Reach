@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xecr\Core.h"
 
 /* ---------- constants */
 

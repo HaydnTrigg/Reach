@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __ACTOR_STIMULUS_H__
+

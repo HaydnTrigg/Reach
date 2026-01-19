@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\fallback_optional_cache_backend.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __VISIBILITY_CLUSTER_PORTAL_ITERATOR_H__
+

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\math\collisions_simple.h"
 
 /* ---------- constants */
 

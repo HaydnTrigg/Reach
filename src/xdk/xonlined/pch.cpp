@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xonlined\pch.h"
 
 /* ---------- constants */
 
@@ -16,3 +17,4 @@
 /* ---------- reverse engineering */
 
 // __@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUlmormvUhixUoryUlyqUcylcUkxsOlyq@xonlined; // "__@@_PchSym_@00@UcvmlmUqfmAJUxlivUkirezgvUcgoUlmormvUhixUoryUlyqUcylcUkxsOlyq@xonlined"
+

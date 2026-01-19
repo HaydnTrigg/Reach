@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\byte_swapping.h"
 
 /* ---------- constants */
 

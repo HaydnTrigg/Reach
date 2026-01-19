@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\job_manager\job_manager_spasm.h"
 
 /* ---------- constants */
 

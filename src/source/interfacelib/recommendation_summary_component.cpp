@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\recommendation_summary_component.h"
 
 /* ---------- constants */
 

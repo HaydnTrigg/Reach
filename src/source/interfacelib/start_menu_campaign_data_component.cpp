@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\start_menu_campaign_data_component.h"
 
 /* ---------- constants */
 

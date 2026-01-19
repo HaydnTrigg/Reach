@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpMoppCompilerInput.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

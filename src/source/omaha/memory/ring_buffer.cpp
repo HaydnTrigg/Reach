@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\memory\ring_buffer.h"
 
 /* ---------- constants */
 

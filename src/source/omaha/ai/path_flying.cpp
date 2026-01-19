@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\path_flying.h"
 
 /* ---------- constants */
 

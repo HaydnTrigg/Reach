@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\LIBCMTD\memmove_s.h"
 
 /* ---------- constants */
 

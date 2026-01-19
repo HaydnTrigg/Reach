@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkserialize\hkTextTagfileWriter.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __EVENT_COMPONENT_H__
+

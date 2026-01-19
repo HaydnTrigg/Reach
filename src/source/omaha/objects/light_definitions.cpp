@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\objects\light_definitions.h"
 
 /* ---------- constants */
 

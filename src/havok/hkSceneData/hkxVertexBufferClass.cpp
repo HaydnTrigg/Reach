@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxVertexBufferClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

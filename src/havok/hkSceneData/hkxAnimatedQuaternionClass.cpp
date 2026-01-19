@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkSceneData\hkxAnimatedQuaternionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

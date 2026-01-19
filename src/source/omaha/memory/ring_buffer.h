@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __RING_BUFFER_H__
+

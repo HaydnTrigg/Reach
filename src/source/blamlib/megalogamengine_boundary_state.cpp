@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\megalogamengine_boundary_state.h"
 
 /* ---------- constants */
 

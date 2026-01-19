@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cache\xenon_texture_cache.h"
 
 /* ---------- constants */
 

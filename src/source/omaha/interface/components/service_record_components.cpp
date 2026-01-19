@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\service_record_components.h"
 
 /* ---------- constants */
 

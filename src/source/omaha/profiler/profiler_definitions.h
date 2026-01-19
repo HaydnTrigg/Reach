@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __PROFILER_DEFINITIONS_H__
+

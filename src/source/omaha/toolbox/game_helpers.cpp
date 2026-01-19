@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\toolbox\game_helpers.h"
 
 /* ---------- constants */
 

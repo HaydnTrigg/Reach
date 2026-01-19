@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpPhysicsSystemClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

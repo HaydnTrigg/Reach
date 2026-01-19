@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\file_share_summary_component.h"
 
 /* ---------- constants */
 

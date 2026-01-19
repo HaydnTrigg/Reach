@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\pathfinding_utilities.h"
 
 /* ---------- constants */
 

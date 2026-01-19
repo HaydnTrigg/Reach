@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpEntityAabbUtil.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

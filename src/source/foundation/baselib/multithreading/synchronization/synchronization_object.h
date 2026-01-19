@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SYNCHRONIZATION_OBJECT_H__
+

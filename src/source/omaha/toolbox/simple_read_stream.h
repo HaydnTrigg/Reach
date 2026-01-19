@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SIMPLE_READ_STREAM_H__
+

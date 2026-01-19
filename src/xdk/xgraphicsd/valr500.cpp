@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\valr500.h"
 
 /* ---------- constants */
 

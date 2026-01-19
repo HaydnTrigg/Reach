@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xamps\xam.h"
 
 /* ---------- constants */
 

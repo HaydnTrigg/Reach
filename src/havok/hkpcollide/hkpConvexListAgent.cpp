@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpConvexListAgent.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

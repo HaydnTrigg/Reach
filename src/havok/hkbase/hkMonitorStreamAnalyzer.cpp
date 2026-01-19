@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMonitorStreamAnalyzer.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

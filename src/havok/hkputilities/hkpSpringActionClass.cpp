@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkputilities\hkpSpringActionClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

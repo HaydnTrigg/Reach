@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __LOAD_AUTOSAVE_QUEUE_GAME_VARIANT_COMPONENT_H__
+

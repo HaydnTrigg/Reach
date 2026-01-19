@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkvisualize\hkDisplaySerializeOStream.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

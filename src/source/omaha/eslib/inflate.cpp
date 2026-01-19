@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\eslib\inflate.h"
 
 /* ---------- constants */
 

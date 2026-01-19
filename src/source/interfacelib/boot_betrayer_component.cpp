@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\boot_betrayer_component.h"
 
 /* ---------- constants */
 

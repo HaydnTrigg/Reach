@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkRttiParserAllocator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\omaha\rasterizer\rasterizer_object_factory.h"
 
 /* ---------- constants */
 
@@ -14,3 +15,4 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+

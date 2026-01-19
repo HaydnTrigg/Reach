@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpdynamics\hkpStiffSpringChainData.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

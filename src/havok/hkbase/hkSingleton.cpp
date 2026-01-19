@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkSingleton.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

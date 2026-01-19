@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\physics\bsp2d.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCpuWorldRaycastJob.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

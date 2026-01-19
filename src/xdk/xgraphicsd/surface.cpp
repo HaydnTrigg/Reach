@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xgraphicsd\surface.h"
 
 /* ---------- constants */
 

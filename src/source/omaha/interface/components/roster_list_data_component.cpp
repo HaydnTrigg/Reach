@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\roster_list_data_component.h"
 
 /* ---------- constants */
 

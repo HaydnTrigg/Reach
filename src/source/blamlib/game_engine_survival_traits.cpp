@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "blamlib\game_engine_survival_traits.h"
 
 /* ---------- constants */
 

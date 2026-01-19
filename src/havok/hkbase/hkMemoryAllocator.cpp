@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkMemoryAllocator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

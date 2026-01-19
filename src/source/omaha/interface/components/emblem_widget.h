@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __EMBLEM_WIDGET_H__
+

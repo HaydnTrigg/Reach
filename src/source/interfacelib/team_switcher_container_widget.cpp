@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\team_switcher_container_widget.h"
 
 /* ---------- constants */
 

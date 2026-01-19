@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\cubemaps\cubemap_sample.h"
 
 /* ---------- constants */
 

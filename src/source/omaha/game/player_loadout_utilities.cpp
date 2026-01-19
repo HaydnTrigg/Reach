@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\game\player_loadout_utilities.h"
 
 /* ---------- constants */
 

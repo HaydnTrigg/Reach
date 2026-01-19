@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkCustomAttributesClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

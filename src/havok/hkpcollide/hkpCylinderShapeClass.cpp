@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkpcollide\hkpCylinderShapeClass.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

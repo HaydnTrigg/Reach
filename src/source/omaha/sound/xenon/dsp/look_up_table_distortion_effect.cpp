@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sound\xenon\dsp\look_up_table_distortion_effect.h"
 
 /* ---------- constants */
 

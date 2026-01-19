@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\first_person_weapons.h"
 
 /* ---------- constants */
 

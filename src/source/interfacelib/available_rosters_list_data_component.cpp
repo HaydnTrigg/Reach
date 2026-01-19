@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\available_rosters_list_data_component.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "foundation\baselib\multithreading\synchronization\semaphore_windows.h"
 
 /* ---------- constants */
 

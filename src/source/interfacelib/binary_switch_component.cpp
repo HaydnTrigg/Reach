@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\binary_switch_component.h"
 
 /* ---------- constants */
 

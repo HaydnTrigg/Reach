@@ -1,5 +1,7 @@
 /* ---------- headers */
 
+#include "havok\hkbase\hkDelayedFreeAllocator.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */

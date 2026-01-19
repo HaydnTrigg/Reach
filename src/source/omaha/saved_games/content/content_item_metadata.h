@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __CONTENT_ITEM_METADATA_H__
+

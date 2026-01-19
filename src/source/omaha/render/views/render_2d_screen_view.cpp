@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\render\views\render_2d_screen_view.h"
 
 /* ---------- constants */
 

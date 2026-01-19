@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\widgets\hopper_bitmap_widget.h"
 
 /* ---------- constants */
 

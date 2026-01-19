@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "xdk\xapilibd\deletefile.h"
 
 /* ---------- constants */
 

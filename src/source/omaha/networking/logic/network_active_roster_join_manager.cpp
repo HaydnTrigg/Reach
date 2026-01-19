@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\networking\logic\network_active_roster_join_manager.h"
 
 /* ---------- constants */
 

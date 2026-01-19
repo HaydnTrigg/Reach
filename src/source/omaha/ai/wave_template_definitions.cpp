@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\ai\wave_template_definitions.h"
 
 /* ---------- constants */
 

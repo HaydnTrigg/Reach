@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\omaha\pc_shader_compiler\include\pc_shader_compiler.h"
 
 /* ---------- constants */
 
@@ -14,3 +15,4 @@
 /* ---------- private code */
 
 /* ---------- reverse engineering */
+

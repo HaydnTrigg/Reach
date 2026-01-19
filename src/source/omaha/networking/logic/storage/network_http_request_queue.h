@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __NETWORK_HTTP_REQUEST_QUEUE_H__
+

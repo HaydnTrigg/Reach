@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\multithreading\threads.h"
 
 /* ---------- constants */
 

@@ -15,3 +15,4 @@
 /* ---------- public code */
 
 #endif // __SCREEN_PIPE_COMPONENT_H__
+

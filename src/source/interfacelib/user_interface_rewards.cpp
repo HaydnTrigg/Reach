@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "interfacelib\user_interface_rewards.h"
 
 /* ---------- constants */
 

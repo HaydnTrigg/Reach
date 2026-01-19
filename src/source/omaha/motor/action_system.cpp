@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\motor\action_system.h"
 
 /* ---------- constants */
 

@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\interface\components\waypoint_state_component.h"
 
 /* ---------- constants */
 

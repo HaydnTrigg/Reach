@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "omaha\sky_atm\sky_atm_definitions.h"
 
 /* ---------- constants */
 

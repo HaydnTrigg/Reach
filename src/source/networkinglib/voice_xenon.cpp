@@ -1,5 +1,6 @@
 /* ---------- headers */
 
+#include "networkinglib\voice_xenon.h"
 
 /* ---------- constants */
 
@@ -27,3 +28,4 @@
 // bool g_voice_force_global_repeater_use; // "?g_voice_force_global_repeater_use@@3_NA"
 // bool g_voice_randomize_repeater_allocation; // "?g_voice_randomize_repeater_allocation@@3_NA"
 // bool g_voice_force_host_to_be_only_repeater; // "?g_voice_force_host_to_be_only_repeater@@3_NA"
+

@@ -1,6 +1,8 @@
+#define __FILE_TAG_DEBUG_UNTRACKED_JUL_11_2011__ "C:\\SD\\Reach\\Publishing\\Main\\shared\\engine\\source\\core\\corelib\\cseries\\cseries_string.cpp"
 /* ---------- headers */
 
 #include "core\corelib\cseries\cseries_string.h"
+#include "core\corelib\cseries\cseries_asserts.h"
 
 #define NULL 0
 
@@ -10,23 +12,12 @@
 #include <stdarg.h>
 #include <stdio.h>
 
-//struct s_slim_assert_info
-//{
-//	const char* expression;
-//	const char* file;
-//	unsigned __int32 line : 31;
-//	unsigned __int32 fatal : 1;
-//};
-//extern void handle_slim_assert(struct s_slim_assert_info const* info);
-//#define assert(expression) if(!(expression)) handle_slim_assert();
+#define UINT_MAX 0xFFFFFFFFu
+
+#define VALID_INDEX(index, count) ((index) >= 0 && (index) < (count))
+#define VALID_COUNT(index, count) ((index) >= 0 && (index) <= (count))
 
 
-#define assert(expression) if(!(expression) && !assert_handle(#expression, __FILE__, __LINE__)) { if(assert_is_debugger_present()) { __trap(); } else { assert_halt(); } }
-#define assert_decomp(expression, file, line) if(!(expression) && !assert_handle(#expression, file, line)) { if(assert_is_debugger_present()) { __trap(); } else { assert_halt(); } }
-
-extern bool assert_handle(char const *,char const *,long);
-extern bool assert_is_debugger_present(void);
-extern void assert_halt(void);
 extern long cvsnzprintf(char * buffer, size_t size, char const * format, va_list arglist);
 
 extern "C" size_t strlen_debug(char const* str);
@@ -36,14 +27,6 @@ extern "C" void* csmemset(void *buffer, int value, size_t size);
 #define NULL 0
 #define __trap() __debugbreak()
 
-#define __FILE_TAG_DEBUG_UNTRACKED_JUL_11_2011__ "C:\\SD\\Reach\\Publishing\\Main\\shared\\engine\\source\\core\\corelib\\cseries\\cseries_string.cpp"
-#define assert_tag_debug_untracked_jul_11_2011(LINE, ...) if(!(__VA_ARGS__) && !assert_handle(#__VA_ARGS__, __FILE_TAG_DEBUG_UNTRACKED_JUL_11_2011__, LINE)) { if(assert_is_debugger_present()) { __trap(); } else { assert_halt(); } }
-
-const size_t k_maximum_memcmp_size = 0x20000000;
-const size_t k_maximum_memcpy_size = 0x20000000;
-const size_t k_maximum_memmove_size = 0x20000000;
-const size_t k_maximum_memset_size = 0x80000000;
-const size_t k_maximum_string_size = 0x100000;
 
 template<typename t_type>
 t_type int_min(t_type const & a, t_type const & b)
@@ -58,6 +41,8 @@ t_type int_min3(t_type const & a, t_type const & b, t_type const & c)
 }
 
 /* ---------- constants */
+
+const size_t k_maximum_string_size = 0x100000;
 
 /* ---------- definitions */
 
@@ -147,10 +132,6 @@ char* ascii_strnlwr(char* string, size_t count)
 
     return string;
 }
-
-#define UINT_MAX 0xFFFFFFFFu
-
-extern long ascii_strnicmp(char const *, char const *, unsigned int);
 
 unsigned int ascii_stristr(char const * look_inside, char const * look_for)
 {
@@ -485,21 +466,6 @@ char * csnzprintf(char * buffer, size_t size, char const *format, ...)
     return buffer;
 }
 
-struct csstrtok_data
-{
-    char * next_string; // 0x0
-};
-
-enum e_csstrtok_delimiter_mode
-{
-    _cstrtok_delimiter_mode_default,
-    _cstrtok_delimiter_mode_skip,
-    k_cstrtok_delimiter_mode_count,
-};
-
-#define VALID_INDEX(index, count) ((index) >= 0 && (index) < (count))
-#define VALID_COUNT(index, count) ((index) >= 0 && (index) <= (count))
-
 char * csstrtok(char * s, char const * delimiters, enum e_csstrtok_delimiter_mode delimiter_mode, struct csstrtok_data * data)
 {
     char * result;
@@ -535,20 +501,20 @@ char * csstrtok(char * s, char const * delimiters, enum e_csstrtok_delimiter_mod
     return result;
 }
 
-extern "C" int strcmp_debug(const char* s1, const char* s2)
+int strcmp_debug(const char* s1, const char* s2)
 {
     assert_tag_debug_untracked_jul_11_2011(756, s1 && s2);
     return strcmp(s1, s2);
 }
 
-extern "C" int strncmp_debug(const char* s1, const char* s2, size_t size)
+int strncmp_debug(const char* s1, const char* s2, size_t size)
 {
     assert_tag_debug_untracked_jul_11_2011(767, s1 && s2);
     assert_tag_debug_untracked_jul_11_2011(768, size>=0 && size<=k_maximum_string_size);
     return strncmp(s1, s2, size);
 }
 
-extern "C" size_t strlen_debug(const char* s)
+size_t strlen_debug(const char* s)
 {
     assert_tag_debug_untracked_jul_11_2011(779, s);
     size_t length = strlen(s);
@@ -556,7 +522,7 @@ extern "C" size_t strlen_debug(const char* s)
     return length;
 }
 
-extern "C" char* strstr_debug(const char* haystack, const char* needle)
+char* strstr_debug(const char* haystack, const char* needle)
 {
     assert_tag_debug_untracked_jul_11_2011(793, haystack);
     assert_tag_debug_untracked_jul_11_2011(794, needle);
@@ -565,7 +531,7 @@ extern "C" char* strstr_debug(const char* haystack, const char* needle)
     return substring;
 }
 
-extern "C" char* strchr_debug(const char* haystack, int needle)
+char* strchr_debug(const char* haystack, int needle)
 {
     assert_tag_debug_untracked_jul_11_2011(808, haystack);
     char* substring = const_cast<char*>(strchr(haystack, needle));
@@ -573,14 +539,13 @@ extern "C" char* strchr_debug(const char* haystack, int needle)
     return substring;
 }
 
-extern "C" char* strrchr_debug(const char* haystack, int needle)
+char* strrchr_debug(const char* haystack, int needle)
 {
     assert_tag_debug_untracked_jul_11_2011(822, haystack);
     char* substring = const_cast<char*>(strrchr(haystack, needle));
     assert_tag_debug_untracked_jul_11_2011(824, substring==NULL || (substring>=haystack && substring<haystack+k_maximum_string_size));
     return substring;
 }
-
 
 /* ---------- private code */
 
@@ -796,4 +761,3 @@ extern "C" char* strrchr_debug(const char* haystack, int needle)
 //{
 //    mangled_ppc("??$int_min@I@@YAIABI0@Z");
 //};
-

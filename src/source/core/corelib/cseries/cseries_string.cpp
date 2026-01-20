@@ -24,9 +24,6 @@ extern "C" size_t strlen_debug(char const* str);
 extern unsigned int csstrnlen(char const *, unsigned int);
 extern "C" void* csmemset(void *buffer, int value, size_t size);
 
-#define NULL 0
-#define __trap() __debugbreak()
-
 
 template<typename t_type>
 t_type int_min(t_type const & a, t_type const & b)

@@ -22,7 +22,8 @@
             "flags": [
                 "/Isrc",
                 "/DNOT_IMPLEMENTED=__assume(0)",
-                "/Dmangled_ppc=(void)"
+                "/Dmangled_ppc=(void)",
+                "/DNULL=0"
             ]
         },
         "base": {

@@ -6,9 +6,22 @@
 
 /* ---------- constants */
 
+enum e_event_level;
+
 /* ---------- definitions */
 
-class c_event_handler;
+struct s_event_properties;
+
+class c_event_handler
+{
+public:
+    virtual bool __cdecl event_level_query(enum e_event_level) = 0;
+    virtual bool __cdecl event_query(s_event_properties const *) = 0;
+    virtual long __cdecl event_process(s_event_properties const *,char const *,char *) = 0;
+    virtual void __cdecl store_category(long,long volatile *) = 0;
+    virtual void __cdecl context_push(char const *,unsigned long,char const *) = 0;
+    virtual void __cdecl context_pop(void) = 0;
+};
 
 class c_event_handler_hook
 {

@@ -434,7 +434,7 @@
 //{
 //    mangled_ppc("?get_allocation_flags@s_tag_data_definition@@QBAKXZ");
 //};
-
+//
 //public: class c_tag_memory_attributes s_tag_data_definition::get_memory_attributes(void) const
 //{
 //    mangled_ppc("?get_memory_attributes@s_tag_data_definition@@QBA?AVc_tag_memory_attributes@@XZ");
@@ -716,40 +716,50 @@ bool c_legacy_tag_struct_vtable_shim::fixup_old_struct_thunk(c_basic_buffer<void
 //    mangled_ppc("?validate_vtable@s_tag_group@@QAAXXZ");
 //};
 
-//public: enum e_tag_memory_allocation_type c_tag_memory_attributes::get_memory_type(void) const
-//{
-//    mangled_ppc("?get_memory_type@c_tag_memory_attributes@@QBA?AW4e_tag_memory_allocation_type@@XZ");
-//};
+e_tag_memory_allocation_type c_tag_memory_attributes::get_memory_type(void) const
+{
+    mangled_ppc("?get_memory_type@c_tag_memory_attributes@@QBA?AW4e_tag_memory_allocation_type@@XZ");
 
-//public: unsigned long c_tag_memory_attributes::get_usage_flags(void) const
-//{
-//    mangled_ppc("?get_usage_flags@c_tag_memory_attributes@@QBAKXZ");
-//};
+    return m_allocation_type;
+};
 
-//public: void c_tag_memory_attributes::set_attributes(enum e_tag_memory_allocation_type, unsigned long)
-//{
-//    mangled_ppc("?set_attributes@c_tag_memory_attributes@@QAAXW4e_tag_memory_allocation_type@@K@Z");
-//};
+unsigned long c_tag_memory_attributes::get_usage_flags(void) const
+{
+    mangled_ppc("?get_usage_flags@c_tag_memory_attributes@@QBAKXZ");
 
-//public: bool c_tag_memory_attributes::operator==(class c_tag_memory_attributes const &) const
-//{
-//    mangled_ppc("??8c_tag_memory_attributes@@QBA_NABV0@@Z");
-//};
+    return m_usage.get_unsafe();
+};
 
-//public: bool c_tag_memory_attributes::operator!=(class c_tag_memory_attributes const &) const
-//{
-//    mangled_ppc("??9c_tag_memory_attributes@@QBA_NABV0@@Z");
-//};
+void c_tag_memory_attributes::set_attributes(e_tag_memory_allocation_type allocation_type, unsigned long usage_flags)
+{
+    mangled_ppc("?set_attributes@c_tag_memory_attributes@@QAAXW4e_tag_memory_allocation_type@@K@Z");
 
-//class c_tag_memory_attributes make_tag_memory_attributes(enum e_tag_memory_allocation_type, unsigned long)
-//{
-//    mangled_ppc("?make_tag_memory_attributes@@YA?AVc_tag_memory_attributes@@W4e_tag_memory_allocation_type@@K@Z");
-//};
+    m_allocation_type = allocation_type;
+    m_usage.set_unsafe(usage_flags);
+};
 
-//public: bool c_flags_no_init<enum e_tag_memory_usage_bit, unsigned long, 6, struct s_default_enum_string_resolver>::operator==(class c_flags_no_init<enum e_tag_memory_usage_bit, unsigned long, 6, struct s_default_enum_string_resolver> const &) const
-//{
-//    mangled_ppc("??8?$c_flags_no_init@W4e_tag_memory_usage_bit@@K$05Us_default_enum_string_resolver@@@@QBA_NABV0@@Z");
-//};
+bool c_tag_memory_attributes::operator==(class c_tag_memory_attributes const & rhs) const
+{
+    mangled_ppc("??8c_tag_memory_attributes@@QBA_NABV0@@Z");
+
+    return m_allocation_type == rhs.m_allocation_type && m_usage == rhs.m_usage;
+};
+
+bool c_tag_memory_attributes::operator!=(class c_tag_memory_attributes const & rhs) const
+{
+    mangled_ppc("??9c_tag_memory_attributes@@QBA_NABV0@@Z");
+
+    return !operator==(rhs);
+};
+
+c_tag_memory_attributes make_tag_memory_attributes(e_tag_memory_allocation_type allocation_type, unsigned long usage_flags)
+{
+    mangled_ppc("?make_tag_memory_attributes@@YA?AVc_tag_memory_attributes@@W4e_tag_memory_allocation_type@@K@Z");
+
+    c_tag_memory_attributes memory_attributes;
+    memory_attributes.set_attributes(allocation_type, usage_flags);
+    return memory_attributes;
+};
 
 //unsigned long const * array_begin<unsigned long const, 4>(unsigned long const (&)[4])
 //{

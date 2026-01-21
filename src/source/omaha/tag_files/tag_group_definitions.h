@@ -4,6 +4,8 @@
 
 /* ---------- headers */
 
+#include "omaha/memory/static_arrays.h"
+
 /* ---------- constants */
 
 /* ---------- definitions */
@@ -14,6 +16,41 @@ struct s_cache_file_builder_stream_context;
 
 template<typename t_type> class c_basic_buffer;
 class c_tag_allocator;
+
+enum e_tag_memory_allocation_type
+{
+    _tag_memory_unknown = 0,
+    _tag_memory_node
+};
+
+enum e_tag_memory_usage_bit
+{
+    _tag_memory_unknown0_bit,
+    _tag_memory_unknown1_bit,
+    _tag_memory_writeable_bit,
+    _tag_memory_unknown3_bit,
+    _tag_memory_unknown4_bit,
+    _tag_memory_unknown5_bit,
+    k_num_tag_memory_usage_bits
+};
+
+class c_tag_memory_attributes
+{
+private:
+    e_tag_memory_allocation_type m_allocation_type;
+    c_flags_no_init<e_tag_memory_usage_bit, unsigned long, k_num_tag_memory_usage_bits, s_default_enum_string_resolver> m_usage;
+public:
+    e_tag_memory_allocation_type get_memory_type(void) const;
+    unsigned long get_usage_flags(void)const;
+    void set_attributes(e_tag_memory_allocation_type allocation_type, unsigned long usage_flags);
+    bool operator==(c_tag_memory_attributes const &) const;
+    bool operator!=(c_tag_memory_attributes const &) const;
+};
+
+struct s_tag_data_definition
+{
+
+};
 
 template<typename t_type>
 struct s_tag_vtable_default_entry

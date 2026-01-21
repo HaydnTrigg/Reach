@@ -611,85 +611,155 @@ bool c_legacy_tag_struct_vtable_shim::fixup_old_struct_thunk(c_basic_buffer<void
     return m_manual_fixup->fixup_proc(arg1, arg2, arg3, arg4, arg5, arg6);
 };
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_custom_postprocess_proc(void) const
-//{
-//    mangled_ppc("?has_custom_postprocess_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+bool c_legacy_tag_group_vtable_shim::has_custom_postprocess_proc(void) const
+{
+    mangled_ppc("?has_custom_postprocess_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::postprocess_tag_thunk(long, bool) const
-//{
-//    mangled_ppc("?postprocess_tag_thunk@c_legacy_tag_group_vtable_shim@@UBA_NJ_N@Z");
-//};
+    assert_tag_debug_untracked_jul_11_2011(858, m_legacy_vtable);
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_custom_missing_tag_proc(void) const
-//{
-//    mangled_ppc("?has_custom_missing_tag_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+    return m_legacy_vtable->postprocess_tag != NULL;
+};
 
-//public: virtual void c_legacy_tag_group_vtable_shim::handle_missing_tag_thunk(unsigned long, char const *, unsigned long, unsigned long, char const *, long *) const
-//{
-//    mangled_ppc("?handle_missing_tag_thunk@c_legacy_tag_group_vtable_shim@@UBAXKPBDKK0PAJ@Z");
-//};
+bool c_legacy_tag_group_vtable_shim::postprocess_tag_thunk(long arg1, bool arg2) const
+{
+    mangled_ppc("?postprocess_tag_thunk@c_legacy_tag_group_vtable_shim@@UBA_NJ_N@Z");
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_on_save_tag_proc(void) const
-//{
-//    mangled_ppc("?has_on_save_tag_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+    assert_tag_debug_untracked_jul_11_2011(864, m_legacy_vtable);
+    assert_tag_debug_untracked_jul_11_2011(865, m_legacy_vtable->postprocess_tag!=NULL);
 
-//public: virtual void c_legacy_tag_group_vtable_shim::on_save_tag_thunk(long) const
-//{
-//    mangled_ppc("?on_save_tag_thunk@c_legacy_tag_group_vtable_shim@@UBAXJ@Z");
-//};
+    return m_legacy_vtable->postprocess_tag(arg1, arg2);
+};
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_write_to_cache_file_proc(void) const
-//{
-//    mangled_ppc("?has_write_to_cache_file_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+bool c_legacy_tag_group_vtable_shim::has_custom_missing_tag_proc(void) const
+{
+    mangled_ppc("?has_custom_missing_tag_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
 
-//public: virtual void c_legacy_tag_group_vtable_shim::write_tag_to_cache_file_thunk(long, unsigned long, class c_cache_file_scratch_allocator *, class c_cache_file_resource_library *, class c_cache_file_tracer *, void **, void **) const
-//{
-//    mangled_ppc("?write_tag_to_cache_file_thunk@c_legacy_tag_group_vtable_shim@@UBAXJKPAVc_cache_file_scratch_allocator@@PAVc_cache_file_resource_library@@PAVc_cache_file_tracer@@PAPAX3@Z");
-//};
+    assert_tag_debug_untracked_jul_11_2011(871, m_legacy_vtable);
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_valid_alternate_streams(void) const
-//{
-//    mangled_ppc("?has_valid_alternate_streams@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+    return m_legacy_vtable->missing_proc != NULL;
+};
 
-//public: virtual struct s_tag_group_stream_list * c_legacy_tag_group_vtable_shim::get_alterante_streams_thunk(void) const
-//{
-//    mangled_ppc("?get_alterante_streams_thunk@c_legacy_tag_group_vtable_shim@@UBAPAUs_tag_group_stream_list@@XZ");
-//};
+void c_legacy_tag_group_vtable_shim::handle_missing_tag_thunk(unsigned long arg1, char const * arg2, unsigned long arg3, unsigned long arg4, char const * arg5, long * arg6) const
+{
+    mangled_ppc("?handle_missing_tag_thunk@c_legacy_tag_group_vtable_shim@@UBAXKPBDKK0PAJ@Z");
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_should_load_tag_stream_proc(void) const
-//{
-//    mangled_ppc("?has_should_load_tag_stream_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+    assert_tag_debug_untracked_jul_11_2011(877, m_legacy_vtable);
+    assert_tag_debug_untracked_jul_11_2011(878, m_legacy_vtable->missing_proc);
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::should_load_tag_stream_thunk(unsigned long, bool) const
-//{
-//    mangled_ppc("?should_load_tag_stream_thunk@c_legacy_tag_group_vtable_shim@@UBA_NK_N@Z");
-//};
+    return m_legacy_vtable->missing_proc(arg1, arg2, arg3, arg4, arg5, arg6);
+};
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_custom_xsync_runtime_platforms(void) const
-//{
-//    mangled_ppc("?has_custom_xsync_runtime_platforms@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+bool c_legacy_tag_group_vtable_shim::has_on_save_tag_proc(void) const
+{
+    mangled_ppc("?has_on_save_tag_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
 
-//public: virtual unsigned long c_legacy_tag_group_vtable_shim::get_xsync_runtime_platforms_thunk(void) const
-//{
-//    mangled_ppc("?get_xsync_runtime_platforms_thunk@c_legacy_tag_group_vtable_shim@@UBAKXZ");
-//};
+    assert_tag_debug_untracked_jul_11_2011(885, m_legacy_vtable);
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::has_postprocess_on_sync_proc(void) const
-//{
-//    mangled_ppc("?has_postprocess_on_sync_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
-//};
+    return m_legacy_vtable->on_save_tag != NULL;
+};
 
-//public: virtual bool c_legacy_tag_group_vtable_shim::postprocess_on_sync_thunk(long, enum e_runtime_platform_type, class c_cache_file_global_tag_registry *, bool) const
-//{
-//    mangled_ppc("?postprocess_on_sync_thunk@c_legacy_tag_group_vtable_shim@@UBA_NJW4e_runtime_platform_type@@PAVc_cache_file_global_tag_registry@@_N@Z");
-//};
+void c_legacy_tag_group_vtable_shim::on_save_tag_thunk(long arg1) const
+{
+    mangled_ppc("?on_save_tag_thunk@c_legacy_tag_group_vtable_shim@@UBAXJ@Z");
+
+    assert_tag_debug_untracked_jul_11_2011(891, m_legacy_vtable);
+    assert_tag_debug_untracked_jul_11_2011(892, m_legacy_vtable->on_save_tag!=NULL);
+
+    return m_legacy_vtable->on_save_tag(arg1);
+};
+
+bool c_legacy_tag_group_vtable_shim::has_write_to_cache_file_proc(void) const
+{
+    mangled_ppc("?has_write_to_cache_file_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
+
+    assert_tag_debug_untracked_jul_11_2011(898, m_legacy_vtable);
+
+    return m_legacy_vtable->write_tag_to_cache_file != NULL;
+};
+
+void c_legacy_tag_group_vtable_shim::write_tag_to_cache_file_thunk(long arg1, unsigned long arg2, c_cache_file_scratch_allocator * arg3, c_cache_file_resource_library * arg4, c_cache_file_tracer * arg5, void ** arg6, void ** arg7) const
+{
+    mangled_ppc("?write_tag_to_cache_file_thunk@c_legacy_tag_group_vtable_shim@@UBAXJKPAVc_cache_file_scratch_allocator@@PAVc_cache_file_resource_library@@PAVc_cache_file_tracer@@PAPAX3@Z");
+
+    assert_tag_debug_untracked_jul_11_2011(904, m_legacy_vtable);
+    assert_tag_debug_untracked_jul_11_2011(905, m_legacy_vtable->write_tag_to_cache_file!=NULL);
+
+    return m_legacy_vtable->write_tag_to_cache_file(arg1, arg2, arg3, arg4, arg5, arg6, arg7);
+};
+
+bool c_legacy_tag_group_vtable_shim::has_valid_alternate_streams(void) const
+{
+    mangled_ppc("?has_valid_alternate_streams@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
+
+    assert_tag_debug_untracked_jul_11_2011(912, m_legacy_stream);
+
+    return m_legacy_stream->stream_list != NULL;
+};
+
+s_tag_group_stream_list * c_legacy_tag_group_vtable_shim::get_alterante_streams_thunk(void) const
+{
+    mangled_ppc("?get_alterante_streams_thunk@c_legacy_tag_group_vtable_shim@@UBAPAUs_tag_group_stream_list@@XZ");
+
+    assert_tag_debug_untracked_jul_11_2011(918, m_legacy_stream);
+    assert_tag_debug_untracked_jul_11_2011(919, m_legacy_stream->stream_list);
+
+    return m_legacy_stream->stream_list;
+};
+
+bool c_legacy_tag_group_vtable_shim::has_should_load_tag_stream_proc(void) const
+{
+    mangled_ppc("?has_should_load_tag_stream_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
+
+    assert_tag_debug_untracked_jul_11_2011(925, m_legacy_stream);
+
+    return m_legacy_stream->should_load_tag_stream != NULL;
+};
+
+bool c_legacy_tag_group_vtable_shim::should_load_tag_stream_thunk(unsigned long arg1, bool arg2) const
+{
+    mangled_ppc("?should_load_tag_stream_thunk@c_legacy_tag_group_vtable_shim@@UBA_NK_N@Z");
+
+    assert_tag_debug_untracked_jul_11_2011(931, m_legacy_stream);
+
+    return m_legacy_stream->should_load_tag_stream(arg1, arg2);
+};
+
+bool c_legacy_tag_group_vtable_shim::has_custom_xsync_runtime_platforms(void) const
+{
+    mangled_ppc("?has_custom_xsync_runtime_platforms@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
+
+    assert_tag_debug_untracked_jul_11_2011(938, m_legacy_xsync_declaration);
+
+    return m_legacy_xsync_declaration->xsync_runtime_platforms != 0;
+};
+
+unsigned long c_legacy_tag_group_vtable_shim::get_xsync_runtime_platforms_thunk(void) const
+{
+    mangled_ppc("?get_xsync_runtime_platforms_thunk@c_legacy_tag_group_vtable_shim@@UBAKXZ");
+
+    assert_tag_debug_untracked_jul_11_2011(944, m_legacy_xsync_declaration);
+
+    return m_legacy_xsync_declaration->xsync_runtime_platforms;
+};
+
+bool c_legacy_tag_group_vtable_shim::has_postprocess_on_sync_proc(void) const
+{
+    mangled_ppc("?has_postprocess_on_sync_proc@c_legacy_tag_group_vtable_shim@@UBA_NXZ");
+
+    assert_tag_debug_untracked_jul_11_2011(950, m_legacy_xsync_declaration);
+
+    return m_legacy_xsync_declaration->postprocess_on_sync != NULL;
+};
+
+bool c_legacy_tag_group_vtable_shim::postprocess_on_sync_thunk(long arg1, e_runtime_platform_type arg2, c_cache_file_global_tag_registry * arg3, bool arg4) const
+{
+    mangled_ppc("?postprocess_on_sync_thunk@c_legacy_tag_group_vtable_shim@@UBA_NJW4e_runtime_platform_type@@PAVc_cache_file_global_tag_registry@@_N@Z");
+
+    assert_tag_debug_untracked_jul_11_2011(956, m_legacy_xsync_declaration);
+    assert_tag_debug_untracked_jul_11_2011(957, m_legacy_xsync_declaration->postprocess_on_sync);
+
+    return m_legacy_xsync_declaration->postprocess_on_sync(arg1, arg2, arg3, arg4);
+};
 
 //public: unsigned long s_tag_group::get_xsync_version(void) const
 //{

@@ -1268,4 +1268,3 @@
 //{
 //    mangled_ppc("?call@?$s_tag_vtable_default_entry@PAUs_tag_group_stream_list@@@@SAPAUs_tag_group_stream_list@@XZ");
 //};
-

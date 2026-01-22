@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\render\render_sky.h"
+#include "omaha\render\render_sky.h"
 
 /* ---------- constants */
 
@@ -47,4 +47,3 @@
 //{
 //    mangled_ppc("?render_sky_get_scale@@YAMXZ");
 //};
-

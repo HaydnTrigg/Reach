@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\rasterizer\rasterizer_stipple.h"
+#include "omaha\rasterizer\rasterizer_stipple.h"
 
 /* ---------- constants */
 
@@ -103,4 +103,3 @@
 //{
 //    mangled_ppc("D3DTagCollection_Set");
 //};
-

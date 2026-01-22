@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\gpu_particle\common_gpu.h"
+#include "omaha\gpu_particle\common_gpu.h"
 
 /* ---------- constants */
 

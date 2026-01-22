@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\pc_shader_compiler\include\pc_shader_compiler.h"
+#include "omaha\pc_shader_compiler\include\pc_shader_compiler.h"
 
 /* ---------- constants */
 
@@ -23,4 +23,3 @@
 //{
 //    mangled_ppc("?shader_compiler_pc@@YAJPBDIPBU_D3DXMACRO@@PAUID3DXInclude@@00KPAPAUID3DXBuffer@@3@Z");
 //};
-

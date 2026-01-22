@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\rasterizer\rasterizer_hue_saturation.h"
+#include "omaha\rasterizer\rasterizer_hue_saturation.h"
 
 /* ---------- constants */
 
@@ -170,4 +170,3 @@
 //{
 //    mangled_ppc("?safe_xmmatrix_transpose@@YA?AU_XMMATRIX@@ABU1@@Z");
 //};
-

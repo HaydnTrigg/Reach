@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\render\render_flags.h"
+#include "omaha\render\render_flags.h"
 
 /* ---------- constants */
 

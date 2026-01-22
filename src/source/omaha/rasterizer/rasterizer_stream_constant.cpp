@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\rasterizer\rasterizer_stream_constant.h"
+#include "omaha\rasterizer\rasterizer_stream_constant.h"
 
 /* ---------- constants */
 
@@ -23,4 +23,3 @@
 //{
 //    mangled_ppc("?set_d3d_stream@c_rasterizer_stream_constant@@QAAXPAXKW4GPUSURFACESWAP@@W4GPUSURFACENUMBER@@W4GPUCOLORFORMAT@@W4GPUENDIAN128@@@Z");
 //};
-

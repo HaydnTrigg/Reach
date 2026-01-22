@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\rasterizer\rasterizer_synchronization.h"
+#include "omaha\rasterizer\rasterizer_synchronization.h"
 
 /* ---------- constants */
 
@@ -34,4 +34,3 @@
 //{
 //    mangled_ppc("?wait_for_gpu_to_catch_up@c_cpu_gpu_synchronizer@@SAXXZ");
 //};
-

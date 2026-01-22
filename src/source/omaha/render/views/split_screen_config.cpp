@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\render\views\split_screen_config.h"
+#include "omaha\render\views\split_screen_config.h"
 
 /* ---------- constants */
 

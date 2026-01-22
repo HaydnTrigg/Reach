@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\render\render_debug_commands.h"
+#include "omaha\render\render_debug_commands.h"
 
 /* ---------- constants */
 
@@ -39,4 +39,3 @@
 //{
 //    mangled_ppc("D3DDevice_SetRenderState");
 //};
-

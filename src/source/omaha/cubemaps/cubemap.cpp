@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\cubemaps\cubemap.h"
+#include "omaha\cubemaps\cubemap.h"
 
 /* ---------- constants */
 

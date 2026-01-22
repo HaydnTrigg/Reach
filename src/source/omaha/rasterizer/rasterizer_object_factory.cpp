@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\rasterizer\rasterizer_object_factory.h"
+#include "omaha\rasterizer\rasterizer_object_factory.h"
 
 /* ---------- constants */
 
@@ -71,4 +71,3 @@
 //{
 //    mangled_ppc("?rasterizer_object_factory_suppressed@@YA_NXZ");
 //};
-

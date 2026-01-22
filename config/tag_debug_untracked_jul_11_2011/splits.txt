@@ -22322,12 +22322,12 @@ source/graphicslib/imposter_snapshot.cpp:
 	.data       start:0x86D9FEF0 end:0x86DA0230 rename:.bss
 
 source/omaha/cubemaps/cubemap.cpp:
-	.rdata      start:0x824FB168 end:0x824FB36C
+	.rdata      start:0x824FB168 end:0x824FB358
 	.pdata      start:0x826071B8 end:0x826071C0
 	.text       start:0x84C02450 end:0x84C02658
 
 source/omaha/render/imposters/imposter_snapshot_object.cpp:
-	.rdata      start:0x824FB36C end:0x824FBD80
+	.rdata      start:0x824FB358 end:0x824FBD80
 	.pdata      start:0x826071C0 end:0x82607258
 	.text       start:0x84C02658 end:0x84C07B20
 

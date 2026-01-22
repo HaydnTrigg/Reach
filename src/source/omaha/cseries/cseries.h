@@ -6,6 +6,11 @@
 
 /* ---------- constants */
 
+enum e_none_sentinel
+{
+    NONE = -1,
+};
+
 /* ---------- definitions */
 
 /* ---------- prototypes */
@@ -15,4 +20,3 @@
 /* ---------- public code */
 
 #endif // __CSERIES_H__
-

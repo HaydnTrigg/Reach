@@ -24,6 +24,19 @@ private:
 	t_storage m_flags;
 };
 
+template<typename t_enum, typename t_storage, t_storage k_max, typename t_string_resolver = s_default_enum_string_resolver>
+class c_flags :
+    public c_flags_no_init<t_enum, t_storage, k_max, t_string_resolver>
+{
+
+};
+
+/* ---------- prototypes */
+
+/* ---------- globals */
+
+/* ---------- public code */
+
 template<typename t_enum, typename t_storage, t_storage k_max, typename t_string_resolver>
 bool c_flags_no_init<t_enum, t_storage, k_max, t_string_resolver>::operator==(c_flags_no_init const & rsa) const
 {
@@ -35,11 +48,5 @@ bool c_flags_no_init<t_enum, t_storage, k_max, t_string_resolver>::operator!=(c_
 {
     return m_flags != rsa.m_flags;
 }
-
-/* ---------- prototypes */
-
-/* ---------- globals */
-
-/* ---------- public code */
 
 #endif // __STATIC_ARRAYS_H__

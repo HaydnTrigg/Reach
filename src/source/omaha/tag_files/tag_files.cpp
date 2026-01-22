@@ -1,6 +1,10 @@
+#define __FILE_TAG_DEBUG_UNTRACKED_JUL_11_2011__ "C:\\SD\\Reach\\Publishing\\Main\\shared\\engine\\source\\omaha\\tag_files\\tag_files.cpp"
 /* ---------- headers */
 
 #include "omaha\tag_files\tag_files.h"
+#include "omaha\tag_files\tag_group_files.h"
+#include "core\corelib\cseries\cseries_asserts.h"
+#include "core\corelib\cseries\cseries_string.h"
 
 /* ---------- constants */
 
@@ -11,60 +15,6 @@
 /* ---------- globals */
 
 /* ---------- public code */
-
-/* ---------- private code */
-
-/* ---------- reverse engineering */
-
-// public: static enum e_load_tag_flag const c_flags_no_init<enum e_load_tag_flag, unsigned short, 10, struct s_default_enum_string_resolver>::k_maximum_count; // "?k_maximum_count@?$c_flags_no_init@W4e_load_tag_flag@@G$09Us_default_enum_string_resolver@@@@2W4e_load_tag_flag@@B"
-// struct s_tag_file_shim_backend const *const g_default_tag_file_shim; // "?g_default_tag_file_shim@@3PBUs_tag_file_shim_backend@@B"
-
-// void tag_files_open(enum e_shell_application_type);
-// void tag_files_close(void);
-// void tag_files_initialize_from_main(void);
-// void tag_files_dispose_backend(void);
-// void tag_files_set_initialized_backend(struct s_tag_file_shim_backend const *);
-// void tag_files_set_backend(struct s_tag_file_shim_backend const *);
-// void tag_file_set_backend_by_name(char const *);
-// long tag_files_get_sequence_identifier(void);
-// bool tag_files_backend_supports_alternate_streams(void);
-// bool tag_files_can_load_tags(void);
-// bool tag_files_get_total_bytes_read(unsigned __int64*);
-// void tag_files_dump_allocation_profile(void);
-// bool tag_file_try_to_read(unsigned long, char const *, unsigned long, unsigned long, void *);
-// void tag_files_pin_layout_cache(void);
-// void tag_files_unpin_layout_cache(void);
-// bool tag_files_support_async_data(void);
-// bool tag_files_async_data_available(void);
-// struct s_async_task_id tag_file_read_async(long, unsigned long, char const *, unsigned long, unsigned long, void *, class c_synchronized_int32*, class c_synchronized_int32*, long, long);
-// bool tag_file_has_async_data(unsigned long, char const *);
-// bool tag_file_read_only(unsigned long, char const *);
-// bool tag_file_get_last_modification_date(unsigned long, char const *, struct s_file_last_modification_date *);
-// bool tag_file_set_writeable(unsigned long, char const *, bool);
-// bool tag_file_checksum(unsigned long, char const *, unsigned long *);
-// bool tag_file_exists(unsigned long, char const *);
-// bool tag_file_get_file_reference(struct s_file_reference *, unsigned long, char const *);
-// bool tag_file_get_name_and_group_tag_from_path(char const *, unsigned long *, char (&)[256]);
-// char const * tag_files_get_root_directory_path(void);
-// void tag_files_predict_load(class c_tag_files_prediction_manager *, unsigned long, char const *);
-// void tag_files_predict_load_from_block(class c_tag_files_prediction_manager *, struct s_tag_block const *);
-// void tag_files_predict_load_finished(void);
-// bool tag_save_to_backend(struct s_tag_group const *, char const *, struct s_tag_block *, unsigned long *, class c_tag_alternate_stream_iterator *);
-// bool tag_load_from_backend(struct s_tag_block *, struct s_tag_group const *, char const *, class c_flags<enum e_load_tag_flag, unsigned short, 10, struct s_default_enum_string_resolver>, enum e_tag_file_open_result *, bool *, unsigned long *, class c_tag_alternate_stream_consumer *);
-// void tag_files_sync_initialize(void);
-// void tag_files_sync_dispose(void);
-// void tag_files_sync_idle(void);
-// bool tag_files_sync_tags_changed(void);
-// class c_tag_file_difference_iterator * tag_files_sync_get_difference_iterator(void);
-// void tag_files_sync_dispose_difference_iterator(class c_tag_file_difference_iterator *);
-// void tag_files_sync_reload_begin(void);
-// void tag_files_sync_reload_end(void);
-// void tag_files_set_cache_file_output(class c_allocation_interface *, class c_cache_file_builder_tag_resource_output *);
-// void tag_files_close_cache_file_output(void);
-// void tag_file_get_path(unsigned long, char const *, char (&)[256]);
-// bool tag_file_create_temporary_path(unsigned long, char const *, char (&)[256], char (&)[256]);
-// char * file_reference_get_name<256>(struct s_file_reference const *, unsigned long, char (&)[256]);
-// char * file_reference_get_fullpath<256>(struct s_file_reference const *, char (&)[256]);
 
 //void tag_files_open(enum e_shell_application_type)
 //{
@@ -96,10 +46,41 @@
 //    mangled_ppc("?tag_files_set_backend@@YAXPBUs_tag_file_shim_backend@@@Z");
 //};
 
-//void tag_file_set_backend_by_name(char const *)
-//{
-//    mangled_ppc("?tag_file_set_backend_by_name@@YAXPBD@Z");
-//};
+void tag_file_set_backend_by_name(char const * new_backend_name)
+{
+    mangled_ppc("?tag_file_set_backend_by_name@@YAXPBD@Z");
+    
+    assert_tag_debug_untracked_jul_11_2011(162, new_backend_name);
+
+    if(ascii_stricmp(new_backend_name, "default") == 0)
+    {
+        tag_files_set_backend(g_default_tag_file_shim);
+    }
+    else if(ascii_stricmp(new_backend_name, "single_new") == 0)
+    {
+        tag_files_set_backend(&g_single_file_tag_file_backend);
+    }
+    else if(ascii_stricmp(new_backend_name, "monolithic_new") == 0)
+    {
+        tag_files_set_backend(&g_monolithic_tag_file_backend);
+    }
+    else if(ascii_stricmp(new_backend_name, "monolithic_new_xbox") == 0)
+    {
+        tag_files_set_backend(&g_xbox_monolithic_tag_file_backend);
+    }
+    else if(ascii_stricmp(new_backend_name, "simple_patched") == 0)
+    {
+        tag_files_set_backend(&g_simple_patched_tag_file_backend);
+    }
+    else if(ascii_stricmp(new_backend_name, "shared_cache_builder") == 0)
+    {
+        tag_files_set_backend(&g_cache_file_shared_tag_file_backend);
+    }
+    else if(ascii_stricmp(new_backend_name, "campaign_cache_builder") == 0)
+    {
+        tag_files_set_backend(&g_cache_file_campaign_tag_file_backend);
+    }
+};
 
 //long tag_files_get_sequence_identifier(void)
 //{
@@ -296,3 +277,56 @@
 //    mangled_ppc("??$file_reference_get_fullpath@$0BAA@@@YAPADPBUs_file_reference@@AAY0BAA@D@Z");
 //};
 
+/* ---------- private code */
+
+/* ---------- reverse engineering */
+
+// public: static enum e_load_tag_flag const c_flags_no_init<enum e_load_tag_flag, unsigned short, 10, struct s_default_enum_string_resolver>::k_maximum_count; // "?k_maximum_count@?$c_flags_no_init@W4e_load_tag_flag@@G$09Us_default_enum_string_resolver@@@@2W4e_load_tag_flag@@B"
+// struct s_tag_file_shim_backend const *const g_default_tag_file_shim; // "?g_default_tag_file_shim@@3PBUs_tag_file_shim_backend@@B"
+
+// void tag_files_open(enum e_shell_application_type);
+// void tag_files_close(void);
+// void tag_files_initialize_from_main(void);
+// void tag_files_dispose_backend(void);
+// void tag_files_set_initialized_backend(struct s_tag_file_shim_backend const *);
+// void tag_files_set_backend(struct s_tag_file_shim_backend const *);
+// void tag_file_set_backend_by_name(char const *);
+// long tag_files_get_sequence_identifier(void);
+// bool tag_files_backend_supports_alternate_streams(void);
+// bool tag_files_can_load_tags(void);
+// bool tag_files_get_total_bytes_read(unsigned __int64*);
+// void tag_files_dump_allocation_profile(void);
+// bool tag_file_try_to_read(unsigned long, char const *, unsigned long, unsigned long, void *);
+// void tag_files_pin_layout_cache(void);
+// void tag_files_unpin_layout_cache(void);
+// bool tag_files_support_async_data(void);
+// bool tag_files_async_data_available(void);
+// struct s_async_task_id tag_file_read_async(long, unsigned long, char const *, unsigned long, unsigned long, void *, class c_synchronized_int32*, class c_synchronized_int32*, long, long);
+// bool tag_file_has_async_data(unsigned long, char const *);
+// bool tag_file_read_only(unsigned long, char const *);
+// bool tag_file_get_last_modification_date(unsigned long, char const *, struct s_file_last_modification_date *);
+// bool tag_file_set_writeable(unsigned long, char const *, bool);
+// bool tag_file_checksum(unsigned long, char const *, unsigned long *);
+// bool tag_file_exists(unsigned long, char const *);
+// bool tag_file_get_file_reference(struct s_file_reference *, unsigned long, char const *);
+// bool tag_file_get_name_and_group_tag_from_path(char const *, unsigned long *, char (&)[256]);
+// char const * tag_files_get_root_directory_path(void);
+// void tag_files_predict_load(class c_tag_files_prediction_manager *, unsigned long, char const *);
+// void tag_files_predict_load_from_block(class c_tag_files_prediction_manager *, struct s_tag_block const *);
+// void tag_files_predict_load_finished(void);
+// bool tag_save_to_backend(struct s_tag_group const *, char const *, struct s_tag_block *, unsigned long *, class c_tag_alternate_stream_iterator *);
+// bool tag_load_from_backend(struct s_tag_block *, struct s_tag_group const *, char const *, class c_flags<enum e_load_tag_flag, unsigned short, 10, struct s_default_enum_string_resolver>, enum e_tag_file_open_result *, bool *, unsigned long *, class c_tag_alternate_stream_consumer *);
+// void tag_files_sync_initialize(void);
+// void tag_files_sync_dispose(void);
+// void tag_files_sync_idle(void);
+// bool tag_files_sync_tags_changed(void);
+// class c_tag_file_difference_iterator * tag_files_sync_get_difference_iterator(void);
+// void tag_files_sync_dispose_difference_iterator(class c_tag_file_difference_iterator *);
+// void tag_files_sync_reload_begin(void);
+// void tag_files_sync_reload_end(void);
+// void tag_files_set_cache_file_output(class c_allocation_interface *, class c_cache_file_builder_tag_resource_output *);
+// void tag_files_close_cache_file_output(void);
+// void tag_file_get_path(unsigned long, char const *, char (&)[256]);
+// bool tag_file_create_temporary_path(unsigned long, char const *, char (&)[256], char (&)[256]);
+// char * file_reference_get_name<256>(struct s_file_reference const *, unsigned long, char (&)[256]);
+// char * file_reference_get_fullpath<256>(struct s_file_reference const *, char (&)[256]);

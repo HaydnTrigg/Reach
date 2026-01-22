@@ -1,6 +1,6 @@
 /* ---------- headers */
 
-#include "omaha\omaha\cubemaps\cubemap.h"
+#include "omaha\omaha\render\views\split_screen_config.h"
 
 /* ---------- constants */
 
@@ -16,3 +16,5 @@
 
 /* ---------- reverse engineering */
 
+
+// private: static struct s_splitscreen_view_config (*c_splitscreen_config::m_config_table)[4][4]; // "?m_config_table@c_splitscreen_config@@0PAY133Us_splitscreen_view_config@@A"

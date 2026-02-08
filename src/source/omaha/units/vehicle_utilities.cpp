@@ -1,6 +1,7 @@
 /* ---------- headers */
 
 #include "omaha\units\vehicle_utilities.h"
+#include "omaha\math\real_math.h"
 
 /* ---------- constants */
 
@@ -42,7 +43,6 @@
 // void vehicle_create_ground_effects(long, float, float);
 // void vehicle_animation_steering_position_update(long, struct s_vehicle_steering_animation_definition const *, float, float *, bool);
 // bool vehicle_is_type(long, long);
-// float cross_product2d(union vector2d const *, union vector2d const *);
 
 //void vehicle_update_tricks(long)
 //{
@@ -173,9 +173,3 @@
 //{
 //    mangled_ppc("?vehicle_is_type@@YA_NJJ@Z");
 //};
-
-//float cross_product2d(union vector2d const *, union vector2d const *)
-//{
-//    mangled_ppc("?cross_product2d@@YAMPBTvector2d@@0@Z");
-//};
-

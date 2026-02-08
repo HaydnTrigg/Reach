@@ -10,12 +10,6 @@
 
 /* ---------- globals */
 
-/* ---------- public code */
-
-/* ---------- private code */
-
-/* ---------- reverse engineering */
-
 // short const const (*const global_projection3d_mappings)[2][3]; // "?global_projection3d_mappings@@3QAY112$$CBFA"
 // short const const (*const global_projection3d_inverse_mappings)[2][3]; // "?global_projection3d_inverse_mappings@@3QAY112$$CBFA"
 // bool g_enable_new_ik_method; // "?g_enable_new_ik_method@@3_NA"
@@ -56,6 +50,12 @@
 // union real_rectangle2d const *const global_zero_rectangle2d; // "?global_zero_rectangle2d@@3PBTreal_rectangle2d@@B"
 // union real_rectangle3d const *const global_zero_rectangle3d; // "?global_zero_rectangle3d@@3PBTreal_rectangle3d@@B"
 // float max_vmx_error; // "?max_vmx_error@@3MA"
+
+/* ---------- public code */
+
+/* ---------- private code */
+
+/* ---------- reverse engineering */
 
 // void real_math_initialize(void);
 // void real_math_dispose(void);
@@ -1275,4 +1275,3 @@
 //{
 //    mangled_ppc("?quantize_real@@YAJMMMJ_N0@Z");
 //};
-

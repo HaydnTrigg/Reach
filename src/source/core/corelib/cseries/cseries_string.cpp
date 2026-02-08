@@ -297,7 +297,7 @@ char * csstristr(char const * haystack, char const * needle)
 {
     char c;
     char sc;
-    unsigned long len;
+    size_t len;
     
     c = needle[0];
     needle++;
@@ -309,7 +309,7 @@ char * csstristr(char const * haystack, char const * needle)
             sc = *haystack++;
             if(!sc)
             {
-                return 0;
+                return NULL;
             }
         }
         while(tolower(sc) != tolower(c) || csstrnicmp(haystack, needle, len));

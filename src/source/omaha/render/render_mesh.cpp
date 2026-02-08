@@ -419,11 +419,6 @@
 //    mangled_ppc("??1c_string_builder@@QAA@XZ");
 //};
 
-//float square_root(float)
-//{
-//    mangled_ppc("?square_root@@YAMM@Z");
-//};
-
 //float sqrt(float)
 //{
 //    mangled_ppc("?sqrt@@YAMM@Z");
@@ -434,16 +429,6 @@
 //    mangled_ppc("sqrtf");
 //};
 
-//float dot_product3d(union vector3d const *, union vector3d const *)
-//{
-//    mangled_ppc("?dot_product3d@@YAMPBTvector3d@@0@Z");
-//};
-
-//bool valid_realcmp(float, float)
-//{
-//    mangled_ppc("?valid_realcmp@@YA_NMM@Z");
-//};
-
 //float fabs(float)
 //{
 //    mangled_ppc("?fabs@@YAMM@Z");
@@ -452,31 +437,6 @@
 //fabsf
 //{
 //    mangled_ppc("fabsf");
-//};
-
-//bool valid_real_point3d(union real_point3d const *)
-//{
-//    mangled_ppc("?valid_real_point3d@@YA_NPBTreal_point3d@@@Z");
-//};
-
-//bool valid_real_normal3d(union vector3d const *)
-//{
-//    mangled_ppc("?valid_real_normal3d@@YA_NPBTvector3d@@@Z");
-//};
-
-//float magnitude_squared3d(union vector3d const *)
-//{
-//    mangled_ppc("?magnitude_squared3d@@YAMPBTvector3d@@@Z");
-//};
-
-//bool valid_real_matrix4x3(struct real_matrix4x3const *)
-//{
-//    mangled_ppc("?valid_real_matrix4x3@@YA_NPBUreal_matrix4x3@@@Z");
-//};
-
-//bool valid_real_vector3d_axes3(union vector3d const *, union vector3d const *, union vector3d const *)
-//{
-//    mangled_ppc("?valid_real_vector3d_axes3@@YA_NPBTvector3d@@00@Z");
 //};
 
 //bool operator!=<short>(short const &, enum e_none_sentinel const &)
@@ -493,4 +453,3 @@
 //{
 //    mangled_ppc("??$?8F@@YA_NABFABW4e_none_sentinel@@@Z");
 //};
-

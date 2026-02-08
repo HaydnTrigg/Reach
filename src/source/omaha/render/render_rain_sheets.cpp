@@ -36,9 +36,6 @@
 // public: void c_rain_sheets::render_rain_sheets(union real_point3d const *, union vector3d const *, union vector3d const *, union short_rectangle2d const *, union short_rectangle2d const *, struct real_matrix4x3const *, float, float const (*const)[4]);
 // void preprocess_data(struct real_matrix4x3const *, float const (*const)[4], struct _XMMATRIX *, struct _XMMATRIX *);
 // private: void c_rain_sheets::render_vertical_rain_sheets(void);
-// float normalize2d(union vector2d *);
-// union vector2d * scale_vector2d(union vector2d const *, float, union vector2d *);
-// float magnitude2d(union vector2d const *);
 
 //void render_debug_rain_fog(bool)
 //{
@@ -139,19 +136,3 @@
 //{
 //    mangled_ppc("?render_vertical_rain_sheets@c_rain_sheets@@AAAXXZ");
 //};
-
-//float normalize2d(union vector2d *)
-//{
-//    mangled_ppc("?normalize2d@@YAMPATvector2d@@@Z");
-//};
-
-//union vector2d * scale_vector2d(union vector2d const *, float, union vector2d *)
-//{
-//    mangled_ppc("?scale_vector2d@@YAPATvector2d@@PBT1@MPAT1@@Z");
-//};
-
-//float magnitude2d(union vector2d const *)
-//{
-//    mangled_ppc("?magnitude2d@@YAMPBTvector2d@@@Z");
-//};
-

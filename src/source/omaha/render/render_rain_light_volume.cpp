@@ -57,12 +57,6 @@
 // public: static void c_rain_light_volume::render_light_volume(void const *, long, short, short);
 // public: bitmap_data::bitmap_data(void);
 // void SWAP<union vector3d>(union vector3d &, union vector3d &);
-// union vector2d * vector_from_points2d(union real_point2d const *, union real_point2d const *, union vector2d *);
-// union vector2d * add_vectors2d(union vector2d const *, union vector2d const *, union vector2d *);
-// float distance2d(union real_point2d const *, union real_point2d const *);
-// float distance_squared2d(union real_point2d const *, union real_point2d const *);
-// float magnitude_squared2d(union vector2d const *);
-// float dot_product2d(union vector2d const *, union vector2d const *);
 
 //public: static void c_rain_light_volume::frame_advance_all(float)
 //{
@@ -228,34 +222,3 @@
 //{
 //    mangled_ppc("??$SWAP@Tvector3d@@@@YAXAATvector3d@@0@Z");
 //};
-
-//union vector2d * vector_from_points2d(union real_point2d const *, union real_point2d const *, union vector2d *)
-//{
-//    mangled_ppc("?vector_from_points2d@@YAPATvector2d@@PBTreal_point2d@@0PAT1@@Z");
-//};
-
-//union vector2d * add_vectors2d(union vector2d const *, union vector2d const *, union vector2d *)
-//{
-//    mangled_ppc("?add_vectors2d@@YAPATvector2d@@PBT1@0PAT1@@Z");
-//};
-
-//float distance2d(union real_point2d const *, union real_point2d const *)
-//{
-//    mangled_ppc("?distance2d@@YAMPBTreal_point2d@@0@Z");
-//};
-
-//float distance_squared2d(union real_point2d const *, union real_point2d const *)
-//{
-//    mangled_ppc("?distance_squared2d@@YAMPBTreal_point2d@@0@Z");
-//};
-
-//float magnitude_squared2d(union vector2d const *)
-//{
-//    mangled_ppc("?magnitude_squared2d@@YAMPBTvector2d@@@Z");
-//};
-
-//float dot_product2d(union vector2d const *, union vector2d const *)
-//{
-//    mangled_ppc("?dot_product2d@@YAMPBTvector2d@@0@Z");
-//};
-

@@ -8,39 +8,12 @@
 
 /* ---------- prototypes */
 
+float *g_cubemap_exposures; // "?g_cubemap_exposures@@3PAMA"
+c_cubemap_render_manager g_cubemap_render_manager; // "?g_cubemap_render_manager@@3Vc_cubemap_render_manager@@A"
+
 /* ---------- globals */
 
 /* ---------- public code */
-
-/* ---------- private code */
-
-/* ---------- reverse engineering */
-
-// float *g_cubemap_exposures; // "?g_cubemap_exposures@@3PAMA"
-// class c_cubemap_render_manager g_cubemap_render_manager; // "?g_cubemap_render_manager@@3Vc_cubemap_render_manager@@A"
-
-// public: void c_cubemap_render_manager::activate(void);
-// public: bool c_cubemap_render_manager::is_processing_bsp(long);
-// public: bool c_cubemap_render_manager::setup_process_bsp(long, long, unsigned long);
-// void cubemap_dynamic_tile_callback(long, long, long, long, long, long, long, long);
-// D3DDevice_SetPixelShaderConstantF;
-// D3DTag_ShaderConstantMask;
-// D3DTag_SubsetMask;
-// D3DDevice_SetPixelShaderConstantF1;
-// D3DVECTOR4_SetX;
-// D3DVECTOR4_SetY;
-// D3DVECTOR4_SetZ;
-// D3DVECTOR4_SetW;
-// D3DTag_Index;
-// D3DTagCollection_Set;
-// long get_bsp_index_from_cubemap_position(union real_point3d const *);
-// public: unsigned long c_cubemap_render_manager::get_currently_processing_bsps(void);
-// void local_swap_bytes(unsigned char &, unsigned char &);
-// void local_get_surface_pixel_16f(struct _D3DLOCKED_RECT const &, long, long, float *);
-// bool cubemap_dynamic_position_callback(long, union real_point3d *, float *);
-// public: void c_cubemap_render_manager::tick(void);
-// void cubemap_dynamic_generate(void);
-// public: c_cubemap_render_manager::c_cubemap_render_manager(void);
 
 //public: void c_cubemap_render_manager::activate(void)
 //{
@@ -142,13 +115,41 @@
 //    mangled_ppc("?tick@c_cubemap_render_manager@@QAAXXZ");
 //};
 
-//void cubemap_dynamic_generate(void)
-//{
-//    mangled_ppc("?cubemap_dynamic_generate@@YAXXZ");
-//};
+void cubemap_dynamic_generate(void)
+{
+    mangled_ppc("?cubemap_dynamic_generate@@YAXXZ");
+
+    g_cubemap_render_manager.activate();
+};
 
 //public: c_cubemap_render_manager::c_cubemap_render_manager(void)
 //{
 //    mangled_ppc("??0c_cubemap_render_manager@@QAA@XZ");
 //};
 
+/* ---------- private code */
+
+/* ---------- reverse engineering */
+
+// public: void c_cubemap_render_manager::activate(void);
+// public: bool c_cubemap_render_manager::is_processing_bsp(long);
+// public: bool c_cubemap_render_manager::setup_process_bsp(long, long, unsigned long);
+// void cubemap_dynamic_tile_callback(long, long, long, long, long, long, long, long);
+// D3DDevice_SetPixelShaderConstantF;
+// D3DTag_ShaderConstantMask;
+// D3DTag_SubsetMask;
+// D3DDevice_SetPixelShaderConstantF1;
+// D3DVECTOR4_SetX;
+// D3DVECTOR4_SetY;
+// D3DVECTOR4_SetZ;
+// D3DVECTOR4_SetW;
+// D3DTag_Index;
+// D3DTagCollection_Set;
+// long get_bsp_index_from_cubemap_position(union real_point3d const *);
+// public: unsigned long c_cubemap_render_manager::get_currently_processing_bsps(void);
+// void local_swap_bytes(unsigned char &, unsigned char &);
+// void local_get_surface_pixel_16f(struct _D3DLOCKED_RECT const &, long, long, float *);
+// bool cubemap_dynamic_position_callback(long, union real_point3d *, float *);
+// public: void c_cubemap_render_manager::tick(void);
+// void cubemap_dynamic_generate(void);
+// public: c_cubemap_render_manager::c_cubemap_render_manager(void);

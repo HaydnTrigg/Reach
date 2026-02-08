@@ -1078,41 +1078,6 @@
 //    mangled_ppc("??$valid@H@?$s_static_array@Us_render_debug_deferred_entry_event@@$0IA@@@SA_NH@Z");
 //};
 
-//union real_point2d * set_real_point2d(union real_point2d *, float, float)
-//{
-//    mangled_ppc("?set_real_point2d@@YAPATreal_point2d@@PAT1@MM@Z");
-//};
-
-//union real_point2d * point_from_line2d(union real_point2d const *, union vector2d const *, float, union real_point2d *)
-//{
-//    mangled_ppc("?point_from_line2d@@YAPATreal_point2d@@PBT1@PBTvector2d@@MPAT1@@Z");
-//};
-
-//union real_point2d * midpoint2d(union real_point2d const *, union real_point2d const *, union real_point2d *)
-//{
-//    mangled_ppc("?midpoint2d@@YAPATreal_point2d@@PBT1@0PAT1@@Z");
-//};
-
-//union real_point3d * project_point2d(union real_point2d const *, struct plane3d const *, short, bool, union real_point3d *)
-//{
-//    mangled_ppc("?project_point2d@@YAPATreal_point3d@@PBTreal_point2d@@PBUplane3d@@F_NPAT1@@Z");
-//};
-
-//union real_point3d * midpoint3d(union real_point3d const *, union real_point3d const *, union real_point3d *)
-//{
-//    mangled_ppc("?midpoint3d@@YAPATreal_point3d@@PBT1@0PAT1@@Z");
-//};
-
-//float plane3d_distance_to_point(struct plane3d const *, union real_point3d const *)
-//{
-//    mangled_ppc("?plane3d_distance_to_point@@YAMPBUplane3d@@PBTreal_point3d@@@Z");
-//};
-
-//union real_point3d * rectangle3d_center(union real_rectangle3d const *, union real_point3d *)
-//{
-//    mangled_ppc("?rectangle3d_center@@YAPATreal_point3d@@PBTreal_rectangle3d@@PAT1@@Z");
-//};
-
 //public: t_restricted_allocation_manager<7, 0, 0, void (__tls_set_g_render_debug_globals_allocator::*)(void *)>::t_restricted_allocation_manager<7, 0, 0, void (__tls_set_g_render_debug_globals_allocator::*)(void *)>(void)
 //{
 //    mangled_ppc("??0?$t_restricted_allocation_manager@$06$0A@$0A@$1?__tls_set_g_render_debug_globals_allocator@@YAXPAX@Z@@QAA@XZ");
@@ -1177,4 +1142,3 @@
 //{
 //    mangled_ppc("??__Fg_render_debug_deferred_entries@@YAXXZ");
 //};
-

@@ -50,10 +50,12 @@
 // void editor_list_output_window_categories(void);
 // void editor_show_pregame_progress(enum e_main_pregame_frame, wchar_t const *);
 
-//bool game_in_editor(void)
-//{
-//    mangled_ppc("?game_in_editor@@YA_NXZ");
-//};
+bool game_in_editor(void)
+{
+    mangled_ppc("?game_in_editor@@YA_NXZ");
+
+    return false;
+};
 
 //bool game_in_editor_player_simulation(void)
 //{
@@ -194,4 +196,3 @@
 //{
 //    mangled_ppc("?editor_show_pregame_progress@@YAXW4e_main_pregame_frame@@PB_W@Z");
 //};
-

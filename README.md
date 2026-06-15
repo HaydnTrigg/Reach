@@ -7,7 +7,7 @@ Halo Reach
 [Code Progress]: https://decomp.dev/ChimpsAtSea/Reach.svg?mode=shield&measure=code&label=Code
 [Data Progress]: https://decomp.dev/ChimpsAtSea/Reach.svg?mode=shield&measure=data&label=Data
 [progress]: https://decomp.dev/ChimpsAtSea/Reach
-[Discord Badge]: https://img.shields.io/discord/727908905392275526?color=%237289DA&logo=discord&logoColor=%23FFFFFF
+[Discord Badge]: https://img.shields.io/badge/Discord-PC/Xbox%20Decompilation-blue?color=%237289DA&logo=discord&logoColor=%23FFFFFF
 [discord]: https://discord.gg/v3xcYgHvNZ
 
 A work-in-progress decompilation of Halo Reach.

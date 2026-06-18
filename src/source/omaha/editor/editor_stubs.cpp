@@ -71,11 +71,6 @@ bool editor_using_wpf_rendering(void)
     return false;
 };
 
-//bool editor_should_render_object(long)
-//{
-//    mangled_ppc("?editor_should_render_object@@YA_NJ@Z");
-//};
-
 //bool editor_should_render_transparent_geometry(void)
 //{
 //    mangled_ppc("?editor_should_render_transparent_geometry@@YA_NXZ");
@@ -200,3 +195,10 @@ bool editor_using_wpf_rendering(void)
 //{
 //    mangled_ppc("?editor_show_pregame_progress@@YAXW4e_main_pregame_frame@@PB_W@Z");
 //};
+bool editor_should_render_object(long)
+{
+    mangled_ppc("?editor_should_render_object@@YA_NJ@Z");
+
+    return true;
+};
+

@@ -10,6 +10,10 @@
 
 /* ---------- prototypes */
 
+extern short const k_hs_external_global_count;
+extern hs_global_external* hs_external_globals[];
+extern bool e3;
+
 /* ---------- globals */
 
 /* ---------- public code */

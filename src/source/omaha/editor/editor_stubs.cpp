@@ -1,6 +1,7 @@
 /* ---------- headers */
 
 #include "omaha\editor\editor_stubs.h"
+#include "omaha\scenario\scenario.h"
 
 /* ---------- constants */
 
@@ -71,130 +72,6 @@ bool editor_using_wpf_rendering(void)
     return false;
 };
 
-//bool editor_should_render_transparent_geometry(void)
-//{
-//    mangled_ppc("?editor_should_render_transparent_geometry@@YA_NXZ");
-//};
-
-//void editor_initialize(void)
-//{
-//    mangled_ppc("?editor_initialize@@YAXXZ");
-//};
-
-//void editor_dispose(void)
-//{
-//    mangled_ppc("?editor_dispose@@YAXXZ");
-//};
-
-//void editor_initialize_for_new_map(void)
-//{
-//    mangled_ppc("?editor_initialize_for_new_map@@YAXXZ");
-//};
-
-//void editor_dispose_from_old_map(void)
-//{
-//    mangled_ppc("?editor_dispose_from_old_map@@YAXXZ");
-//};
-
-//void editor_initialize_for_new_structure_bsp(unsigned long)
-//{
-//    mangled_ppc("?editor_initialize_for_new_structure_bsp@@YAXK@Z");
-//};
-
-//void editor_dispose_from_old_structure_bsp(unsigned long)
-//{
-//    mangled_ppc("?editor_dispose_from_old_structure_bsp@@YAXK@Z");
-//};
-
-//bool editor_switch_zone_set(long)
-//{
-//    mangled_ppc("?editor_switch_zone_set@@YA_NJ@Z");
-//};
-
-//void editor_update(void)
-//{
-//    mangled_ppc("?editor_update@@YAXXZ");
-//};
-
-//void editor_orphan_object(enum e_object_type, long)
-//{
-//    mangled_ppc("?editor_orphan_object@@YAXW4e_object_type@@J@Z");
-//};
-
-//void editor_register_new_object(enum e_object_type, long, long)
-//{
-//    mangled_ppc("?editor_register_new_object@@YAXW4e_object_type@@JJ@Z");
-//};
-
-//void editor_prepare_for_tag_reload(bool)
-//{
-//    mangled_ppc("?editor_prepare_for_tag_reload@@YAX_N@Z");
-//};
-
-//void editor_handle_tag_reload(bool)
-//{
-//    mangled_ppc("?editor_handle_tag_reload@@YAX_N@Z");
-//};
-
-//void editor_reset_script_referenced_blocks(void)
-//{
-//    mangled_ppc("?editor_reset_script_referenced_blocks@@YAXXZ");
-//};
-
-//void editor_register_script_referenced_block(struct s_tag_block *)
-//{
-//    mangled_ppc("?editor_register_script_referenced_block@@YAXPAUs_tag_block@@@Z");
-//};
-
-//void editor_flag_new(char const *, char const *, union real_point3d const *)
-//{
-//    mangled_ppc("?editor_flag_new@@YAXPBD0PBTreal_point3d@@@Z");
-//};
-
-//bool editor_should_resolve_block_references(struct s_tag_field const *)
-//{
-//    mangled_ppc("?editor_should_resolve_block_references@@YA_NPBUs_tag_field@@@Z");
-//};
-
-//bool editor_should_resolve_tag_reference(struct s_tag_field const *)
-//{
-//    mangled_ppc("?editor_should_resolve_tag_reference@@YA_NPBUs_tag_field@@@Z");
-//};
-
-//void editor_save_progress(void)
-//{
-//    mangled_ppc("?editor_save_progress@@YAXXZ");
-//};
-
-//void editor_get_cluster_color(struct s_cluster_reference const *, union argb_color *)
-//{
-//    mangled_ppc("?editor_get_cluster_color@@YAXPBUs_cluster_reference@@PATargb_color@@@Z");
-//};
-
-//bool editor_input_inhibited(void)
-//{
-//    mangled_ppc("?editor_input_inhibited@@YA_NXZ");
-//};
-
-//void editor_add_output_window_category(char const *)
-//{
-//    mangled_ppc("?editor_add_output_window_category@@YAXPBD@Z");
-//};
-
-//void editor_remove_output_window_category(char const *)
-//{
-//    mangled_ppc("?editor_remove_output_window_category@@YAXPBD@Z");
-//};
-
-//void editor_list_output_window_categories(void)
-//{
-//    mangled_ppc("?editor_list_output_window_categories@@YAXXZ");
-//};
-
-//void editor_show_pregame_progress(enum e_main_pregame_frame, wchar_t const *)
-//{
-//    mangled_ppc("?editor_show_pregame_progress@@YAXW4e_main_pregame_frame@@PB_W@Z");
-//};
 bool editor_should_render_object(long)
 {
     mangled_ppc("?editor_should_render_object@@YA_NJ@Z");
@@ -202,3 +79,179 @@ bool editor_should_render_object(long)
     return true;
 };
 
+bool editor_should_render_transparent_geometry(void)
+{
+    mangled_ppc("?editor_should_render_transparent_geometry@@YA_NXZ");
+
+    return false;
+};
+
+void editor_initialize(void)
+{
+    mangled_ppc("?editor_initialize@@YAXXZ");
+
+    // empty
+};
+
+void editor_dispose(void)
+{
+    mangled_ppc("?editor_dispose@@YAXXZ");
+
+    // empty
+};
+
+void editor_initialize_for_new_map(void)
+{
+    mangled_ppc("?editor_initialize_for_new_map@@YAXXZ");
+
+    // empty
+};
+
+void editor_dispose_from_old_map(void)
+{
+    mangled_ppc("?editor_dispose_from_old_map@@YAXXZ");
+
+    // empty
+};
+
+void editor_initialize_for_new_structure_bsp(unsigned long)
+{
+    mangled_ppc("?editor_initialize_for_new_structure_bsp@@YAXK@Z");
+
+    // empty
+};
+
+void editor_dispose_from_old_structure_bsp(unsigned long)
+{
+    mangled_ppc("?editor_dispose_from_old_structure_bsp@@YAXK@Z");
+
+    // empty
+};
+
+bool editor_switch_zone_set(long zone_set_index)
+{
+    mangled_ppc("?editor_switch_zone_set@@YA_NJ@Z");
+    
+    return scenario_switch_zone_set(zone_set_index);
+};
+
+void editor_update(void)
+{
+    mangled_ppc("?editor_update@@YAXXZ");
+
+    // empty
+};
+
+void editor_orphan_object(enum e_object_type, long)
+{
+    mangled_ppc("?editor_orphan_object@@YAXW4e_object_type@@J@Z");
+
+    // empty
+};
+
+void editor_register_new_object(enum e_object_type, long, long)
+{
+    mangled_ppc("?editor_register_new_object@@YAXW4e_object_type@@JJ@Z");
+
+    // empty
+};
+
+void editor_prepare_for_tag_reload(bool)
+{
+    mangled_ppc("?editor_prepare_for_tag_reload@@YAX_N@Z");
+
+    // empty
+};
+
+void editor_handle_tag_reload(bool)
+{
+    mangled_ppc("?editor_handle_tag_reload@@YAX_N@Z");
+
+    // empty
+};
+
+void editor_reset_script_referenced_blocks(void)
+{
+    mangled_ppc("?editor_reset_script_referenced_blocks@@YAXXZ");
+
+    // empty
+};
+
+void editor_register_script_referenced_block(struct s_tag_block *)
+{
+    mangled_ppc("?editor_register_script_referenced_block@@YAXPAUs_tag_block@@@Z");
+
+    // empty
+};
+
+void editor_flag_new(char const *, char const *, union real_point3d const *)
+{
+    mangled_ppc("?editor_flag_new@@YAXPBD0PBTreal_point3d@@@Z");
+
+    // empty
+};
+
+bool editor_should_resolve_block_references(struct s_tag_field const *)
+{
+    mangled_ppc("?editor_should_resolve_block_references@@YA_NPBUs_tag_field@@@Z");
+
+    return true;
+};
+
+bool editor_should_resolve_tag_reference(struct s_tag_field const *)
+{
+    mangled_ppc("?editor_should_resolve_tag_reference@@YA_NPBUs_tag_field@@@Z");
+
+    return true;
+};
+
+void editor_save_progress(void)
+{
+    mangled_ppc("?editor_save_progress@@YAXXZ");
+
+    // empty
+};
+
+void editor_get_cluster_color(struct s_cluster_reference const *, union argb_color *)
+{
+    mangled_ppc("?editor_get_cluster_color@@YAXPBUs_cluster_reference@@PATargb_color@@@Z");
+
+    // empty
+};
+
+bool editor_input_inhibited(void)
+{
+    mangled_ppc("?editor_input_inhibited@@YA_NXZ");
+
+    return true;
+};
+
+void editor_add_output_window_category(char const *)
+{
+    mangled_ppc("?editor_add_output_window_category@@YAXPBD@Z");
+
+    // empty
+};
+
+void editor_remove_output_window_category(char const *)
+{
+    mangled_ppc("?editor_remove_output_window_category@@YAXPBD@Z");
+
+    // empty
+};
+
+void editor_list_output_window_categories(void)
+{
+    mangled_ppc("?editor_list_output_window_categories@@YAXXZ");
+
+    // empty
+
+    // empty
+};
+
+void editor_show_pregame_progress(enum e_main_pregame_frame pregame_frame_type, wchar_t const * pregame_frame_text)
+{
+    mangled_ppc("?editor_show_pregame_progress@@YAXW4e_main_pregame_frame@@PB_W@Z");
+
+    // empty
+};
